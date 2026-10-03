@@ -72,7 +72,7 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **Time slot** | A fixed 12-hour window, for example 06:00–18:00. One entry only; no re-entry. Leave before your window ends or you pay extra. |
 | **2026 season** | Provisionally from 23 May to late October, depending on snow. |
 | **Loop walk** | About 9.5–10 km, 3–4 hours, easy to moderate. |
-| **Alternatives** | Walk up from Val Fiscalina near Sesto, from Misurina or from Lake Antorno, or use a shuttle bus (book ahead). |
+| **Alternatives** | Shuttle 444 from Dobbiaco station (2026: €22 round trip, reservation mandatory, last return about 18:08, guest passes not valid). Misurina shuttle (about €10 a day in 2026). Walk from Lake Antorno or Malga Rin Bianco (about 4 km, under 2 hours each way) or up Val Fiscalina from Sesto. See Chapter 10. |
 | **Overnight** | Vehicles can stay overnight with two consecutive slots; camping is not allowed. |
 | **Common mistake** | Arriving without a booking, or booking a slot and not leaving inside the window. |
 
