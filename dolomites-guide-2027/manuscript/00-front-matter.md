@@ -2,13 +2,13 @@
 
 **Plan, Book and Explore Italy's Dolomites: Reservations, Costs, Hikes, Itineraries, Maps and Local Tips**
 
-*[Author name]*
+**Dave Velaquez**
 
 ---
 
 ## Copyright and Notice
 
-Copyright © 2026 [Author name]. All rights reserved.
+Copyright © 2026 Dave Velaquez. All rights reserved.
 
 No part of this book may be reproduced without written permission, except for short quotations in a review.
 

@@ -96,7 +96,7 @@ Chapter 3 gives the access rules in detail. In short: in 2026, from 1 July to 15
 | **Best time** | Before 09:00 or after 16:00. September, after 15 September, has no car restrictions. |
 | **Crowd reality** | Very busy from mid-morning. |
 | **Difficulty** | Easy. |
-| **Photography** | Early morning light is calm. Check drone rules: flying is banned on private property and must stay at least 20 m high, without identifying people or structures. |
+| **Photography** | Early morning light is calm. Do not fly a drone: the lake lies in the Fanes-Sennes-Braies Nature Park, where drones are banned. |
 | **Common mistakes** | Driving up at 10:00. Underestimating how crowded the lake path is at midday. |
 | **Drawbacks** | Crowds and fees. |
 

@@ -20,7 +20,9 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Ch 10 Tre Cime, Sesto, Braies, Pusteria | Drafted and proofread |
 | Ch 11 Val di Fassa, Catinaccio, Marmolada | Drafted and proofread |
 | Ch 12 Plan de Corones, Brixen, Bolzano | Drafted and proofread |
-| Ch 13–15 Activities and winter | Not started |
+| Ch 13 Hiking and Mountain Huts | Drafted and proofread |
+| Ch 14 Via Ferrata, Cycling, Adventures | Drafted and proofread |
+| Ch 15 Winter in the Dolomites | Drafted and proofread (2026/27 prices are aggregator-sourced; verify) |
 | Ch 16–17 Food, culture | Not started |
 | Ch 18 Itineraries | Not started |
 | Ch 19 Safety and practical | Not started |
@@ -39,7 +41,7 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 
 ## Open research gaps
 
-- Official 2026/27 Dolomiti Superski dates and prices
+- Official 2026/27 Dolomiti Superski dates and prices (official site blocks automated access)
 - Reliable monthly weather data
 - Official Südtirol Mobilcard price page
 - Via ferrata list and grades; Alta Via 1 stages

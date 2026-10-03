@@ -61,7 +61,7 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 
 ## 2. The Sella Ronda by bike
 
-- **Distance:** about 57 to 60 km, with about 1,000 m of climbing.
+- **Distance:** the mountain-bike route is about 57 to 60 km, with about 1,000 m of climbing. The road route used on Bike Day is about 53 km with about 1,600 m of climbing.
 - **Time:** 6 to 9 hours on a mountain bike or e-bike, including a lunch stop. Guided tours using lifts were about 6 to 7 hours.
 - **Who it suits:** fit cyclists, and e-bike riders of moderate fitness.
 - **Best day:** Sellaronda Bike Day (the roads are closed to motor traffic), or a weekday morning.

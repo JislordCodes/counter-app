@@ -52,7 +52,7 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **Typical visit** | 1 to 2 hours for the lake walk, which is about an hour at an easy pace. Longer with a boat or hut stop. |
 | **Boats (2026)** | €55 for 45 minutes (private, up to 5), or about €20 per person shared. Opening hours about 08:00–19:00. |
 | **Crowd reality** | Very busy from mid-morning. Arriving before 09:00 or after 16:00 is the best way to avoid the worst. |
-| **Drones** | Restricted. Do not fly on private property; follow the rules on height and privacy. |
+| **Drones** | Banned. The lake lies in the Fanes-Sennes-Braies Nature Park, where drone flights have been banned since 2023 (Chapter 17). |
 | **Common mistake** | Driving up at 10:00 without a reservation and being turned back. |
 
 **The options, ranked by effort:**

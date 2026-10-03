@@ -136,6 +136,7 @@ It is also one of the busiest areas, and it has more access rules than any other
 |---|---|---|---|
 | Seceda ridge | Easy | 30–45 min | Seceda lift station |
 | Compatsch to Saltria | Easy | About 2 hours | Compatsch |
+| Adolf Munkel Weg (Val di Funes) | Easy | 3–4 hours, 5–7 km | Val di Funes. A loop under the Odle peaks, with Geisler Alm hut |
 | Col Raiser to Seceda loop | Moderate | About 4 hours | Col Raiser lift |
 | Sciliar (Schlern) | Moderate to hard | Full day | Alpe di Siusi cable car |
 | Sassolungo circuit | Moderate to hard | 6–8 hours | Passo Sella |
@@ -155,7 +156,7 @@ See Chapter 6. For a first visit, **Ortisei** (lifts, restaurants, buses) or **S
 - **Seceda.** Afternoon light on the Odle. Walk past the first crowd.
 - **Alpe di Siusi.** Late afternoon and evening light on the Sassolungo and Sciliar.
 - **Santa Maddalena.** Early morning or late afternoon, within the access rules. Stay out of private fields.
-- **Drones.** Rules are strict in protected areas. Check the local rules and the nature park before flying.
+- **Drones.** Seceda lies in the Puez-Odle Nature Park, where drone flights are banned. See Chapter 17.
 
 ## Rainy-day options
 
