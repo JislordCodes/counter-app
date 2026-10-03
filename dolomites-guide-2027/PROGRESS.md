@@ -14,7 +14,12 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Ch 4 Getting There and Around | Drafted and proofread |
 | Ch 5 What It Really Costs | Drafted and proofread (budget figures are estimates) |
 | Ch 6 Where to Stay | Drafted and proofread |
-| Ch 7–12 Regions | Not started |
+| Ch 7 Val Gardena and Alpe di Siusi | Drafted and proofread |
+| Ch 8 Alta Badia, Sella Ronda, Passes | Drafted and proofread |
+| Ch 9 Cortina and Its Mountains | Drafted and proofread |
+| Ch 10 Tre Cime, Sesto, Braies, Pusteria | Drafted and proofread |
+| Ch 11 Val di Fassa, Catinaccio, Marmolada | Drafted and proofread |
+| Ch 12 Plan de Corones, Brixen, Bolzano | Drafted and proofread |
 | Ch 13–15 Activities and winter | Not started |
 | Ch 16–17 Food, culture | Not started |
 | Ch 18 Itineraries | Not started |
