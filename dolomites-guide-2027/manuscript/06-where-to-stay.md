@@ -31,7 +31,7 @@ This chapter explains how to choose, compares the main bases, and tells you what
 
 ### Ortisei, Santa Cristina and Selva (Val Gardena)
 
-- **Why choose it.** This is the easiest base for first-time visitors. Lifts, restaurants and buses are all within walking distance. Seceda starts in Ortisei. Alpe di Siusi is reachable by lift from Ortisei. Selva is close to Sassolungo and the Sella passes.
+- **Why choose it.** This is the easiest base for first-time visitors. Lifts, restaurants and buses are all within walking distance. Seceda starts in Ortisei. The Alpe di Siusi is within reach by lift or bus (check current links). Selva is close to Sassolungo and the Sella passes.
 - **Who it suits.** First-timers, couples, families, skiers and car-free visitors.
 - **Parking.** Many hotels include a space. Public parking in Ortisei is limited and fills early in peak weeks.
 - **Drawbacks.** Busy in July, August and winter holidays. Prices are above average.
