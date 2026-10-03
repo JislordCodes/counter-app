@@ -78,3 +78,13 @@ Confidence key: **OFFICIAL** = fetched from an official or operator page. **SECO
 5. Via ferrata list with grades; cycling pass data; Alta Via 1 stages.
 6. Mobile coverage and eSIM advice; drone and nature-park rules; Italian driving rules (ZTL, winter tyres).
 7. Bolzano museum prices and hours (Ötzi); Christmas markets dates 2026 as proxy.
+
+## Added 3 Oct 2026 (second pass)
+
+| Item | Fact | Confidence | Source |
+|---|---|---|---|
+| EES | Phased in from 12 Oct 2025; fully operational from 10 Apr 2026. First crossing: fingerprints and face photo at kiosk or booth. Applies to non-EU/non-Schengen short-stay visitors (90 days in 180). Nothing to do before travel. | SECONDARY (cites French diplomatic site) | https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/ees-le-nouveau-systeme-europeen-de-gestion-des-frontieres-entre-en-service-le-10-avril-2026 |
+| ETIAS | EU-facing sources say "from last quarter of 2026"; other sources say delayed to early 2027 after a soft launch. Not a visa; similar to ESTA. Official EU page fetch returned no usable text. | **VERIFY** at https://travel-europe.europa.eu | same as before |
+| Sella Ronda pass closures | 2026: Sella, Gardena, Pordoi and Campolongo closed to cars and motorbikes 08:30–16:00 on Sellaronda Bike Day (6 Jun and 12 Sep 2026). Falzarego, Valparola, Campolongo closed to motor traffic 08:30–14:30 on 20 Jun 2026 (bike event). 2027 second date not confirmed. | SECONDARY | https://www.arabba.it/en/info-events/events-news/sellaronda-bike-day-2026-on-12-september-cycle-across-the-dolomites-iconic-mountain-passes/114-202360.html |
+| Gardena Pass traffic | A planned through-traffic ban was dropped; a purely digital test phase begins 1 Sep 2026. 2027 status unknown. | SECONDARY | https://www.motorcycles.news/en/gardena-pass-test-phase-september-2026/ |
+| Motorcycle events | On 19 Jun 2026 South Tyrol adopted rules banning organised motorcycle events on passes above 1,600 m in protected areas (incl. Gardena, Sella, Karerpass). Regular private riding still allowed. | SECONDARY | https://calimoto.com/en/blog/article/motorcycle-south-tyrol-rules |
