@@ -267,5 +267,20 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "The Cinque Torri rock towers on their grassy ridge, with the Tofane group on the left."
+ },
+ "C09c": {
+  "idx": 1,
+  "aspect": 1.25,
+  "ax": 0.5,
+  "ay": 0.3,
+  "caption": "A Great War tunnel entrance on Lagazuoi, with a log ladder fixed beside the path."
+ },
+ "C17b": {
+  "idx": 6,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C09c",
+  "caption": "A timber-lined room inside the Lagazuoi tunnels."
  }
 }
