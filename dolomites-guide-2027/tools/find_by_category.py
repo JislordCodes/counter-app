@@ -53,7 +53,7 @@ def rank(c, slot):
 
 def run(sid, q=None):
     slot = BYID[sid]
-    qs = [q] if q else slot["queries"][:2]
+    qs = q.split("|") if q else slot["queries"][:2]
     cats = []
     for qq in qs:
         for c in find_categories(qq):
