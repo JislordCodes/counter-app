@@ -1,6 +1,6 @@
 # Dolomites Travel Guide 2027
 
-**Plan, Book and Explore Italy's Dolomites: Reservations, Costs, Hikes, Itineraries, Maps and Local Tips**
+**Plan Your Trip to Italy's Dolomites: Reservations, Costs, Hikes, Itineraries and Maps**
 
 **Dave Velaquez**
 

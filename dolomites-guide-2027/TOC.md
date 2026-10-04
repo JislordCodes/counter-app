@@ -1,6 +1,6 @@
 # DOLOMITES TRAVEL GUIDE 2027
 
-**Working subtitle:** Plan, Book and Explore Italy's Dolomites: Reservations, Costs, Hikes, Itineraries, Maps and Local Tips
+**Subtitle:** Plan Your Trip to Italy's Dolomites: Reservations, Costs, Hikes, Itineraries and Maps
 
 **Format:** 6 × 9 in paperback and Kindle ebook. Black-and-white interior, colour cover.
 **Target length:** about 150–170 printed pages, about 42,000 words, plus 18 maps and 12 photos.

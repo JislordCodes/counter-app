@@ -170,10 +170,15 @@ Italian letters A (easy) to D (extremely difficult), and the K-scale (K1 to K6).
 
 # About the Author
 
-*[Write your own short bio here. A good author note says who you are, why you know the Dolomites, and how many times you have visited. Only include experience you have really had.]*
+*[DRAFT BIO. This is a placeholder. Replace the bracketed parts with true details before publishing, and delete anything that is not true.]*
+
+Dave Velaquez writes practical travel guides for people who want to plan a trip once and plan it well. He is based in [your city or country]. His guides turn official timetables, booking rules and price lists into clear steps, so readers can see what to book, what it costs and what to skip.
+
+He first visited the Dolomites in [year] and has since returned [number] times in [seasons]. When he is not writing, he enjoys [hobbies, for example hiking, photography or cooking].
+
+Dave updates this guide each season. Corrections and reader questions are welcome at [your email address or update page].
 
 **Dave Velaquez**
-
 ---
 
 # A Request
