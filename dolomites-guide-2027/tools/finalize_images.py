@@ -17,7 +17,7 @@ os.makedirs(os.path.join(IMG, "print"), exist_ok=True)
 os.makedirs(os.path.join(IMG, "ebook"), exist_ok=True)
 
 
-def thumb_url(title, width=2400):
+def thumb_url(title, width=1920):
     params = dict(action="query", titles=title, prop="imageinfo", iiprop="url|size", iiurlwidth=str(width), format="json")
     d = json.loads(get(API + "?" + urllib.parse.urlencode(params)))
     ii = list(d["query"]["pages"].values())[0]["imageinfo"][0]
@@ -43,9 +43,9 @@ def make(slot, spec):
     base = slot
     fn = os.path.join(IMG, "original", base + ".jpg")
     if not os.path.exists(fn):
-        url, w, h = thumb_url(cand["title"], 2600)
+        url, w, h = thumb_url(cand["title"], 1920)
         open(fn, "wb").write(get(url))
-        time.sleep(1.5)
+        time.sleep(6.0)
     im = Image.open(fn).convert("RGB")
     im = crop(im, spec.get("aspect"), spec.get("ax", 0.5), spec.get("ay", 0.5))
     # print version: greyscale, 300 dpi at 5.5 in (or half width)
