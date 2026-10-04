@@ -40,13 +40,16 @@ Almost every place has two or three names. Road signs show them together, but ma
 | Val Gardena | Gröden | Gherdëina |
 | Alpe di Siusi | Seiser Alm | Mont Sëuc |
 | Lago di Braies | Pragser Wildsee | Lec de Braies |
-| Tre Cime di Lavaredo | Drei Zinnen | |
-| Bolzano | Bozen | |
-| Bressanone | Brixen | |
-| Dobbiaco | Toblach | |
-| San Candido | Innichen | |
 
-<!-- PRODUCTION NOTE: verify Ladin names against a local official source before final upload. -->
+Other places you will meet under two names:
+
+| Italian | German |
+|---|---|
+| Tre Cime di Lavaredo | Drei Zinnen |
+| Bolzano | Bozen |
+| Bressanone | Brixen |
+| Dobbiaco | Toblach |
+| San Candido | Innichen |
 
 **Tip:** Save both the Italian and German names of your destinations in your phone. When a booking page or bus timetable gives only one, you will still recognise it.
 

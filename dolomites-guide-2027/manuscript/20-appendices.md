@@ -98,36 +98,36 @@ Websites change. If a link does not work, search the name of the operator plus t
 
 # Appendix D: 2027 Pre-Trip Checklist
 
-### 9 to 12 months before
+## 9 to 12 months before
 - Choose your dates and base (Chapters 2 and 6).
 - Book hotels for July, August, Christmas and February.
 - Check ETIAS and passport rules.
 
-### 6 to 9 months before
+## 6 to 9 months before
 - Book flights, trains and the rental car.
 - Decide on huts and start your booking plan (Chapter 13).
 - Buy travel insurance that covers mountain rescue.
 
-### October 2026 to March 2027
+## October 2026 to March 2027
 - Request hut reservations as they open.
 - Check event dates (Sellaronda Bike Day, Maratona).
 
-### Spring 2027
+## Spring 2027
 - Confirm lift and pass dates and prices (Appendix A).
 - Buy lift passes if your plan is fixed.
 - Consider TBE vaccination if you will spend a lot of time outdoors.
 
-### 30 days before
+## 30 days before
 - Book the Tre Cime access.
 - Book Braies parking or buses when they open.
 - Book Seceda lifts.
 
-### 1 week before
+## 1 week before
 - Reserve Alpe di Siusi parking if you will drive.
 - Download offline maps and the Where ARE U app.
 - Check the forecast and lift status.
 
-### The day before
+## The day before
 - Choose your hike. Check the last lift and bus times.
 - Pack your day bag. Carry cash.
 
@@ -135,7 +135,7 @@ Websites change. If a link does not work, search the name of the operator plus t
 
 # Appendix E: Hike Difficulty Scale and Trail Symbols
 
-### The scale used in this book
+## The scale used in this book
 
 | Level | Meaning |
 |---|---|
@@ -143,7 +143,7 @@ Websites change. If a link does not work, search the name of the operator plus t
 | **Moderate** | Longer, with real climbing and rough ground |
 | **Hard** | Long days, steep or exposed sections, cables or ladders |
 
-### Italian grades
+## Italian grades
 
 | Grade | Meaning |
 |---|---|
@@ -152,11 +152,11 @@ Websites change. If a link does not work, search the name of the operator plus t
 | **EE** | Steeper, rougher or more exposed; sure-footedness required |
 | **EEA** | Via ferrata or protected route; harness, helmet and lanyard required |
 
-### Trail markings
+## Trail markings
 
 Paths are marked with red and white stripes and a number. A signpost at each junction shows the number. In South Tyrol, a uniform marking system was approved in 2019.
 
-### Via ferrata grades
+## Via ferrata grades
 
 Italian letters A (easy) to D (extremely difficult), and the K-scale (K1 to K6). Beginners should stay on A or B (K1 or K2).
 
@@ -334,13 +334,9 @@ Italy has no general freedom-of-panorama rule for modern buildings and artworks,
 
 # About the Author
 
-*[DRAFT BIO. This is a placeholder. Replace the bracketed parts with true details before publishing, and delete anything that is not true.]*
+Dave Velaquez writes practical travel guides for people who want to plan a trip once and plan it well. The method is simple: start from the official timetables, booking rules and price lists, and turn them into clear steps, so readers can see what to book, what it costs and what to skip.
 
-Dave Velaquez writes practical travel guides for people who want to plan a trip once and plan it well. Dave is based in [your city or country]. These guides turn official timetables, booking rules and price lists into clear steps, so readers can see what to book, what it costs and what to skip.
-
-Dave first visited the Dolomites in [year] and has returned [number] times, in [seasons]. Away from the keyboard, Dave enjoys [hobbies, for example hiking, photography or cooking].
-
-This guide is updated each season. Corrections and reader questions are welcome at [your email address or update page].
+The Dolomites reward preparation. This guide was written to take the guesswork out of it, from the first reservation to the last descent.
 
 **Dave Velaquez**
 
@@ -348,6 +344,4 @@ This guide is updated each season. Corrections and reader questions are welcome 
 
 # A Request
 
-Thank you for reading. If this guide helped you plan your trip, please consider leaving a short, honest review on Amazon. Reviews help other travellers find the book and help the author keep it up to date.
-
-For free 2027 updates and corrections, visit [update page address].
+Thank you for reading. If this guide helped you plan your trip, please consider leaving a short, honest review on Amazon. Reviews help other travellers find the book. If something has changed since this edition was written, please say so in your review, so that other readers know to check it.

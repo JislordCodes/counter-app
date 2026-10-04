@@ -3,3 +3,6 @@ images/thumbs/
 images/sheets/
 images/original/
 __pycache__/
+build/*.typ
+dist/draft-*
+images/cover/preview*

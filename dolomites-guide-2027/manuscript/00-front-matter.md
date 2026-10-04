@@ -34,7 +34,7 @@ This book is built to help you make decisions. It is not a catalogue of pretty p
 
 **2026 prices.** Prices marked "2026" show the likely level in 2027. They are not promises.
 
-**Free updates.** Rules change quickly. Visit [update page address] or scan the code on the back page for the latest 2027 changes.
+**Check before you go.** Rules change quickly. Appendix C lists the official websites to check before you book or travel.
 
 ---
 
