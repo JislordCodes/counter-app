@@ -5,3 +5,4 @@ C13a=Wandern Dolomiten|Alta Via 2 Dolomiten|Sentiero delle Dolomiti
 C13c=Segnavia CAI|Sentiero CAI segnavia rosso bianco
 C13d=Alta Via 1 Dolomiti Fanes|Rifugio Pian de Fontana|Alta Via Dolomiti Nuvolau
 C14b=Cycling in South Tyrol|Road cycling in the Dolomites|Maratona dles Dolomites
+C14c=Kronplatz Bike|Mountainbike Südtirol|Mountain biking in Italy
