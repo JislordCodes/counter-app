@@ -246,5 +246,12 @@
   "ay": 0.5,
   "src": "C06c",
   "caption": "The mountains above the Alta Badia villages, seen from the slopes between Colfosco and Corvara."
+ },
+ "C08g": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Ciastel de Tor (Schloss Thurn) at San Martino in Badia, home of the Ladin museum."
  }
 }
