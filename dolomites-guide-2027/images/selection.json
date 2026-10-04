@@ -238,5 +238,13 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "The Brigata Tridentina via ferrata. The red line shows the route up the cliff, and the suspension bridge (Ponte Tibetano) is marked near the top."
+ },
+ "C08e": {
+  "idx": 2,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C06c",
+  "caption": "The mountains above the Alta Badia villages, seen from the slopes between Colfosco and Corvara."
  }
 }
