@@ -169,12 +169,11 @@
   "caption": "The Tre Cime di Lavaredo at sunrise, with low cloud around the base."
  },
  "C10b": {
-  "idx": 6,
-  "aspect": 1.7,
+  "idx": 3,
+  "aspect": 1.5,
   "ax": 0.5,
   "ay": 0.5,
-  "caption": "Rifugio Locatelli, with the Tre Cime rising behind it.",
-  "src": "C10a"
+  "caption": "Rifugio Locatelli (Dreizinnenhütte), the hut at the far side of the Tre Cime loop."
  },
  "C10d": {
   "idx": 0,
