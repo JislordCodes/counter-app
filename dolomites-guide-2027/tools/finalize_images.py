@@ -42,9 +42,18 @@ def make(slot, spec):
     cand = json.load(open(os.path.join(IMG, "candidates", spec.get("src", slot.split("#")[0]) + ".json")))[spec["idx"]]
     base = slot
     fn = os.path.join(IMG, "original", base + ".jpg")
+    if os.path.exists(fn):
+        try:
+            Image.open(fn).verify()
+        except Exception:
+            os.remove(fn)  # half-written or error page: fetch again
     if not os.path.exists(fn):
         url, w, h = thumb_url(cand["title"], 1920)
-        open(fn, "wb").write(get(url))
+        data = get(url)
+        tmp = fn + ".part"
+        open(tmp, "wb").write(data)
+        Image.open(tmp).verify()
+        os.replace(tmp, fn)
         time.sleep(6.0)
     im = Image.open(fn).convert("RGB")
     im = crop(im, spec.get("aspect"), spec.get("ax", 0.5), spec.get("ay", 0.5))
