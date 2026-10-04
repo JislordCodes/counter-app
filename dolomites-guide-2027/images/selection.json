@@ -323,5 +323,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Lago di Braies, with the mountain walls reflected in the water."
+ },
+ "C11b": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Catinaccio (Rosengarten) group above a hay hut in the Tiers valley, seen from the north side."
  }
 }
