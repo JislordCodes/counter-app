@@ -11,3 +11,4 @@ C14e=Pustertaler Radweg|Radweg Südtirol
 C15c=Christkindlmarkt Bozen|Weihnachtsmarkt Brixen|Mercatino di Natale Bolzano
 C15d=Rodeln|Sledding Südtirol|Rodelbahn
 C17a=Cinque Torri|Museo all'aperto 5 Torri|Cinque Torri trenches
+C17f=Leontopodium alpinum|Gentiana acaulis|Alpine flowers Dolomites
