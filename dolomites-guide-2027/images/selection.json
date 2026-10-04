@@ -443,5 +443,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "A Brettljause board: Speck, mountain cheese, Kaminwurz sausage and Vinschgerl bread."
+ },
+ "C16c": {
+  "idx": 1,
+  "aspect": 1.35,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Apfelstrudel (apple strudel), served with vanilla ice cream and cream."
  }
 }
