@@ -471,5 +471,13 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Schlutzkrapfen, half-moon ravioli served with butter and herbs."
+ },
+ "C17c": {
+  "idx": 5,
+  "aspect": 1.6,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C07b",
+  "caption": "Evening light turning the Sassolungo and Sassopiatto rock walls orange, the effect known as enrosadira."
  }
 }
