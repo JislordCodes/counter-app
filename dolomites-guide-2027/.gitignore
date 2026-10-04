@@ -13,3 +13,5 @@ build/docx_img_*/
 build/epub_img/
 build/book-*.typ
 build/make_all.log
+images/print_small/
+dist/final-small.pdf

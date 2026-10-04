@@ -22,7 +22,7 @@ Generated 2026-10-04 by `tools/bookbuild/make_all.py`.
 - Layout problems found by the checker: 0
 - Orphaned headings: 0
 - Fonts (all embedded): EBGaramond-Italic, EBGaramond-Regular, EBGaramond-SemiBold, PlayfairDisplay-Black, PlayfairDisplay-Bold, PlayfairDisplay-BoldItalic, PlayfairDisplay-Italic, PlayfairDisplay-Regular, SourceSans3-Bold, SourceSans3-Italic, SourceSans3-Regular, SourceSans3-SemiBold
-- Images placed: 95 (greyscale, about 365 dpi at printed size)
+- Images placed: 95 (greyscale; the upload copy has photos at about 255 dpi and maps at about 290 dpi at printed size; `..._FullRes.pdf` is the same book at about 365 dpi, 59.5 MB)
 
 ## Paperback cover
 
