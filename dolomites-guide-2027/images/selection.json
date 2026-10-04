@@ -503,5 +503,13 @@
   "ay": 0.5,
   "src": "C09c",
   "caption": "Dark storm clouds over a Dolomites ridge. Afternoon thunderstorms are common in July and August, so start early."
+ },
+ "C02a": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C07c",
+  "caption": "Golden larches below the Sassolungo in late autumn, with the first snow on the peaks."
  }
 }
