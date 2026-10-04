@@ -436,5 +436,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Bread dumplings (Knödel, or canederli in Italian) served with roast veal and sauce."
+ },
+ "C16b": {
+  "idx": 0,
+  "aspect": 1.3,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "A Brettljause board: Speck, mountain cheese, Kaminwurz sausage and Vinschgerl bread."
  }
 }
