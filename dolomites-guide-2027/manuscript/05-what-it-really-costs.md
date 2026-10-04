@@ -42,6 +42,12 @@ This chapter shows realistic daily budgets for three types of traveller, explain
 
 ## Food and drink
 
+<!-- FIG:C05a -->
+![Figure 5.1. Rifugio Auronzo at 2,333 m, reached by the Tre Cime toll road.](../images/print/C05a.jpg)
+
+*Figure 5.1. Rifugio Auronzo at 2,333 m, reached by the Tre Cime toll road.*
+<!-- /FIG -->
+
 | Item | Typical price |
 |---|---|
 | Cappuccino | about €2.20 on average in Bolzano, up to €2.50 (more on mountain terraces) |

@@ -30,6 +30,12 @@ Use more than one source. The links are in Appendix C.
 
 ### Thunderstorm rules
 
+<!-- FIG:C19b -->
+![Figure 19.1. Dark storm clouds over a Dolomites ridge. Afternoon thunderstorms are common in July and August, so start early.](../images/print/C19b.jpg)
+
+*Figure 19.1. Dark storm clouds over a Dolomites ridge. Afternoon thunderstorms are common in July and August, so start early.*
+<!-- /FIG -->
+
 Afternoon thunderstorms are common in July and August. They can build quickly, bringing heavy rain, hail and lightning.
 
 - **Leave ridges, summits and exposed places** at the first sign of building clouds or distant thunder.
@@ -38,6 +44,12 @@ Afternoon thunderstorms are common in July and August. They can build quickly, b
 - **Do not wait to see if it passes.** Plan to be low or in shelter before the afternoon.
 
 ## Emergencies
+
+<!-- FIG:C19a -->
+![Figure 19.2. An Aiut Alpin Dolomites rescue helicopter in flight. For any emergency in the mountains, call 112.](../images/print/C19a.jpg)
+
+*Figure 19.2. An Aiut Alpin Dolomites rescue helicopter in flight. For any emergency in the mountains, call 112.*
+<!-- /FIG -->
 
 | Need | What to do |
 |---|---|

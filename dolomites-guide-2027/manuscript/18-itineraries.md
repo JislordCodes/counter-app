@@ -71,6 +71,12 @@ These plans are built from the facts in the earlier chapters: lift hours, bookin
 
 ## 2. Five days: Val Gardena and Cortina (car recommended)
 
+<!-- FIG:I05 -->
+![Figure 18.1. Five-day route: Ortisei, Passo Gardena, Cortina (solid), Tre Cime (dashed) and Lago di Braies (dotted).](../images/print/I05.png)
+
+*Figure 18.1. Five-day route: Ortisei, Passo Gardena, Cortina (solid), Tre Cime (dashed) and Lago di Braies (dotted).*
+<!-- /FIG -->
+
 **Bases:** Ortisei (2 nights), Cortina (3 nights). **Lifts and entry (2026 prices):** Seceda €74, Alpe di Siusi cable car about €30, Lagazuoi cable car €29.50, Cinque Torri chairlift about €15, Tre Cime access €10 (bus) or €40 (car).
 
 ### Day 1: Seceda (Ortisei)
@@ -135,6 +141,12 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 
 ## 3. Seven days: three bases
 
+<!-- FIG:I07 -->
+![Figure 18.2. Seven-day route: Val Gardena, the passes to Cortina, then Dobbiaco and Sesto.](../images/print/I07.png)
+
+*Figure 18.2. Seven-day route: Val Gardena, the passes to Cortina, then Dobbiaco and Sesto.*
+<!-- /FIG -->
+
 **Bases:** Ortisei (3 nights), Cortina (2 nights), Sesto or Dobbiaco (2 nights).
 
 | Day | Plan | Backup |
@@ -157,6 +169,12 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 ---
 
 ## 4. Ten days: the Dolomites highlights
+
+<!-- FIG:I10 -->
+![Figure 18.3. Ten-day route: Bolzano, Ortisei, Canazei, Cortina and Sesto.](../images/print/I10.png)
+
+*Figure 18.3. Ten-day route: Bolzano, Ortisei, Canazei, Cortina and Sesto.*
+<!-- /FIG -->
 
 **Bases:** Bolzano (1 night), Ortisei (3), Val di Fassa (2), Cortina (2), Sesto (2).
 

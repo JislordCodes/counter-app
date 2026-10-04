@@ -8,6 +8,12 @@ This chapter explains how the pass works, which resort suits which skier, how to
 
 ## Dolomiti Superski explained
 
+<!-- FIG:C15a -->
+![Figure 15.1. The Saslong run in Val Gardena, with the snow-covered Dolomites behind.](../images/print/C15a.jpg)
+
+*Figure 15.1. The Saslong run in Val Gardena, with the snow-covered Dolomites behind.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **What it is** | A group of 12 ski areas linked by one pass. |
@@ -54,6 +60,12 @@ This chapter explains how the pass works, which resort suits which skier, how to
 
 ## The Sella Ronda ski circuit
 
+<!-- FIG:C15b -->
+![Figure 15.2. Sellaronda signs. Orange marks the clockwise direction and green the counter-clockwise one.](../images/print/C15b.jpg)
+
+*Figure 15.2. Sellaronda signs. Orange marks the clockwise direction and green the counter-clockwise one.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A ski circuit around the Sella massif over four passes, linking Val Gardena, Alta Badia, Arabba and Val di Fassa. |
@@ -69,6 +81,12 @@ This chapter explains how the pass works, which resort suits which skier, how to
 
 ## Cortina after the Olympics
 
+<!-- FIG:C15e -->
+![Figure 15.3. The Olimpia delle Tofane ski race course above Cortina, seen in summer as a cleared strip on the slope.](../images/print/C15e.jpg)
+
+*Figure 15.3. The Olimpia delle Tofane ski race course above Cortina, seen in summer as a cleared strip on the slope.*
+<!-- /FIG -->
+
 - **Season.** Reported to open on 30 November 2026.
 - **Prices.** An adult day ticket was reported at €80 in the main season for 2026/27, with 120 km of slopes and 25 lifts.
 - **New lifts.** A new gondola linking the Tofane and Cinque Torri areas was planned. Check whether it is open before you rely on it. A related Olympic cable-car project was under investigation in 2026.
@@ -81,6 +99,12 @@ This chapter explains how the pass works, which resort suits which skier, how to
 - **Rental.** Prices were not available in the sources checked. Book online in advance for peak weeks, and compare shops near the lifts.
 
 ## For non-skiers
+
+<!-- FIG:C15c -->
+![Figure 15.4. The Christmas market (Christkindlmarkt) in Bolzano, with stalls under red-and-white awnings.](../images/print/C15c.jpg)
+
+*Figure 15.4. The Christmas market (Christkindlmarkt) in Bolzano, with stalls under red-and-white awnings.*
+<!-- /FIG -->
 
 | Activity | Where | Notes |
 |---|---|---|

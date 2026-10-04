@@ -31,6 +31,12 @@ This chapter explains how to choose, compares the main bases, and tells you what
 
 ### Ortisei, Santa Cristina and Selva (Val Gardena)
 
+<!-- FIG:C06a -->
+![Figure 6.1. Ortisei (Urtijëi) seen from Col de Flam, with the Seceda mountain in the background.](../images/print/C06a.jpg)
+
+*Figure 6.1. Ortisei (Urtijëi) seen from Col de Flam, with the Seceda mountain in the background.*
+<!-- /FIG -->
+
 - **Why choose it.** This is the easiest base for first-time visitors. Lifts, restaurants and buses are all within walking distance. Seceda starts in Ortisei. The Alpe di Siusi is within reach by lift or bus (check current links). Selva is close to Sassolungo and the Sella passes.
 - **Who it suits.** First-timers, couples, families, skiers and car-free visitors.
 - **Parking.** Many hotels include a space. Public parking in Ortisei is limited and fills early in peak weeks.
@@ -44,6 +50,12 @@ This chapter explains how to choose, compares the main bases, and tells you what
 - **Drawbacks.** Fewer evening options. Fewer bus links to other valleys. Rules on cars (Chapter 3).
 
 ### Alta Badia: Corvara, Colfosco, La Villa, San Cassiano
+
+<!-- FIG:C06c -->
+![Figure 6.2. The view from Forcelles, between Colfosco and Corvara in Alta Badia, with the mountains beyond.](../images/print/C06c.jpg)
+
+*Figure 6.2. The view from Forcelles, between Colfosco and Corvara in Alta Badia, with the mountains beyond.*
+<!-- /FIG -->
 
 - **Why choose it.** It sits at the crossroads of the Sella Ronda, the Gardena, Campolongo and Falzarego roads. It is also known for fine dining.
 - **Who it suits.** Cyclists, drivers, food lovers, and skiers.
@@ -84,6 +96,12 @@ This chapter explains how to choose, compares the main bases, and tells you what
 - **Who it suits.** Cyclists, culture fans and winter skiers.
 
 ## Types of accommodation
+
+<!-- FIG:C06b -->
+![Figure 6.3. A traditional farmhouse at Col de Flam in Ortisei (Urtijëi).](../images/print/C06b.jpg)
+
+*Figure 6.3. A traditional farmhouse at Col de Flam in Ortisei (Urtijëi).*
+<!-- /FIG -->
 
 | Type | What it is | Typical use | Notes |
 |---|---|---|---|

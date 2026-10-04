@@ -1,0 +1,382 @@
+[
+ [
+  "Figure 1.1",
+  "C01a"
+ ],
+ [
+  "Figure 1.2",
+  "C01b"
+ ],
+ [
+  "Figure 1.3",
+  "M01"
+ ],
+ [
+  "Figure 2.1",
+  "C02s"
+ ],
+ [
+  "Figure 2.2",
+  "C02m"
+ ],
+ [
+  "Figure 2.3",
+  "C02a"
+ ],
+ [
+  "Figure 2.4",
+  "C02w"
+ ],
+ [
+  "Figure 2.5",
+  "C02p"
+ ],
+ [
+  "Figure 3.1",
+  "C03a"
+ ],
+ [
+  "Figure 3.2",
+  "C03b"
+ ],
+ [
+  "Figure 3.3",
+  "C03c"
+ ],
+ [
+  "Figure 3.4",
+  "C03d"
+ ],
+ [
+  "Figure 4.1",
+  "M02"
+ ],
+ [
+  "Figure 4.2",
+  "C04a"
+ ],
+ [
+  "Figure 4.3",
+  "C04b"
+ ],
+ [
+  "Figure 4.4",
+  "C04c"
+ ],
+ [
+  "Figure 4.5",
+  "C04d"
+ ],
+ [
+  "Figure 5.1",
+  "C05a"
+ ],
+ [
+  "Figure 6.1",
+  "C06a"
+ ],
+ [
+  "Figure 6.2",
+  "C06c"
+ ],
+ [
+  "Figure 6.3",
+  "C06b"
+ ],
+ [
+  "Figure 7.1",
+  "M03"
+ ],
+ [
+  "Figure 7.2",
+  "C07a"
+ ],
+ [
+  "Figure 7.3",
+  "M10"
+ ],
+ [
+  "Figure 7.4",
+  "C07b"
+ ],
+ [
+  "Figure 7.5",
+  "M11"
+ ],
+ [
+  "Figure 7.6",
+  "C07c"
+ ],
+ [
+  "Figure 7.7",
+  "C07d"
+ ],
+ [
+  "Figure 7.8",
+  "C07e"
+ ],
+ [
+  "Figure 8.1",
+  "M04"
+ ],
+ [
+  "Figure 8.2",
+  "C08a"
+ ],
+ [
+  "Figure 8.3",
+  "C08b"
+ ],
+ [
+  "Figure 8.4",
+  "C08c"
+ ],
+ [
+  "Figure 8.5",
+  "C08d"
+ ],
+ [
+  "Figure 8.6",
+  "C08e"
+ ],
+ [
+  "Figure 8.7",
+  "C08f"
+ ],
+ [
+  "Figure 8.8",
+  "C08g"
+ ],
+ [
+  "Figure 9.1",
+  "M05"
+ ],
+ [
+  "Figure 9.2",
+  "C09a"
+ ],
+ [
+  "Figure 9.3",
+  "C09b"
+ ],
+ [
+  "Figure 9.4",
+  "C09g"
+ ],
+ [
+  "Figure 9.5",
+  "C09c"
+ ],
+ [
+  "Figure 9.6",
+  "M12"
+ ],
+ [
+  "Figure 9.7",
+  "C09d"
+ ],
+ [
+  "Figure 9.8",
+  "C09e"
+ ],
+ [
+  "Figure 9.9",
+  "C09f"
+ ],
+ [
+  "Figure 10.1",
+  "M06"
+ ],
+ [
+  "Figure 10.2",
+  "C10a"
+ ],
+ [
+  "Figure 10.3",
+  "M09"
+ ],
+ [
+  "Figure 10.4",
+  "C10b"
+ ],
+ [
+  "Figure 10.5",
+  "C10c"
+ ],
+ [
+  "Figure 10.6",
+  "C10d"
+ ],
+ [
+  "Figure 10.7",
+  "C10e"
+ ],
+ [
+  "Figure 10.8",
+  "C10h"
+ ],
+ [
+  "Figure 10.9",
+  "C10f"
+ ],
+ [
+  "Figure 10.10",
+  "C10g"
+ ],
+ [
+  "Figure 11.1",
+  "M07"
+ ],
+ [
+  "Figure 11.2",
+  "C11a"
+ ],
+ [
+  "Figure 11.3",
+  "C11b"
+ ],
+ [
+  "Figure 11.4",
+  "C11c"
+ ],
+ [
+  "Figure 11.5",
+  "C11f"
+ ],
+ [
+  "Figure 11.6",
+  "C11d"
+ ],
+ [
+  "Figure 11.7",
+  "C11e"
+ ],
+ [
+  "Figure 12.1",
+  "M08"
+ ],
+ [
+  "Figure 12.2",
+  "C12a"
+ ],
+ [
+  "Figure 12.3",
+  "C12d"
+ ],
+ [
+  "Figure 12.4",
+  "C12f"
+ ],
+ [
+  "Figure 12.5",
+  "C12c"
+ ],
+ [
+  "Figure 12.6",
+  "C12e"
+ ],
+ [
+  "Figure 13.1",
+  "C13a"
+ ],
+ [
+  "Figure 13.2",
+  "C13b"
+ ],
+ [
+  "Figure 13.3",
+  "M14"
+ ],
+ [
+  "Figure 14.1",
+  "C14a"
+ ],
+ [
+  "Figure 14.2",
+  "C14b"
+ ],
+ [
+  "Figure 14.3",
+  "C14e"
+ ],
+ [
+  "Figure 15.1",
+  "C15a"
+ ],
+ [
+  "Figure 15.2",
+  "C15b"
+ ],
+ [
+  "Figure 15.3",
+  "C15e"
+ ],
+ [
+  "Figure 15.4",
+  "C15c"
+ ],
+ [
+  "Figure 16.1",
+  "C16a"
+ ],
+ [
+  "Figure 16.2",
+  "C16f"
+ ],
+ [
+  "Figure 16.3",
+  "C16b"
+ ],
+ [
+  "Figure 16.4",
+  "C16e"
+ ],
+ [
+  "Figure 16.5",
+  "C16c"
+ ],
+ [
+  "Figure 16.6",
+  "C16d"
+ ],
+ [
+  "Figure 17.1",
+  "C17d"
+ ],
+ [
+  "Figure 17.2",
+  "C17b"
+ ],
+ [
+  "Figure 17.3",
+  "C17c"
+ ],
+ [
+  "Figure 17.4",
+  "C17f"
+ ],
+ [
+  "Figure 17.5",
+  "C17e"
+ ],
+ [
+  "Figure 18.1",
+  "I05"
+ ],
+ [
+  "Figure 18.2",
+  "I07"
+ ],
+ [
+  "Figure 18.3",
+  "I10"
+ ],
+ [
+  "Figure 19.1",
+  "C19b"
+ ],
+ [
+  "Figure 19.2",
+  "C19a"
+ ]
+]

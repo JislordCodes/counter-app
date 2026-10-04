@@ -26,6 +26,12 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 
 ## Seceda lifts (Ortisei)
 
+<!-- FIG:C03a -->
+![Figure 3.1. The Seceda cable car climbing above a sea of cloud.](../images/print/C03a.jpg)
+
+*Figure 3.1. The Seceda cable car climbing above a sea of cloud.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **What it is** | Gondola from Ortisei to Furnes, then cable car to Seceda (about 2,500 m), the famous ridge above Val Gardena. |
@@ -42,6 +48,12 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 > **Wish I'd Known:** In 2026, the Dolomiti SuperSummer card did not cover the Seceda lifts. The Gardena Card did. If Seceda is on your list, compare the two before you buy.
 
 ## Lago di Braies (Pragser Wildsee)
+
+<!-- FIG:C03b -->
+![Figure 3.2. The boathouse and rowing boats at Lago di Braies.](../images/print/C03b.jpg)
+
+*Figure 3.2. The boathouse and rowing boats at Lago di Braies.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -64,6 +76,12 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 
 ## Tre Cime di Lavaredo toll road
 
+<!-- FIG:C03c -->
+![Figure 3.3. The Tre Cime di Lavaredo in winter, seen from near Rifugio Auronzo at the end of the toll road.](../images/print/C03c.jpg)
+
+*Figure 3.3. The Tre Cime di Lavaredo in winter, seen from near Rifugio Auronzo at the end of the toll road.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **What it is** | A 6–7 km toll road to Rifugio Auronzo (2,333 m), the main start for the Tre Cime loop walk. |
@@ -79,6 +97,12 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 > **Wish I'd Known:** The booking window opens about a month before your date. For popular July and August days, set a reminder and book on day one.
 
 ## Alpe di Siusi (Seiser Alm)
+
+<!-- FIG:C03d -->
+![Figure 3.4. A gondola of the Seiser Alm cableway in South Tyrol, with snow on the hills.](../images/print/C03d.jpg)
+
+*Figure 3.4. A gondola of the Seiser Alm cableway in South Tyrol, with snow on the hills.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|

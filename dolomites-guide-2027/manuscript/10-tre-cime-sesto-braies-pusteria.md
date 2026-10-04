@@ -6,6 +6,12 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 
 ## Overview
 
+<!-- FIG:M06 -->
+![Figure 10.1. Tre Cime, Sesto and Braies. 1 Tre Cime, 2 Cadini di Misurina, 3 Val Fiscalina (Fondovalle), 4 Lago di Braies. The dashed line is the road from Dobbiaco to Rifugio Auronzo.](../images/print/M06.png)
+
+*Figure 10.1. Tre Cime, Sesto and Braies. 1 Tre Cime, 2 Cadini di Misurina, 3 Val Fiscalina (Fondovalle), 4 Lago di Braies. The dashed line is the road from Dobbiaco to Rifugio Auronzo.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | South Tyrol, with the Tre Cime area shared with Veneto on the Auronzo and Misurina side |
@@ -23,9 +29,19 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 - **By car.** From Cortina, drive north to Dobbiaco. From the A22, exit at Bressanone/Brixen and follow the valley road.
 - **3 Zinnen Mountain Card.** Covers the open cable cars in the 3 Zinnen Dolomites area, with 1-day, 3-of-4, 5-of-7 and 5-of-10-day options. Check prices at dreizinnen.com.
 
-<!-- FIGURE: Map 6 | Tre Cime, Sesto and Braies: toll road to Auronzo, Misurina, Val Fiscalina, Dobbiaco rail and bus links, Braies parking lots and shuttle -->
-
 ## 1. Tre Cime di Lavaredo loop
+
+<!-- FIG:C10a -->
+![Figure 10.2. The Tre Cime di Lavaredo in warm low light, with cloud around the base.](../images/print/C10a.jpg)
+
+*Figure 10.2. The Tre Cime di Lavaredo in warm low light, with cloud around the base.*
+<!-- /FIG -->
+
+<!-- FIG:M09 -->
+![Figure 10.3. The Tre Cime loop. The dashed line follows the usual route from Rifugio Auronzo past Rifugio Lavaredo and Forcella Lavaredo to Rifugio Locatelli, then back by the Langalm side.](../images/print/M09.png)
+
+*Figure 10.3. The Tre Cime loop. The dashed line follows the usual route from Rifugio Auronzo past Rifugio Lavaredo and Forcella Lavaredo to Rifugio Locatelli, then back by the Langalm side.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -46,6 +62,12 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 
 > **Wish I'd Known:** A toll road booking is for a 12-hour window, one entry only. If you leave and try to return, you will have to pay again. Plan to stay inside your window.
 
+<!-- FIG:C10b -->
+![Figure 10.4. Rifugio Locatelli (Dreizinnenhütte), with rock walls rising behind it.](../images/print/C10b.jpg)
+
+*Figure 10.4. Rifugio Locatelli (Dreizinnenhütte), with rock walls rising behind it.*
+<!-- /FIG -->
+
 ### Ways to reach the Tre Cime (2026 options)
 
 | Option | Cost (2026) | Details |
@@ -59,6 +81,18 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 
 ## 2. Cadini di Misurina viewpoint
 
+<!-- FIG:C10c -->
+![Figure 10.5. The jagged spires of the Cadini di Misurina.](../images/print/C10c.jpg)
+
+*Figure 10.5. The jagged spires of the Cadini di Misurina.*
+<!-- /FIG -->
+
+<!-- FIG:C10d -->
+![Figure 10.6. Lago di Misurina, with the village and the mountains on its far shore.](../images/print/C10d.jpg)
+
+*Figure 10.6. Lago di Misurina, with the village and the mountains on its far shore.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A jagged group of spires north of Lago di Misurina. The viewpoint looks over them. |
@@ -68,6 +102,12 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 | **Common mistakes** | Adding it to a late day. Wearing slippery shoes. |
 
 ## 3. Val Fiscalina and Sesto
+
+<!-- FIG:C10e -->
+![Figure 10.7. Val Fiscalina (Fischleintal) near Sesto, with walkers on the valley path.](../images/print/C10e.jpg)
+
+*Figure 10.7. Val Fiscalina (Fischleintal) near Sesto, with walkers on the valley path.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -84,6 +124,12 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 **The "sundial."** The peaks above Sesto form a natural sundial. Locals read the time from which peak the sun touches. It makes a good photo from the village in the evening.
 
 ## 4. Lago di Braies (Pragser Wildsee)
+
+<!-- FIG:C10h -->
+![Figure 10.8. Lago di Braies, with the mountain walls reflected in the water.](../images/print/C10h.jpg)
+
+*Figure 10.8. Lago di Braies, with the mountain walls reflected in the water.*
+<!-- /FIG -->
 
 Chapter 3 gives the access rules in detail. In short: in 2026, from 1 July to 15 September, between 09:00 and 16:00, you could drive to the lake only with a reservation. Bus lines 442 and 439 needed an online reservation in that period.
 
@@ -116,6 +162,18 @@ Chapter 3 gives the access rules in detail. In short: in 2026, from 1 July to 15
 Chapter 13 gives the full planning guide for huts and long routes.
 
 ## 6. Val Pusteria towns and cycling
+
+<!-- FIG:C10f -->
+![Figure 10.9. The main square of San Candido (Innichen), with snow-dusted peaks above the old town.](../images/print/C10f.jpg)
+
+*Figure 10.9. The main square of San Candido (Innichen), with snow-dusted peaks above the old town.*
+<!-- /FIG -->
+
+<!-- FIG:C10g -->
+![Figure 10.10. Lago di Dobbiaco (Toblacher See) in summer.](../images/print/C10g.jpg)
+
+*Figure 10.10. Lago di Dobbiaco (Toblacher See) in summer.*
+<!-- /FIG -->
 
 - **San Candido (Innichen).** A pretty old town with a historic collegiate church. Base for cycling and the 3 Zinnen area.
 - **Dobbiaco (Toblach).** The hub for trains, the Dobbiaco to Cortina cycle path and the Tre Cime shuttle. Lago di Dobbiaco is nearby for an easy lakeside walk.

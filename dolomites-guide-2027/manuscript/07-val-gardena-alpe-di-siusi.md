@@ -8,6 +8,12 @@ It is also one of the busiest areas, and it has more access rules than any other
 
 ## Overview
 
+<!-- FIG:M03 -->
+![Figure 7.1. Val Gardena and Alpe di Siusi. 1 Seceda, 2 Alpe di Siusi (Compatsch), 3 Sassolungo, 4 Santa Maddalena, 5 Ortisei. Dash-dot lines are cable cars and lifts.](../images/print/M03.png)
+
+*Figure 7.1. Val Gardena and Alpe di Siusi. 1 Seceda, 2 Alpe di Siusi (Compatsch), 3 Sassolungo, 4 Santa Maddalena, 5 Ortisei. Dash-dot lines are cable cars and lifts.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | South Tyrol |
@@ -25,11 +31,21 @@ It is also one of the busiest areas, and it has more access rules than any other
 - **Within the valley.** Buses link Ortisei, Santa Cristina and Selva. Many hotels give guests a **Val Gardena Guest Pass** for free public transport. Ask when you book.
 - **Lift pass.** The **Gardena Card** (2026: 3 days €124 or 6 days €160, valid 6 June to 11 October) covers 17 lifts, including Seceda. The SuperSummer card did not include Seceda in 2026 (Chapter 4).
 
-<!-- FIGURE: Map 3 | Val Gardena and Alpe di Siusi: villages, lifts, Seceda, Siusi cable car, bus lines, car-restriction points -->
-
 ## Top sights
 
 ### 1. Seceda
+
+<!-- FIG:C07a -->
+![Figure 7.2. Early morning mist on the Odle peaks, seen from the Seceda ridge in Val Gardena.](../images/print/C07a.jpg)
+
+*Figure 7.2. Early morning mist on the Odle peaks, seen from the Seceda ridge in Val Gardena.*
+<!-- /FIG -->
+
+<!-- FIG:M10 -->
+![Figure 7.3. Seceda and Col Raiser. Dash-dot lines are cable cars and lifts; dotted lines are walking paths.](../images/print/M10.png)
+
+*Figure 7.3. Seceda and Col Raiser. Dash-dot lines are cable cars and lifts; dotted lines are walking paths.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -56,6 +72,18 @@ It is also one of the busiest areas, and it has more access rules than any other
 - **Longer:** Ride from Santa Cristina to Col Raiser (2,107 m) and walk the loop to Seceda and back. The loop was listed at about 9.7 km, around 4 hours, with 570 m of climbing, moderate, passing the Pieralongia and Firenze huts. It avoids the Ortisei lift queues and gives a quiet return through meadows.
 
 ### 2. Alpe di Siusi (Seiser Alm)
+
+<!-- FIG:C07b -->
+![Figure 7.4. The Alpe di Siusi in September, with the Sassolungo and Sassopiatto rising behind the meadows.](../images/print/C07b.jpg)
+
+*Figure 7.4. The Alpe di Siusi in September, with the Sassolungo and Sassopiatto rising behind the meadows.*
+<!-- /FIG -->
+
+<!-- FIG:M11 -->
+![Figure 7.5. Alpe di Siusi: the easy walk from Compatsch to Saltria (dashed), passing the Sanon hut.](../images/print/M11.png)
+
+*Figure 7.5. Alpe di Siusi: the easy walk from Compatsch to Saltria (dashed), passing the Sanon hut.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -85,6 +113,12 @@ It is also one of the busiest areas, and it has more access rules than any other
 
 ### 3. Sassolungo and Passo Sella
 
+<!-- FIG:C07c -->
+![Figure 7.6. The Sassolungo group seen from Passo Sella, here under winter snow.](../images/print/C07c.jpg)
+
+*Figure 7.6. The Sassolungo group seen from Passo Sella, here under winter snow.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A massive group of towers rising above the pass road between Val Gardena and Val di Fassa. |
@@ -106,6 +140,12 @@ It is also one of the busiest areas, and it has more access rules than any other
 
 ### 4. Val di Funes and Santa Maddalena
 
+<!-- FIG:C07d -->
+![Figure 7.7. The church of Santa Maddalena in Val di Funes, with the Odle peaks behind.](../images/print/C07d.jpg)
+
+*Figure 7.7. The church of Santa Maddalena in Val di Funes, with the Odle peaks behind.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A quiet side valley beside Val Gardena. The Santa Maddalena (St. Magdalena) church with the Odle peaks behind is one of the most photographed views in South Tyrol. |
@@ -119,6 +159,12 @@ It is also one of the busiest areas, and it has more access rules than any other
 | **Drawbacks** | The access rules are new and may change. |
 
 > **Wish I'd Known:** Reports differ on the exact walking time and parking price in Santa Maddalena, and the municipality had not decided on a shuttle bus. Check the Val di Funes tourist office before you go. Stay on the path and out of the meadows. Locals have complained of visitors walking onto private land.
+
+<!-- FIG:C07e -->
+![Figure 7.8. The Sciliar (Schlern) massif, with its two rock pinnacles at the right-hand end.](../images/print/C07e.jpg)
+
+*Figure 7.8. The Sciliar (Schlern) massif, with its two rock pinnacles at the right-hand end.*
+<!-- /FIG -->
 
 ### 5. Ortisei and the wood-carving tradition
 

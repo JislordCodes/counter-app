@@ -18,6 +18,12 @@ The most important fact in this chapter: **the walking season is short, and date
 
 ## Summer: late June to mid-September
 
+<!-- FIG:C02s -->
+![Figure 2.1. A summer meadow of buttercups on the Alpe di Siusi, with the Sciliar rocks behind.](../images/print/C02s.jpg)
+
+*Figure 2.1. A summer meadow of buttercups on the Alpe di Siusi, with the Sciliar rocks behind.*
+<!-- /FIG -->
+
 Summer is the main walking season. Lifts run, huts are open and high trails are mostly free of snow.
 
 | | |
@@ -41,7 +47,19 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 
 > **Wish I'd Known:** September is popular for good reason, but it is not risk-free. In 2026, the Gardena Card and the Val di Fassa Panorama Pass both ran until 11 October. Individual lifts and huts can close earlier than the passes that cover them, so check the closing date of each one you plan to use.
 
+<!-- FIG:C02m -->
+![Figure 2.2. An alpine marmot at Cianpo de Crósc, in the Dolomiti d'Ampezzo nature park near Cortina d'Ampezzo.](../images/print/C02m.jpg)
+
+*Figure 2.2. An alpine marmot at Cianpo de Crósc, in the Dolomiti d'Ampezzo nature park near Cortina d'Ampezzo.*
+<!-- /FIG -->
+
 ## Autumn: late September to October
+
+<!-- FIG:C02a -->
+![Figure 2.3. Golden larches below the Sassolungo in late autumn, with the first snow on the peaks.](../images/print/C02a.jpg)
+
+*Figure 2.3. Golden larches below the Sassolungo in late autumn, with the first snow on the peaks.*
+<!-- /FIG -->
 
 | | |
 |---|---|
@@ -60,6 +78,12 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 
 ## Winter: December to March
 
+<!-- FIG:C02w -->
+![Figure 2.4. Winter on the Alpe di Siusi, with the Sassolungo group in the distance.](../images/print/C02w.jpg)
+
+*Figure 2.4. Winter on the Alpe di Siusi, with the Sassolungo group in the distance.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Weather** | Cold, with reliable snow from January. Valleys can be sunny and dry while the mountains are snow-covered. |
@@ -76,6 +100,12 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 Chapter 15 covers winter in detail. Christmas markets in Bolzano, Brixen and other towns usually run from late November to early January.
 
 ## Spring: April to mid-June
+
+<!-- FIG:C02p -->
+![Figure 2.5. Apple trees in blossom in an orchard near Merano, South Tyrol.](../images/print/C02p.jpg)
+
+*Figure 2.5. Apple trees in blossom in an orchard near Merano, South Tyrol.*
+<!-- /FIG -->
 
 | | |
 |---|---|

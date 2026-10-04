@@ -4,6 +4,12 @@ Beyond walking, the Dolomites offer three activities that visitors ask about mos
 
 ## Via ferrata
 
+<!-- FIG:C14a -->
+![Figure 14.1. The suspension bridge on the Ivano Dibona via ferrata, high above the valley in the Cristallo group.](../images/print/C14a.jpg)
+
+*Figure 14.1. The suspension bridge on the Ivano Dibona via ferrata, high above the valley in the Cristallo group.*
+<!-- /FIG -->
+
 ### What it is
 
 A *via ferrata* ("iron way") is a mountain route fitted with steel cables, ladders, rungs and sometimes suspension bridges. You clip into the cable with a harness and lanyard. Many routes in the Dolomites began as Great War military paths. Today they let non-climbers reach places that would otherwise need ropes and technical skills.
@@ -82,6 +88,12 @@ Guides carry the right equipment, choose the safest route on the day, and teach 
 
 ## Cycling
 
+<!-- FIG:C14b -->
+![Figure 14.2. A road cyclist on the climb to the Passo Giau, photographed during the Maratona dles Dolomites.](../images/print/C14b.jpg)
+
+*Figure 14.2. A road cyclist on the climb to the Passo Giau, photographed during the Maratona dles Dolomites.*
+<!-- /FIG -->
+
 ### Choose your type
 
 | Type | Best for | Notes |
@@ -102,6 +114,12 @@ Guides carry the right equipment, choose the safest route on the day, and teach 
 The mountain-bike route around the Sella is about 57 to 60 km, with about 1,000 m of climbing. Allow 6 to 9 hours with a long lunch. The road route used on Bike Day is about 53 km with about 1,600 m of climbing. Guided e-bike tours with lift help ran about 6 to 7 hours in 2026. See Chapter 8.
 
 ### Easy cycle paths
+
+<!-- FIG:C14e -->
+![Figure 14.3. Cyclists and families on the Pusteria cycle path near San Candido, a flat, easy ride beside the river.](../images/print/C14e.jpg)
+
+*Figure 14.3. Cyclists and families on the Pusteria cycle path near San Candido, a flat, easy ride beside the river.*
+<!-- /FIG -->
 
 | Path | Length | Level | Notes |
 |---|---|---|---|

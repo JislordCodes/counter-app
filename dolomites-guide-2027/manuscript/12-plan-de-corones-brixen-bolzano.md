@@ -6,6 +6,12 @@ These places also work as bases. They are well served by trains and buses, and t
 
 ## Overview
 
+<!-- FIG:M08 -->
+![Figure 12.1. Plan de Corones, Brixen and Bolzano. 1 Bolzano, 2 Soprabolzano (Renon), 3 Bressanone, 4 Neustift Abbey, 5 Plan de Corones.](../images/print/M08.png)
+
+*Figure 12.1. Plan de Corones, Brixen and Bolzano. 1 Bolzano, 2 Soprabolzano (Renon), 3 Bressanone, 4 Neustift Abbey, 5 Plan de Corones.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | South Tyrol |
@@ -22,9 +28,13 @@ These places also work as bases. They are well served by trains and buses, and t
 - **Renon (Ritten) cableway.** The Mobilcard also covers the Ritten cable car in 2026.
 - **Buses.** Regional buses reach most villages. Services are less frequent on evenings and Sundays, so check times.
 
-<!-- FIGURE: Map 8 | Plan de Corones, Brixen and Bolzano: rail and bus links, Renon cableway, Neustift Abbey, Kronplatz gondolas -->
-
 ## 1. Bolzano and the Ötzi Museum
+
+<!-- FIG:C12a -->
+![Figure 12.2. Bolzano, with the Catinaccio (Rosengarten) group on the horizon.](../images/print/C12a.jpg)
+
+*Figure 12.2. Bolzano, with the Catinaccio (Rosengarten) group on the horizon.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -43,11 +53,29 @@ These places also work as bases. They are well served by trains and buses, and t
 
 ## 2. The Renon (Ritten) cableway and Earth Pyramids
 
+<!-- FIG:C12d -->
+![Figure 12.3. The earth pyramids of Renon (Ritten), with the plateau meadows and villages above them.](../images/print/C12d.jpg)
+
+*Figure 12.3. The earth pyramids of Renon (Ritten), with the plateau meadows and villages above them.*
+<!-- /FIG -->
+
+<!-- FIG:C12f -->
+![Figure 12.4. A cabin of the Renon (Ritten) cableway above the forest on the climb from Bolzano.](../images/print/C12f.jpg)
+
+*Figure 12.4. A cabin of the Renon (Ritten) cableway above the forest on the climb from Bolzano.*
+<!-- /FIG -->
+
 - **Cableway.** About 4 km, roughly 12 minutes, from Bolzano to Soprabolzano. Covered by the Mobilcard in 2026.
 - **Earth Pyramids.** Tall clay columns topped by boulders, near Soprabolzano. A short walk from the village paths.
 - **Best for:** A half-day escape from city heat or a low-cloud day.
 
 ## 3. Brixen (Bressanone)
+
+<!-- FIG:C12c -->
+![Figure 12.5. The cloister of Neustift Abbey (Novacella) near Brixen, with its painted ribbed vaults.](../images/print/C12c.jpg)
+
+*Figure 12.5. The cloister of Neustift Abbey (Novacella) near Brixen, with its painted ribbed vaults.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -62,6 +90,12 @@ These places also work as bases. They are well served by trains and buses, and t
 | **Drawbacks** | Not a mountain base. |
 
 ## 4. Plan de Corones (Kronplatz) and the Messner Mountain Museum
+
+<!-- FIG:C12e -->
+![Figure 12.6. The Kronplatz (Plan de Corones) from the north, a broad ski mountain with the summit station on top.](../images/print/C12e.jpg)
+
+*Figure 12.6. The Kronplatz (Plan de Corones) from the north, a broad ski mountain with the summit station on top.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|

@@ -147,11 +147,11 @@ def figures():
     for sid, spec in sel.items():
         for ext in ("jpg",):
             if os.path.exists(os.path.join(IMG, "print", sid + "." + ext)):
-                out[sid] = (f"images/print/{sid}.{ext}", spec["caption"])
+                out[sid] = (f"../images/print/{sid}.{ext}", spec["caption"])
     for mid, cap in MAPS.items():
         fn = os.path.join(IMG, "print", mid + ".png")
         if os.path.exists(fn):
-            out[mid] = (f"images/print/{mid}.png", cap)
+            out[mid] = (f"../images/print/{mid}.png", cap)
     return out
 
 

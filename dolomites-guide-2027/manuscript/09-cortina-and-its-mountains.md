@@ -6,6 +6,12 @@ It is also a real town, with shops, restaurants and a busy centre. That makes it
 
 ## Overview
 
+<!-- FIG:M05 -->
+![Figure 9.1. Cortina d'Ampezzo and its mountains. 1 Cortina, 2 Cinque Torri, 3 Lagazuoi, 4 Passo Giau, 5 Lago di Sorapis, 6 Tofana di Mezzo.](../images/print/M05.png)
+
+*Figure 9.1. Cortina d'Ampezzo and its mountains. 1 Cortina, 2 Cinque Torri, 3 Lagazuoi, 4 Passo Giau, 5 Lago di Sorapis, 6 Tofana di Mezzo.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | Veneto (Belluno) |
@@ -26,8 +32,6 @@ It is also a real town, with shops, restaurants and a busy centre. That makes it
 
 > **Wish I'd Known:** Cortina is the Dolomites base with the least reliable car-free options. Without a car, you rely on buses that run to the passes on fixed times. Check the last bus back before you set out.
 
-<!-- FIGURE: Map 5 | Cortina area: town, Passo Falzarego, Lagazuoi, Cinque Torri, Passo Giau, Passo Tre Croci and Sorapis, Faloria and Tofane lifts -->
-
 ## What changed in 2026
 
 After the Winter Olympics in February 2026, Cortina had a valley full of new or upgraded roads, lifts and town infrastructure, and summer 2026 was the first season to see how it worked. One major project, the Apollonio–Socrepes cable car, was not ready for the Games, and prosecutors opened an investigation into it in May 2026. Check whether it is open before you plan to use it.
@@ -35,6 +39,12 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 **What it means for you.** Expect building work and some changes in 2027, and confirm lift openings with the local operators.
 
 ## 1. Cortina town
+
+<!-- FIG:C09a -->
+![Figure 9.2. Cortina d'Ampezzo on a cloudy evening, seen from a bridge, with the mountains behind the town.](../images/print/C09a.jpg)
+
+*Figure 9.2. Cortina d'Ampezzo on a cloudy evening, seen from a bridge, with the mountains behind the town.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -48,6 +58,18 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Drawbacks** | Parking, traffic and high peak prices. |
 
 ## 2. Cinque Torri
+
+<!-- FIG:C09b -->
+![Figure 9.3. The Cinque Torri rock towers on their grassy ridge, with the Tofane group on the left.](../images/print/C09b.jpg)
+
+*Figure 9.3. The Cinque Torri rock towers on their grassy ridge, with the Tofane group on the left.*
+<!-- /FIG -->
+
+<!-- FIG:C09g -->
+![Figure 9.4. Rifugio Averau below Monte Averau, one of the huts near Nuvolau and the Cinque Torri.](../images/print/C09g.jpg)
+
+*Figure 9.4. Rifugio Averau below Monte Averau, one of the huts near Nuvolau and the Cinque Torri.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -66,6 +88,18 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 
 ## 3. Lagazuoi and the Great War tunnels
 
+<!-- FIG:C09c -->
+![Figure 9.5. A Great War tunnel entrance on Lagazuoi, with a log ladder fixed beside the path.](../images/print/C09c.jpg)
+
+*Figure 9.5. A Great War tunnel entrance on Lagazuoi, with a log ladder fixed beside the path.*
+<!-- /FIG -->
+
+<!-- FIG:M12 -->
+![Figure 9.6. The Lagazuoi cable car, rising from Passo Falzarego to the hut at the top.](../images/print/M12.png)
+
+*Figure 9.6. The Lagazuoi cable car, rising from Passo Falzarego to the hut at the top.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A mountain at about 2,800 m with tunnels cut by Italian troops through the rock in 1915 to 1917. The Galleria del Lagazuoi is a walkable route through them. |
@@ -83,6 +117,12 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 
 ## 4. Passo Giau
 
+<!-- FIG:C09d -->
+![Figure 9.7. Monte Averau seen from Fedare near the Passo Giau, in October.](../images/print/C09d.jpg)
+
+*Figure 9.7. Monte Averau seen from Fedare near the Passo Giau, in October.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A high pass road at about 2,236 m with wide meadow views and a long list of switchbacks. |
@@ -95,6 +135,12 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Drawbacks** | Narrow road. Limited space. |
 
 ## 5. Lago di Sorapis
+
+<!-- FIG:C09e -->
+![Figure 9.8. Lago di Sorapis, with the Sorapiss peaks reflected in the still water.](../images/print/C09e.jpg)
+
+*Figure 9.8. Lago di Sorapis, with the Sorapiss peaks reflected in the still water.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -110,6 +156,12 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Drawbacks** | Exposed sections; narrow ledges can cause queues. |
 
 ## 6. Faloria, Tofane and Cristallo lifts
+
+<!-- FIG:C09f -->
+![Figure 9.9. The Tofane group lit by evening sun, seen across the valleys from near the Passo Pordoi.](../images/print/C09f.jpg)
+
+*Figure 9.9. The Tofane group lit by evening sun, seen across the valleys from near the Passo Pordoi.*
+<!-- /FIG -->
 
 - **Faloria.** A cable car above Cortina. A return ticket was reported at around €23 in 2026 (check current price). It opened in July in 2026.
 - **Tofane.** A lift area west of town. In 2026 it opened on 13 June, with return tickets around €25 to €35 depending on the sections.

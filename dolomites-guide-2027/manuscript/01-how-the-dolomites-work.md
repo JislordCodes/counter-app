@@ -2,6 +2,12 @@
 
 # 1. How the Dolomites Work
 
+<!-- FIG:C01a -->
+![Figure 1.1. The Sella group above the Passo Gardena road.](../images/print/C01a.jpg)
+
+*Figure 1.1. The Sella group above the Passo Gardena road.*
+<!-- /FIG -->
+
 The Dolomites are not a single resort or park. They are a large mountain region with many valleys, three main languages, several tourist boards and no single ticket that covers everything. That is why first-time visitors often feel lost when they start planning.
 
 This chapter gives you the picture you need before you book anything. By the end, you will know where the main regions are, what each is best for, and how to match a region to your trip.
@@ -19,6 +25,12 @@ The area sits across several Italian provinces. For a visitor, three matter most
 **Why this matters to you.** Each province runs its own transport, lift passes, tourist office and booking systems. A ticket bought in one area often does not work in another. You will need to check each area's official site.
 
 ## Three languages, many names
+
+<!-- FIG:C01b -->
+![Figure 1.2. The Passo Gardena sign gives the pass name in Ladin, German and Italian.](../images/print/C01b.jpg)
+
+*Figure 1.2. The Passo Gardena sign gives the pass name in Ladin, German and Italian.*
+<!-- /FIG -->
 
 Almost every place has two or three names. Road signs show them together, but maps, booking sites and hotel emails may use only one.
 
@@ -42,6 +54,12 @@ This guide uses the name you are most likely to see on a map or website, and giv
 
 ## The regions in one view
 
+<!-- FIG:M01 -->
+![Figure 1.3. The Dolomites at a glance. The numbers on the map are the chapters that cover each area.](../images/print/M01.png)
+
+*Figure 1.3. The Dolomites at a glance. The numbers on the map are the chapters that cover each area.*
+<!-- /FIG -->
+
 This book groups the Dolomites into six areas. Each has its own chapter.
 
 | Area | Best for | Main bases | Car needed? |
@@ -52,8 +70,6 @@ This book groups the Dolomites into six areas. Each has its own chapter.
 | **Tre Cime, Sesto, Braies and Pusteria** (Ch. 10) | The Tre Cime loop, Lago di Braies, valley train | Sesto, Dobbiaco, San Candido | Helpful; train on the valley line |
 | **Val di Fassa and Catinaccio** (Ch. 11) | Rosengarten, Marmolada, good value | Canazei, Campitello, Moena | Helpful |
 | **Plan de Corones, Brixen and Bolzano** (Ch. 12) | Rainy days, museums, wine, low season | Bolzano, Brixen, Brunico | Not needed |
-
-<!-- FIGURE: Map 1 | Dolomites regional overview showing the six areas, main bases and airports -->
 
 ## How a Dolomites trip differs from other Alpine trips
 

@@ -16,6 +16,12 @@ South Tyrol passed from Austria to Italy in 1919, when the population was about 
 
 ### The Ladin people
 
+<!-- FIG:C17d -->
+![Figure 17.1. Ladin traditional costume at the opening of the Cësa di Ladins in Ortisei in 1954.](../images/print/C17d.jpg)
+
+*Figure 17.1. Ladin traditional costume at the opening of the Cësa di Ladins in Ortisei in 1954.*
+<!-- /FIG -->
+
 Ladin is a Romance language that has been spoken in the mountains for more than a thousand years. It is spoken in five areas: Val Gardena, Val Badia, Val di Fassa, Livinallongo and Cortina d'Ampezzo. One estimate puts speakers in Val Badia and Val Gardena at about 18,000.
 
 - **See it:** the Museum Ladin Ciastel de Tor in San Martino in Badia (Chapter 8), and the Museum Gherdëina in Ortisei (Chapter 7).
@@ -40,6 +46,12 @@ From 1915 to 1917, the Italian and Austro-Hungarian armies fought along the Dolo
 
 **How to behave.** Treat these places with respect. Soldiers died here. Do not take objects, do not climb on trench walls, and stay on marked paths.
 
+<!-- FIG:C17b -->
+![Figure 17.2. A timber-lined room inside the Lagazuoi tunnels.](../images/print/C17b.jpg)
+
+*Figure 17.2. A timber-lined room inside the Lagazuoi tunnels.*
+<!-- /FIG -->
+
 ## Mountains and mountaineers
 
 - **Messner Mountain Museum.** Reinhold Messner, born in Brixen in 1944, was the first person to climb all 14 peaks above 8,000 metres. His project has six museums: Firmian (Sigmundskron Castle, near Bolzano), Juval (in the Vinschgau valley), Dolomites (Monte Rite, south of Cortina), Ortles (Sulden), Ripa (Bruneck Castle) and Corones (on Plan de Corones, Chapter 12). A multi-museum ticket exists.
@@ -47,6 +59,12 @@ From 1915 to 1917, the Italian and Austro-Hungarian armies fought along the Dolo
 - **UNESCO.** Nine mountain groups were added to the World Heritage List in 2009 (Chapter 1).
 
 ## The legend of the pink mountains
+
+<!-- FIG:C17c -->
+![Figure 17.3. Warm low light turning the Sassolungo and Sassopiatto rock walls orange, the effect known as enrosadira.](../images/print/C17c.jpg)
+
+*Figure 17.3. Warm low light turning the Sassolungo and Sassopiatto rock walls orange, the effect known as enrosadira.*
+<!-- /FIG -->
 
 Visitors often ask why the peaks turn pink at sunset. The Ladin word for this glow is **enrosadira**. It is a real light effect, caused by low sun on pale rock.
 
@@ -84,6 +102,12 @@ An old legend explains it differently. King Laurin of the dwarfs had a garden of
 
 ## Responsible travel and rules that carry fines
 
+<!-- FIG:C17f -->
+![Figure 17.4. Edelweiss, one of the protected alpine flowers. Do not pick it.](../images/print/C17f.jpg)
+
+*Figure 17.4. Edelweiss, one of the protected alpine flowers. Do not pick it.*
+<!-- /FIG -->
+
 | Rule | Why it matters |
 |---|---|
 | **No drones in protected areas.** Since January 2023, flying drones under 25 kg has been banned in 18 protected areas of South Tyrol, including the Tre Cime, Puez-Odle (Seceda), Fanes-Sennes-Braies (Lago di Braies) and Sciliar-Catinaccio parks, and Lago di Carezza. Private, social-media and promotional filming is not approved. In Veneto, the Dolomiti d'Ampezzo park needs written permission. | Drones disturb wildlife and other visitors. Check the D-Flight app for no-fly zones. In Italy, drones also need registration, a QR code and liability insurance. |
@@ -100,6 +124,12 @@ An old legend explains it differently. King Laurin of the dwarfs had a garden of
 - Buy local food and stay in locally owned places.
 
 ## Photography guide
+
+<!-- FIG:C17e -->
+![Figure 17.5. Warm low light on a snow-dusted summit ridge, with tiny figures at the top. Early and late light gives the best colour.](../images/print/C17e.jpg)
+
+*Figure 17.5. Warm low light on a snow-dusted summit ridge, with tiny figures at the top. Early and late light gives the best colour.*
+<!-- /FIG -->
 
 ### Light and timing
 

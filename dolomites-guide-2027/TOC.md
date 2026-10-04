@@ -3,7 +3,7 @@
 **Subtitle:** Plan Your Trip to Italy's Dolomites: Reservations, Costs, Hikes, Itineraries and Maps
 
 **Format:** 6 × 9 in paperback and Kindle ebook. Black-and-white interior, colour cover.
-**Target length:** about 150–170 printed pages, about 42,000 words, plus 18 maps and 12 photos.
+**Target length:** about 150–170 printed pages, about 42,000 words, plus 16 maps and 79 photographs (plus a cover photograph).
 **Rule for every chapter:** it must pass the Final Quality Test in `MASTER-PROMPT.txt` before it is accepted.
 
 ---
@@ -177,7 +177,7 @@ Canazei · Campitello · Moena · **Catinaccio/Rosengarten and the Vajolet Tower
 
 ---
 
-## MAP AND FIGURE LIST (to source or draw in phase 2)
+## MAP AND FIGURE LIST (as produced)
 
 | # | Map | Problem it solves |
 |---|---|---|
@@ -193,9 +193,11 @@ Canazei · Campitello · Moena · **Catinaccio/Rosengarten and the Vajolet Tower
 | 10 | Seceda ridge routes | Viewpoint walks |
 | 11 | Alpe di Siusi walks | Meadow routes |
 | 12 | Lagazuoi tunnels route | Tunnel loop |
-| 13 | Sella Ronda by car | Pass order |
+| 13 | Merged into Map 4 | Sella Ronda pass order is on Map 4 |
 | 14 | Alta Via 1 stages | Hut-to-hut overview |
-| 15–18 | Itinerary route maps (3, 5, 7, 10 days) | Drive and walk sequence |
+| 15–17 | Itinerary route maps (5, 7 and 10 days; the 3-day plan uses Map 3) | Drive and walk sequence |
+
+Photographs: one to nine per chapter, each placed in the section it shows and numbered Figure chapter.number. Credits are in Appendix F. A few slots have no photograph because no suitable free-licence picture was found (mountain biking, paragliding, trail markings, Alta Via 1, Brixen, sledging, the Great War trenches, and the Forcella Sassolungo lift).
 
 ---
 

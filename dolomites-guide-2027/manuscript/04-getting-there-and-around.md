@@ -4,6 +4,12 @@ The Dolomites are easy to reach and slow to cross. You can fly into a major airp
 
 ## Choose your airport
 
+<!-- FIG:M02 -->
+![Figure 4.1. Getting to the Dolomites: the main airports, the Brenner motorway (A22) and the Pusteria railway.](../images/print/M02.png)
+
+*Figure 4.1. Getting to the Dolomites: the main airports, the Brenner motorway (A22) and the Pusteria railway.*
+<!-- /FIG -->
+
 No single airport is best. Pick the one that is closest to your base and has good flights from your home city.
 
 | Airport | Best for | Typical journey to the Dolomites* |
@@ -24,6 +30,12 @@ No single airport is best. Pick the one that is closest to your base and has goo
 
 ## By train
 
+<!-- FIG:C04a -->
+![Figure 4.2. Dobbiaco (Toblach) station on the Pusteria railway line.](../images/print/C04a.jpg)
+
+*Figure 4.2. Dobbiaco (Toblach) station on the Pusteria railway line.*
+<!-- /FIG -->
+
 Trains are a good option for the main valleys, but they do not reach most mountain villages.
 
 - **Brenner line.** Trains run from Munich through Innsbruck to Bolzano and on to Verona. In 2026, a typical Munich to Bolzano trip took about 3 hours 54 minutes, with around seven direct trains a day.
@@ -41,6 +53,12 @@ Trains are a good option for the main valleys, but they do not reach most mounta
 - **Private shuttles and taxis.** Shared and private airport transfers are widely available. They cost more but save changes, especially with luggage. Book ahead in peak weeks.
 
 ## Driving
+
+<!-- FIG:C04b -->
+![Figure 4.3. Passo Pordoi in early summer, with old snow still lying beside the road.](../images/print/C04b.jpg)
+
+*Figure 4.3. Passo Pordoi in early summer, with old snow still lying beside the road.*
+<!-- /FIG -->
 
 A car gives freedom, but it also means parking fees, restricted roads and slow mountain traffic.
 
@@ -87,6 +105,12 @@ A car gives freedom, but it also means parking fees, restricted roads and slow m
 
 ## Public transport inside the Dolomites
 
+<!-- FIG:C04c -->
+![Figure 4.4. A South Tyrol local bus at Sterzing (Vipiteno).](../images/print/C04c.jpg)
+
+*Figure 4.4. A South Tyrol local bus at Sterzing (Vipiteno).*
+<!-- /FIG -->
+
 Buses link most valleys, passes and lift stations. They are the best way to avoid parking stress.
 
 - **Südtirol Mobilcard.** One card covers regional trains and buses in South Tyrol. The price in 2026 was about €20–22 for one day, €30–32 for three days and €50–52 for seven days (two sources gave slightly different figures; check the official site). It excludes long-distance trains and some night buses, but includes certain cable cars such as the Ritten line.
@@ -95,6 +119,12 @@ Buses link most valleys, passes and lift stations. They are the best way to avoi
 - **Timetables.** Services are less frequent in the evening and at times in the off-season. Screenshot the last bus back before you set out.
 
 ## Lift passes and summer cards
+
+<!-- FIG:C04d -->
+![Figure 4.5. A gondola station on the Kronplatz (Plan de Corones).](../images/print/C04d.jpg)
+
+*Figure 4.5. A gondola station on the Kronplatz (Plan de Corones).*
+<!-- /FIG -->
 
 Lift costs are a big part of a Dolomites budget. Pick a card based on where you will actually ride.
 

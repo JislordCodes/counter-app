@@ -10,6 +10,12 @@ This chapter explains what to eat, how huts and restaurants work, what meals cos
 
 ### Dishes you will see everywhere
 
+<!-- FIG:C16a -->
+![Figure 16.1. Bread dumplings (Knödel, or canederli in Italian) served with roast veal and sauce.](../images/print/C16a.jpg)
+
+*Figure 16.1. Bread dumplings (Knödel, or canederli in Italian) served with roast veal and sauce.*
+<!-- /FIG -->
+
 | Dish | What it is | Notes |
 |---|---|---|
 | **Canederli** (Knödel) | Large dumplings made from bread, milk and eggs, often with speck or cheese. Served in broth or with butter and cheese. | A plate was about €8 at a festival in 2026. Good for lunch. |
@@ -22,6 +28,12 @@ This chapter explains what to eat, how huts and restaurants work, what meals cos
 
 ### Ladin dishes
 
+<!-- FIG:C16f -->
+![Figure 16.2. Schlutzkrapfen, half-moon ravioli served with butter and herbs.](../images/print/C16f.jpg)
+
+*Figure 16.2. Schlutzkrapfen, half-moon ravioli served with butter and herbs.*
+<!-- /FIG -->
+
 The Ladin valleys (Val Gardena, Val Badia, Val di Fassa, Livinallongo and Cortina) have their own dishes, based on simple farm ingredients.
 
 - **Panicia:** a barley soup.
@@ -32,10 +44,22 @@ The Ladin valleys (Val Gardena, Val Badia, Val di Fassa, Livinallongo and Cortin
 
 ### Cheese and local products
 
+<!-- FIG:C16b -->
+![Figure 16.3. A Brettljause board: Speck, mountain cheese, Kaminwurz sausage and Vinschgerl bread.](../images/print/C16b.jpg)
+
+*Figure 16.3. A Brettljause board: Speck, mountain cheese, Kaminwurz sausage and Vinschgerl bread.*
+<!-- /FIG -->
+
 - **Puzzone di Moena** is a washed-rind cheese from Val di Fassa with protected status (PDO since 2014). It has a strong smell. Try a small piece first.
 - **Casunziei** are beetroot-filled ravioli associated with Cortina.
 
 ### Törggelen: the autumn tradition
+
+<!-- FIG:C16e -->
+![Figure 16.4. Roast chestnuts (castagne arrostite), a favourite autumn food that goes with new wine at Törggelen.](../images/print/C16e.jpg)
+
+*Figure 16.4. Roast chestnuts (castagne arrostite), a favourite autumn food that goes with new wine at Törggelen.*
+<!-- /FIG -->
 
 In autumn, farm inns serve a traditional meal with new wine and roasted chestnuts.
 
@@ -48,9 +72,21 @@ In autumn, farm inns serve a traditional meal with new wine and roasted chestnut
 | **Booking** | Required in many places. Some need groups of six or more, and some open only Thursday to Sunday evenings. |
 | **Best for** | Couples, friends and families who like a long, traditional evening |
 
+<!-- FIG:C16c -->
+![Figure 16.5. Apfelstrudel (apple strudel), served with vanilla ice cream and cream.](../images/print/C16c.jpg)
+
+*Figure 16.5. Apfelstrudel (apple strudel), served with vanilla ice cream and cream.*
+<!-- /FIG -->
+
 ## Drinks
 
 ### Wine
+
+<!-- FIG:C16d -->
+![Figure 16.6. Vineyards at Kaltern (Caldaro), south of Bolzano, with the Mendel ridge beyond.](../images/print/C16d.jpg)
+
+*Figure 16.6. Vineyards at Kaltern (Caldaro), south of Bolzano, with the Mendel ridge beyond.*
+<!-- /FIG -->
 
 South Tyrol is a serious wine region.
 

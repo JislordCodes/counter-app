@@ -6,6 +6,12 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 
 ## Overview
 
+<!-- FIG:M07 -->
+![Figure 11.1. Val di Fassa, Catinaccio and Marmolada. 1 Gardeccia and the Vajolet Towers, 2 Malga Ciapela (Marmolada cable car), 3 Lago di Carezza, 4 Col Rodella.](../images/print/M07.png)
+
+*Figure 11.1. Val di Fassa, Catinaccio and Marmolada. 1 Gardeccia and the Vajolet Towers, 2 Malga Ciapela (Marmolada cable car), 3 Lago di Carezza, 4 Col Rodella.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | Trentino (the Marmolada side is shared with Veneto) |
@@ -22,9 +28,19 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 - **Val di Fassa Guest Card.** Ask your host for the free card. In 2026 it was valid for up to 20 consecutive days and gave free travel on Trentino Trasporti buses and regional trains, including the lines to the Pordoi, Sella, Fedaia, San Pellegrino and Costalunga passes. You validate each ride in the Mio Trentino app. Pass buses ran from June to September.
 - **Lift pass.** The **Val di Fassa Panorama Pass** (30 May to 11 October 2026) cost €83 for 3 of 6 days, €116 for 6 of 6 days and €137 for 7 of 13 days (adult). Children under 8 travel free, and a junior pass can be free for families. The SuperSummer card also covers many lifts here (Chapter 4).
 
-<!-- FIGURE: Map 7 | Val di Fassa and Catinaccio: villages, Vajolet chairlift, Ciampedie, Col Rodella, Pordoi, Fedaia, Carezza, Marmolada cable car, bus line 180 -->
-
 ## 1. Catinaccio (Rosengarten) and the Vajolet Towers
+
+<!-- FIG:C11a -->
+![Figure 11.2. The Vajolet Towers in the Catinaccio group, with the hut at their foot.](../images/print/C11a.jpg)
+
+*Figure 11.2. The Vajolet Towers in the Catinaccio group, with the hut at their foot.*
+<!-- /FIG -->
+
+<!-- FIG:C11b -->
+![Figure 11.3. The Catinaccio (Rosengarten) group above a hay hut in the Tiers valley, seen from the north side.](../images/print/C11b.jpg)
+
+*Figure 11.3. The Catinaccio (Rosengarten) group above a hay hut in the Tiers valley, seen from the north side.*
+<!-- /FIG -->
 
 | At a glance | |
 |---|---|
@@ -46,6 +62,18 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 
 ## 2. Marmolada
 
+<!-- FIG:C11c -->
+![Figure 11.4. The Marmolada, the highest peak in the Dolomites (3,343 m), with its glacier below the summit.](../images/print/C11c.jpg)
+
+*Figure 11.4. The Marmolada, the highest peak in the Dolomites (3,343 m), with its glacier below the summit.*
+<!-- /FIG -->
+
+<!-- FIG:C11f -->
+![Figure 11.5. Lago di Fedaia beneath the Marmolada, with the mountains reflected in still water.](../images/print/C11f.jpg)
+
+*Figure 11.5. Lago di Fedaia beneath the Marmolada, with the mountains reflected in still water.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | At 3,343 m, the highest peak in the Dolomites. A cable car from Malga Ciapela climbs to Punta Rocca (3,265 m). |
@@ -64,6 +92,12 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 
 ## 3. Lago di Carezza (Karersee)
 
+<!-- FIG:C11d -->
+![Figure 11.6. Lago di Carezza (Karersee), with the Latemar behind the trees and the green water reflecting the sky.](../images/print/C11d.jpg)
+
+*Figure 11.6. Lago di Carezza (Karersee), with the Latemar behind the trees and the green water reflecting the sky.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A small lake at 1,520 m beneath the Latemar massif, known for its green-turquoise colour. |
@@ -81,6 +115,12 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 - **Passo Fedaia.** A high pass road with a lake, beneath the Marmolada glacier.
 
 ## 5. The villages
+
+<!-- FIG:C11e -->
+![Figure 11.7. Autumn larches and the mountains above Canazei, the main village at the head of Val di Fassa.](../images/print/C11e.jpg)
+
+*Figure 11.7. Autumn larches and the mountains above Canazei, the main village at the head of Val di Fassa.*
+<!-- /FIG -->
 
 - **Canazei.** The main town. Lifts, restaurants and shops. Good for a first stay.
 - **Campitello.** Quieter than Canazei, with the Col Rodella cable car.

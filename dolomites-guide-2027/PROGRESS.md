@@ -29,8 +29,10 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Ch 19 Safety, Health, Connectivity, Packing | Drafted and proofread |
 | Appendices A–F, author note, review request | Drafted. Author bio and update-page address are placeholders for the author |
 | Full-book consistency pass | Done 4 Oct 2026 (chapter references, placeholders, figure markers) |
-| Maps and images | Phase 2 (next) |
-| DOCX / PDF builds | Phase 3 |
+| Maps | Done: 16 maps drawn from OpenStreetMap and terrain data; print (greyscale) and ebook versions in `images/print` and `images/ebook` |
+| Photographs | Done: 79 free-licence photos (CC0, CC BY, CC BY-SA, public domain), each checked against its caption and licence; embedded in the chapters; credits in Appendix F |
+| Cover photograph | Chosen: Tre Cime panorama, Pavel Špindler, CC BY 3.0 (`images/cover_choice.json`); not yet placed |
+| DOCX / PDF / EPUB builds, covers, KDP sheet | Phase 3. ON HOLD: the author said not to build yet |
 
 ## Proofreading checklist (every chapter)
 

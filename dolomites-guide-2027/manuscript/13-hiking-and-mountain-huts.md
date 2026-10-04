@@ -8,6 +8,12 @@ This chapter helps you pick the right walks, plan a hut stay, and avoid the usua
 
 ## How to choose a hike
 
+<!-- FIG:C13a -->
+![Figure 13.1. Walkers on the wide valley path in Val Fiscalina, a gentle walk with big mountain views.](../images/print/C13a.jpg)
+
+*Figure 13.1. Walkers on the wide valley path in Val Fiscalina, a gentle walk with big mountain views.*
+<!-- /FIG -->
+
 ### The difficulty scale used in this book
 
 | Level | What it means |
@@ -81,6 +87,12 @@ Times and distances come from tourist boards and trail guides. They are for walk
 
 ## Mountain huts (rifugi)
 
+<!-- FIG:C13b -->
+![Figure 13.2. A Dolomites mountain hut: Rifugio Averau, where walkers stop for lunch on the high paths near Nuvolau.](../images/print/C13b.jpg)
+
+*Figure 13.2. A Dolomites mountain hut: Rifugio Averau, where walkers stop for lunch on the high paths near Nuvolau.*
+<!-- /FIG -->
+
 Huts are not hotels, but they are not camp stoves either. Most serve hot meals, drinks and coffee, and many offer beds. They are independently run or owned by alpine clubs such as the Club Alpino Italiano (CAI).
 
 ### Using huts for lunch
@@ -130,6 +142,12 @@ There is no central booking system. Each hut takes its own reservations, by webs
 Each hut sets its own dates, so confirm for 2027.
 
 ## The Alta Via 1 and shorter hut-to-hut routes
+
+<!-- FIG:M14 -->
+![Figure 13.3. The Alta Via 1 from Lago di Braies to La Pissa. The huts are joined by straight lines, so this shows the order of the stages, not the path of the trail.](../images/print/M14.png)
+
+*Figure 13.3. The Alta Via 1 from Lago di Braies to La Pissa. The huts are joined by straight lines, so this shows the order of the stages, not the path of the trail.*
+<!-- /FIG -->
 
 ### Alta Via 1 at a glance
 

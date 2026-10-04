@@ -21,6 +21,19 @@ Italy has no general freedom-of-panorama rule for modern buildings and artworks,
 """
 
 
+def clean_author(a):
+    a = re.sub(r"\s+", " ", a or "").strip()
+    if "Wolfgang Moroder" in a:
+        return "Wolfgang Moroder"
+    a = re.sub(r"No machine-readable author provided\.?\s*", "", a)
+    a = re.sub(r"~commonswiki assumed.*$", "", a).strip()
+    a = re.sub(r"^Picture by\s+", "", a)
+    a = re.sub(r"^User:", "", a)
+    if a.count("(") > a.count(")"):
+        a += ")"
+    return a or "Unknown author"
+
+
 def short_lic(c):
     return c["license"] or c["kind"]
 
@@ -32,7 +45,7 @@ def entry(label, sid):
         adapt = " Cropped and converted to greyscale for print; adaptation shared under the same licence."
     elif c["kind"] == "BY":
         adapt = " Cropped and converted to greyscale for print."
-    author = c["author"] or "Unknown author"
+    author = clean_author(c["author"])
     return f'**{label}.** "{c["title"]}", by {author}. Wikimedia Commons. {short_lic(c)}.{adapt}'
 
 

@@ -6,6 +6,12 @@ This chapter covers Alta Badia, the **Sella Ronda** (the loop around the Sella m
 
 ## Overview
 
+<!-- FIG:M04 -->
+![Figure 8.1. The Sella Ronda and the four great passes. 1 Passo Gardena, 2 Passo Sella, 3 Passo Pordoi, 4 Passo Campolongo. The heavy line is the road circuit.](../images/print/M04.png)
+
+*Figure 8.1. The Sella Ronda and the four great passes. 1 Passo Gardena, 2 Passo Sella, 3 Passo Pordoi, 4 Passo Campolongo. The heavy line is the road circuit.*
+<!-- /FIG -->
+
 | | |
 |---|---|
 | **Province** | South Tyrol (Passo Pordoi and Fassa side are in Trentino; Arabba is in Veneto) |
@@ -22,9 +28,13 @@ This chapter covers Alta Badia, the **Sella Ronda** (the loop around the Sella m
 - **By bus.** Passo Falzarego is reachable by bus from Colfosco, Corvara, La Villa and San Cassiano (2026 information). Ask your hotel about a guest pass for local buses.
 - **Lifts.** A local summer card for Alta Badia exists. The SuperSummer card (Chapter 4) also covers many lifts across the region.
 
-<!-- FIGURE: Map 4 | Alta Badia and the Sella Ronda: villages, four passes, direction of travel, bus links, Pisciadù and Piz Boè starts -->
-
 ## The four great passes
+
+<!-- FIG:C08a -->
+![Figure 8.2. The climb to the Passo Gardena from Corvara, with Dolomite rock walls on either side.](../images/print/C08a.jpg)
+
+*Figure 8.2. The climb to the Passo Gardena from Corvara, with Dolomite rock walls on either side.*
+<!-- /FIG -->
 
 The Sella Ronda links four passes around the Sella massif. They are among the most famous mountain roads in Europe.
 
@@ -69,6 +79,12 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 
 ## 3. Piz Boè from Passo Pordoi
 
+<!-- FIG:C08b -->
+![Figure 8.3. The rock face of Sass Pordoi (Pordoispitze), seen from the Passo Pordoi.](../images/print/C08b.jpg)
+
+*Figure 8.3. The rock face of Sass Pordoi (Pordoispitze), seen from the Passo Pordoi.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | At 3,152 m, Piz Boè is the highest summit in the Sella group and one of the easiest 3,000-metre peaks in the Dolomites. |
@@ -87,6 +103,18 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 
 ## 4. Lago Pisciadù and the Brigata Tridentina via ferrata
 
+<!-- FIG:C08c -->
+![Figure 8.4. Rifugio Cavazza al Pisciadù (Pisciadùhütte), beneath the Pisciadù cliffs.](../images/print/C08c.jpg)
+
+*Figure 8.4. Rifugio Cavazza al Pisciadù (Pisciadùhütte), beneath the Pisciadù cliffs.*
+<!-- /FIG -->
+
+<!-- FIG:C08d -->
+![Figure 8.5. The Brigata Tridentina via ferrata. The red line shows the route up the cliff, and the suspension bridge (Ponte Tibetano) is marked near the top.](../images/print/C08d.jpg)
+
+*Figure 8.5. The Brigata Tridentina via ferrata. The red line shows the route up the cliff, and the suspension bridge (Ponte Tibetano) is marked near the top.*
+<!-- /FIG -->
+
 | At a glance | |
 |---|---|
 | **Overview** | A small lake at 2,564 m with a hut above it (Rifugio Cavazza, 2,585 m), reached from Passo Gardena on foot or by via ferrata. |
@@ -100,6 +128,24 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 | **Drawbacks** | Exposed, and can be busy in peak weeks. |
 
 ## 5. Alta Badia villages and Ladin culture
+
+<!-- FIG:C08e -->
+![Figure 8.6. The mountains above Colfosco and Corvara in Alta Badia, seen from Col Pradat.](../images/print/C08e.jpg)
+
+*Figure 8.6. The mountains above Colfosco and Corvara in Alta Badia, seen from Col Pradat.*
+<!-- /FIG -->
+
+<!-- FIG:C08f -->
+![Figure 8.7. The Heiligkreuzkofel (Sasso della Croce) in the Puez-Odle (Puez-Geisler) nature park.](../images/print/C08f.jpg)
+
+*Figure 8.7. The Heiligkreuzkofel (Sasso della Croce) in the Puez-Odle (Puez-Geisler) nature park.*
+<!-- /FIG -->
+
+<!-- FIG:C08g -->
+![Figure 8.8. Ciastel de Tor (Schloss Thurn) at San Martino in Badia, home of the Ladin museum.](../images/print/C08g.jpg)
+
+*Figure 8.8. Ciastel de Tor (Schloss Thurn) at San Martino in Badia, home of the Ladin museum.*
+<!-- /FIG -->
 
 - **Corvara, Colfosco, La Villa, San Cassiano.** The main bases. Each has hotels, restaurants and lifts. San Cassiano is quieter and known for fine dining.
 - **Museum Ladin Ciastel de Tor (San Martino in Badia).** About the culture and history of the Ladin people. Summer hours in 2026 were Tuesday to Sunday, 10:00 to 18:00, closed Monday. A second site in San Cassiano, the Ursus ladinicus museum, covers the cave bear and the geology of the Dolomites.
