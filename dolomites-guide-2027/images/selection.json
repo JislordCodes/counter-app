@@ -408,5 +408,12 @@
   "ay": 0.5,
   "src": "C09g",
   "caption": "A Dolomites mountain hut: Rifugio Averau, where walkers stop for lunch on the high paths near Nuvolau."
+ },
+ "C15a": {
+  "idx": 7,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Saslong run in Val Gardena, with the snow-covered Dolomites behind."
  }
 }
