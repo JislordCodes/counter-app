@@ -23,7 +23,8 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Ch 13 Hiking and Mountain Huts | Drafted and proofread |
 | Ch 14 Via Ferrata, Cycling, Adventures | Drafted and proofread |
 | Ch 15 Winter in the Dolomites | Drafted and proofread (2026/27 prices are aggregator-sourced; verify) |
-| Ch 16–17 Food, culture | Not started |
+| Ch 16 Food and Drink | Drafted and proofread |
+| Ch 17 Culture, History, Etiquette, Photography | Drafted and proofread (sunrise/sunset times computed, not sourced) |
 | Ch 18 Itineraries | Not started |
 | Ch 19 Safety and practical | Not started |
 | Appendices | Not started |

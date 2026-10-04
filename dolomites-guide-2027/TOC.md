@@ -130,12 +130,13 @@ Canazei · Campitello · Moena · **Catinaccio/Rosengarten and the Vajolet Tower
 - Wine, beer, coffee and aperitivo; dietary needs; peak times
 - Whether it is worth the price
 
-### 17. Culture, History and Etiquette
+### 17. Culture, History, Etiquette and Photography
 - Why the three-language region matters to visitors
 - The Great War in the mountains: what you can still see
 - Mountaineering, Messner and the Olympics: why they matter today
 - Etiquette: greetings, tipping, coperto, hut manners, trail courtesy, protected areas
 - Responsible travel and rules that carry fines
+- Photography guide: sunrise and sunset times, best viewpoints, seasons, crowd avoidance
 
 ---
 
