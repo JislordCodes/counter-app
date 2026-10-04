@@ -282,5 +282,12 @@
   "ay": 0.5,
   "src": "C09c",
   "caption": "A timber-lined room inside the Lagazuoi tunnels."
+ },
+ "C09e": {
+  "idx": 1,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The turquoise water of Lago di Sorapis, with the Sorapiss peaks rising behind."
  }
 }
