@@ -295,5 +295,12 @@
   "ax": 0.5,
   "ay": 0.35,
   "caption": "The Tofane group lit by evening sun, seen across the valleys from near the Passo Pordoi."
+ },
+ "C10c": {
+  "idx": 1,
+  "aspect": 1.9,
+  "ax": 0.4,
+  "ay": 0.5,
+  "caption": "The jagged spires of the Cadini di Misurina."
  }
 }
