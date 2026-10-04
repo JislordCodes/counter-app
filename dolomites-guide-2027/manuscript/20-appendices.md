@@ -172,13 +172,14 @@ Italian letters A (easy) to D (extremely difficult), and the K-scale (K1 to K6).
 
 *[DRAFT BIO. This is a placeholder. Replace the bracketed parts with true details before publishing, and delete anything that is not true.]*
 
-Dave Velaquez writes practical travel guides for people who want to plan a trip once and plan it well. He is based in [your city or country]. His guides turn official timetables, booking rules and price lists into clear steps, so readers can see what to book, what it costs and what to skip.
+Dave Velaquez writes practical travel guides for people who want to plan a trip once and plan it well. Dave is based in [your city or country]. These guides turn official timetables, booking rules and price lists into clear steps, so readers can see what to book, what it costs and what to skip.
 
-He first visited the Dolomites in [year] and has since returned [number] times in [seasons]. When he is not writing, he enjoys [hobbies, for example hiking, photography or cooking].
+Dave first visited the Dolomites in [year] and has returned [number] times, in [seasons]. Away from the keyboard, Dave enjoys [hobbies, for example hiking, photography or cooking].
 
-Dave updates this guide each season. Corrections and reader questions are welcome at [your email address or update page].
+This guide is updated each season. Corrections and reader questions are welcome at [your email address or update page].
 
 **Dave Velaquez**
+
 ---
 
 # A Request
