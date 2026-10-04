@@ -401,5 +401,13 @@
   "ay": 0.5,
   "src": "C13a",
   "caption": "The suspension bridge on the Ivano Dibona via ferrata, high above the valley in the Cristallo group."
+ },
+ "C13b": {
+  "idx": 4,
+  "aspect": 1.4,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C09g",
+  "caption": "A Dolomites mountain hut: Rifugio Averau, where walkers stop for lunch on the high paths near Nuvolau."
  }
 }
