@@ -8,3 +8,4 @@ C14b=Radfahren Südtirol|Cycling Dolomites|Sellaronda
 C14c=Mountainbike Südtirol|Mountain biking Kronplatz
 C14d=Paragliding Südtirol|Paragliding Kronplatz
 C14e=Pustertaler Radweg|Radweg Südtirol
+C15c=Christkindlmarkt Bozen|Weihnachtsmarkt Brixen|Mercatino di Natale Bolzano
