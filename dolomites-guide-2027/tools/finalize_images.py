@@ -17,8 +17,17 @@ os.makedirs(os.path.join(IMG, "print"), exist_ok=True)
 os.makedirs(os.path.join(IMG, "ebook"), exist_ok=True)
 
 
+STD = [250, 330, 500, 960, 1280, 1920, 3840]  # Wikimedia's standard thumbnail widths; other sizes and originals are throttled
+
+
 def thumb_url(title, width=1920):
-    params = dict(action="query", titles=title, prop="imageinfo", iiprop="url|size", iiurlwidth=str(width), format="json")
+    """Return (url, w, h) for the largest standard thumbnail not wider than the original."""
+    params = dict(action="query", titles=title, prop="imageinfo", iiprop="size", format="json")
+    d = json.loads(get(API + "?" + urllib.parse.urlencode(params)))
+    ii = list(d["query"]["pages"].values())[0]["imageinfo"][0]
+    ow = ii["width"]
+    w = max([s for s in STD if s <= min(width, ow)] or [STD[0]])
+    params = dict(action="query", titles=title, prop="imageinfo", iiprop="url|size", iiurlwidth=str(w), format="json")
     d = json.loads(get(API + "?" + urllib.parse.urlencode(params)))
     ii = list(d["query"]["pages"].values())[0]["imageinfo"][0]
     return ii.get("thumburl") or ii["url"], ii["width"], ii["height"]
