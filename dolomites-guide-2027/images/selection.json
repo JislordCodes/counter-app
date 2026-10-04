@@ -422,5 +422,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Sellaronda signs. Orange marks the clockwise direction and green the counter-clockwise one."
+ },
+ "C15e": {
+  "idx": 1,
+  "aspect": 1.35,
+  "ax": 0.5,
+  "ay": 0.3,
+  "caption": "The Olimpia delle Tofane ski race course above Cortina, seen in summer as a cleared strip on the slope."
  }
 }
