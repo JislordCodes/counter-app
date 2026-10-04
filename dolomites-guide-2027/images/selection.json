@@ -330,5 +330,20 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "The Catinaccio (Rosengarten) group above a hay hut in the Tiers valley, seen from the north side."
+ },
+ "C11c": {
+  "idx": 4,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Marmolada, the highest peak in the Dolomites (3,343 m), with its glacier below the summit."
+ },
+ "C11f": {
+  "idx": 2,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C11c",
+  "caption": "Snow and ice on the Marmolada glacier."
  }
 }

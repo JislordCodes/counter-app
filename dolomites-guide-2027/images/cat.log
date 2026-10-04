@@ -44,3 +44,5 @@ C10i categories: ['Category:Alta via 1', 'Category:Haute Route n° 1', 'Category
 C10i   8 candidates {'PD': 0, 'BY': 0, 'BY-SA': 8}
 C11b categories: ['Category:Catinaccio', 'Category:Catinaccio refuge', 'Category:Catinaccio Centrale', 'Category:Rosengarten group', 'Category:Rosengarten']
 C11b   6 candidates {'PD': 0, 'BY': 1, 'BY-SA': 5}
+C11c categories: ['Category:Marmolada', 'Category:Ghiacciaio della Marmolada', 'Category:Gruppo Marmolada', 'Category:Marmolada group']
+C11c   8 candidates {'PD': 2, 'BY': 6, 'BY-SA': 0}
