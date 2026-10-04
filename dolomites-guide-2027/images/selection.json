@@ -260,5 +260,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Cortina d'Ampezzo, with the rock walls rising directly behind the town."
+ },
+ "C09b": {
+  "idx": 0,
+  "aspect": 1.6,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Cinque Torri rock towers on their grassy ridge, with the Tofane group on the left."
  }
 }
