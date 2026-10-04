@@ -31,8 +31,8 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Full-book consistency pass | Done 4 Oct 2026 (chapter references, placeholders, figure markers) |
 | Maps | Done: 16 maps drawn from OpenStreetMap and terrain data; print (greyscale) and ebook versions in `images/print` and `images/ebook` |
 | Photographs | Done: 79 free-licence photos (CC0, CC BY, CC BY-SA, public domain), each checked against its caption and licence; embedded in the chapters; credits in Appendix F |
-| Cover photograph | Chosen: Tre Cime panorama, Pavel Špindler, CC BY 3.0 (`images/cover_choice.json`); not yet placed |
-| DOCX / PDF / EPUB builds, covers, KDP sheet | Phase 3. ON HOLD: the author said not to build yet |
+| Cover photograph | Placed on both covers: Tre Cime, Pavel Špindler, CC BY 3.0; credited in Appendix F |
+| Production build (PDF, DOCX, EPUB, covers, KDP guide) | Done: `production/` (paperback interior PDF and DOCX, paperback cover wrap PDF, ebook EPUB, PDF and DOCX, ebook cover JPG, KDP listing and upload guide, QA report). Rebuild with `python3 -m tools.bookbuild.make_all` |
 
 ## Proofreading checklist (every chapter)
 

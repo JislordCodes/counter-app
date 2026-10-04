@@ -139,7 +139,7 @@ class Emitter:
         if f.h / f.w * textw > maxh:
             img = f'align(center, image({tstr(path)}, height: {maxh}in))'
         else:
-            img = f'image({tstr(path)}, width: 100%)'
+            img = f'image({tstr(path)}, width: 100%)' if f.kind == 'map' else f'align(center, image({tstr(path)}, width: 90%))'
         cap = ti([("t", f.caption)])
         label = f.label.upper()
         return (f'#figure(placement: auto, kind: {tstr(f.kind)}, supplement: none, numbering: none, '
@@ -304,6 +304,7 @@ TEMPLATE = r'''
 }
 
 // ---- headings
+#show heading: set text(hyphenate: false)
 #show heading.where(level: 1): it => {
   to-recto()
   let info = PT.at(str(it.label))
@@ -381,10 +382,11 @@ TEMPLATE = r'''
 #let kvtable(title, kcol, ..cells) = {
   let c = cells.pos()
   let nrows = calc.div-euclid(c.len(), 2)
-  block(width: 100%%, above: 10pt, below: 13pt, breakable: false, stroke: 0.55pt + rule, radius: 2.5pt, clip: true)[
+  let long = nrows > 8
+  block(width: 100%%, above: 10pt, below: 13pt, breakable: long, stroke: if long { none } else { 0.55pt + rule }, radius: 2.5pt, clip: not long)[
     #set par(justify: false, leading: 0.42em, spacing: 0.4em)
     #set text(hyphenate: false)
-    #table(columns: (kcol, 1fr), inset: (x: 7pt, y: 4.4pt), stroke: (x, y) => (bottom: if y < nrows - 1 + (if title != none { 1 } else { 0 }) { 0.3pt + rule } else { none }),
+    #table(columns: (kcol, 1fr), inset: (x: 7pt, y: if long { 3.4pt } else { 4.4pt }), stroke: (x, y) => (bottom: if y < nrows - 1 + (if title != none { 1 } else { 0 }) { 0.3pt + rule } else if long { 0.55pt + rule } else { none }, top: if long and y == 0 { 0.55pt + rule } else { none }),
       fill: (x, y) => if title != none and y == 0 { hdr } else if x == 0 { tint } else { none },
       ..(if title != none { (table.cell(colspan: 2, inset: (x: 7pt, y: 4.6pt))[#text(font: sans, size: 7.6pt, weight: 700, tracking: 0.18em, fill: white)[#upper(title)]],) } else { () }),
       ..c.enumerate().map(((i, x)) => if calc.even(i) { text(font: sans, size: 8.3pt, weight: 600, fill: acc, features: ("lnum", "tnum"))[#x] } else { text(font: sans, size: 8.5pt, features: ("lnum", "tnum"))[#x] }))
@@ -395,10 +397,11 @@ TEMPLATE = r'''
   let c = cells.pos()
   let n = cols.len()
   let nrows = calc.div-euclid(c.len(), n)
+  let pad = if nrows >= 26 { 2.9pt } else { 4pt }
   block(width: 100%%, above: 9pt, below: 13pt, breakable: not keep)[
     #set par(justify: false, leading: 0.42em, spacing: 0.4em)
     #show table.cell: it => { set text(font: sans, size: 8.2pt, hyphenate: false, features: ("lnum", "tnum")); it }
-    #table(columns: cols, inset: (x: 5.5pt, y: 4pt), stroke: (x, y) => (bottom: 0.3pt + rule),
+    #table(columns: cols, inset: (x: 5.5pt, y: pad), stroke: (x, y) => (bottom: 0.3pt + rule),
       fill: (x, y) => if header.len() > 0 and y == 0 { hdr } else if calc.odd(y + (if header.len() > 0 { 1 } else { 0 })) { tint2 } else { none },
       ..(if header.len() > 0 { (table.header(..header.map(h => table.cell(text(fill: white, weight: 700, size: 7.8pt, tracking: 0.04em)[#h]))),) } else { () }),
       ..c)
@@ -652,8 +655,8 @@ def credits_section(book, s, edition):
         if b[0] == "credits":
             items = []
             for p in b[1]:
-                items.append("#block(breakable: false, below: 5pt)[" + ti(p[1]) + "]")
-            e.w("#[\n#set text(size: 7.7pt, font: sans)\n#set par(justify: false, leading: 0.42em)\n#columns(2, gutter: 14pt)[\n" + "\n".join(items) + "\n]\n]\n\n")
+                items.append("#block(breakable: false, below: 3.6pt)[" + ti(p[1]) + "]")
+            e.w("#[\n#set text(size: 7.4pt, font: sans)\n#set par(justify: false, leading: 0.4em)\n#columns(2, gutter: 14pt)[\n" + "\n".join(items) + "\n]\n]\n\n")
         else:
             e.blocks([b])
     return "".join(e.out)

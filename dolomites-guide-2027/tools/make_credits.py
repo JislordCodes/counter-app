@@ -54,6 +54,9 @@ def main():
     for label, sid in nums:
         if sid in credits:
             lines.append(entry(label, sid))
+    cover = ('**Front cover.** "Tre Cime di Lavaredo - panoramio (2).jpg", by Pavel \u0160pindler. Wikimedia Commons. CC BY 3.0 '
+             '(creativecommons.org/licenses/by/3.0). Cropped, colour-adjusted and combined with a sky gradient and title text for the cover.')
+    lines.append(cover)
     body = PREAMBLE + "\n\n".join(lines) + "\n\n---\n\n"
     text = open(APP, encoding="utf-8").read()
     new = re.sub(r"# Appendix F: Image Credits and Sources.*?(?=# About the Author)", lambda m: body, text, flags=re.S)

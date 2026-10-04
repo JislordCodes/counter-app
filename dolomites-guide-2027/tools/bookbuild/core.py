@@ -193,7 +193,7 @@ def table_block(t):
     return ("table", "data", None, header, body)
 
 
-def blocks_of(parent, figs):
+def blocks_of(parent, figs, in_quote=False):
     out = []
     for el in parent.children:
         if isinstance(el, NavigableString):
@@ -209,7 +209,7 @@ def blocks_of(parent, figs):
             else:
                 p_inl = strip_edges(inl(el))
                 lab = inl_text(p_inl[0][1]).strip().rstrip(":.").lower() if p_inl and p_inl[0][0] == "b" else ""
-                if lab in CALLOUT:
+                if lab in CALLOUT and not in_quote:
                     out.append(callout_from([("p", p_inl)]))
                 else:
                     out.append(("p", p_inl))
@@ -226,7 +226,7 @@ def blocks_of(parent, figs):
         elif n == "table":
             out.append(table_block(el))
         elif n == "blockquote":
-            out.append(callout_from(blocks_of(el, figs)))
+            out.append(callout_from(blocks_of(el, figs, in_quote=True)))
         elif n == "hr":
             out.append(("hr",))
     return out

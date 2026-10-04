@@ -1,5 +1,6 @@
 import os, sys, time
-import fitz
+import pymupdf
+fitz = pymupdf
 
 from .core import ROOT, load_book
 from .typ import build_typ, compile_pdf
@@ -31,7 +32,12 @@ def main(edition="print", name=None, cover=None):
         if nb == blanks:
             break
         blanks = nb
-    print("built", out, round(time.time() - t, 1), "s", "blank pages:", len(blanks))
+    if edition == "print":
+        n = len(pymupdf.open(out))
+        if n % 2 == 1:  # print on whole sheets: end on a blank left-hand page
+            src = build_typ(book, edition, cover_image=cover, blanks=blanks) + "\n#page(footer: none)[]\n"
+            compile_pdf(src, out, f"book-{edition}")
+    print("built", out, round(time.time() - t, 1), "s", "blank pages:", len(blanks), "| pages:", len(pymupdf.open(out)))
     return out
 
 

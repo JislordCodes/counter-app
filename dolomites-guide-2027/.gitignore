@@ -6,3 +6,10 @@ __pycache__/
 build/*.typ
 dist/draft-*
 images/cover/preview*
+images/cover/wrap-bg.png
+images/cover/ebook-bg.png
+images/cover/ebook-cover.png
+build/docx_img_*/
+build/epub_img/
+build/book-*.typ
+build/make_all.log
