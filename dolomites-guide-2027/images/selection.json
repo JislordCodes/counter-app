@@ -526,5 +526,13 @@
   "ay": 0.5,
   "src": "C10f",
   "caption": "The Drava cycle path near San Candido, running beside the railway through the Pusteria valley."
+ },
+ "C13a": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C10e",
+  "caption": "Walkers on the wide valley path in Val Fiscalina, a gentle walk with big mountain views."
  }
 }
