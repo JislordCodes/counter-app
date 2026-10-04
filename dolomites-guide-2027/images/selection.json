@@ -554,5 +554,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Edelweiss, one of the protected alpine flowers. Do not pick it."
+ },
+ "C19a": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "An Aiut Alpin Dolomites rescue helicopter in flight. For any emergency in the mountains, call 112."
  }
 }
