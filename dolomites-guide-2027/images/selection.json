@@ -210,5 +210,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "A gondola station on the Kronplatz (Plan de Corones). Modern lifts like this one are covered by most lift passes and summer cards."
+ },
+ "C05a": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Rifugio Auronzo at 2,333 m. Huts at this height are priced for the effort of supplying them."
  }
 }
