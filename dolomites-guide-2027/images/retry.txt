@@ -12,3 +12,4 @@ C15c=Christkindlmarkt Bozen|Weihnachtsmarkt Brixen|Mercatino di Natale Bolzano
 C15d=Rodeln|Sledding Südtirol|Rodelbahn
 C17a=Cinque Torri|Museo all'aperto 5 Torri|Cinque Torri trenches
 C17f=Leontopodium alpinum|Gentiana acaulis|Alpine flowers Dolomites
+C19a=Aiut Alpin Dolomites|Bergrettung Südtirol|Elisoccorso Alto Adige
