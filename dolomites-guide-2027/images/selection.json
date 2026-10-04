@@ -393,5 +393,13 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "A cabin of the Renon (Ritten) cableway above the forest on the climb from Bolzano."
+ },
+ "C14a": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C13a",
+  "caption": "The suspension bridge on the Ivano Dibona via ferrata, high above the valley in the Cristallo group."
  }
 }

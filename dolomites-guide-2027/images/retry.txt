@@ -1,3 +1,4 @@
 C10f=Innichen|Stiftskirche Innichen
 C02a=Lärchen Herbst Südtirol|Larchwiese Ritten
 C12b=Dom von Brixen|Brixen Altstadt
+C13a=Wandern Dolomiten|Alta Via 2 Dolomiten|Sentiero delle Dolomiti
