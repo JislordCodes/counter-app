@@ -511,5 +511,20 @@
   "ay": 0.5,
   "src": "C07c",
   "caption": "Golden larches below the Sassolungo in late autumn, with the first snow on the peaks."
+ },
+ "C10f": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The main square of San Candido (Innichen), with snow-dusted peaks above the old town."
+ },
+ "C14e": {
+  "idx": 3,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C10f",
+  "caption": "The Drava cycle path near San Candido, running beside the railway through the Pusteria valley."
  }
 }

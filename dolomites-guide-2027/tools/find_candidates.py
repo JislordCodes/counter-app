@@ -133,7 +133,7 @@ def candidates_for(slot):
 def sheet(slot, cands):
     tiles = []
     for i, c in enumerate(cands):
-        fn = os.path.join(THUMB, f"{slot['id']}_{i}.jpg")
+        fn = os.path.join(THUMB, f"{slot['id']}_{i}_{abs(hash(c['title'])) % 10**8 if False else __import__('hashlib').md5(c['title'].encode()).hexdigest()[:8]}.jpg")
         if not os.path.exists(fn):
             try:
                 with open(fn, "wb") as f:
