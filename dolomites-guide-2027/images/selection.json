@@ -415,5 +415,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "The Saslong run in Val Gardena, with the snow-covered Dolomites behind."
+ },
+ "C15b": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Sellaronda signs. Orange marks the clockwise direction and green the counter-clockwise one."
  }
 }

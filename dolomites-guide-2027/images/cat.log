@@ -84,3 +84,5 @@ C14e categories: []
 C14e   0 candidates {'PD': 0, 'BY': 0, 'BY-SA': 0}
 C15a categories: ['Category:Saslong', 'Category:Gardena Ronda Express', 'Category:Dantercepies', 'Category:Raschötzer Bahn', 'Category:Dolomiti Superski']
 C15a   8 candidates {'PD': 0, 'BY': 4, 'BY-SA': 4}
+C15b categories: ['Category:Sella Ronda', 'Category:Sellaronda', 'Category:Dantercepies']
+C15b   8 candidates {'PD': 1, 'BY': 1, 'BY-SA': 6}
