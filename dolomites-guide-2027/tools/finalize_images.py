@@ -39,7 +39,7 @@ def crop(im, aspect, ax=0.5, ay=0.5):
 
 
 def make(slot, spec):
-    cand = json.load(open(os.path.join(IMG, "candidates", slot.split("#")[0] + ".json")))[spec["idx"]]
+    cand = json.load(open(os.path.join(IMG, "candidates", spec.get("src", slot.split("#")[0]) + ".json")))[spec["idx"]]
     base = slot
     fn = os.path.join(IMG, "original", base + ".jpg")
     if not os.path.exists(fn):

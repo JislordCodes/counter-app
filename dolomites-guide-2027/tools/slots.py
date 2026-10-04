@@ -15,7 +15,7 @@ def slot(id, chapter, section, subject, queries, must, avoid=(), min_w=2400, cov
 
 
 slot("COVER", "Cover", "Front cover", "A sweeping Dolomites peak view with strong light, suitable for a cover",
-     ["Tre Cime di Lavaredo sunrise", "Seceda Odle sunrise", "Dolomites sunrise panorama", "Dolomiti alba Tre Cime"],
+     ["Dolomites sunrise", "Tre Cime sunrise", "Seceda sunrise", "Dolomites panorama"],
      ["dolomit", "seceda", "tre cime", "lavaredo", "odle", "dreizinnen", "drei zinnen"], ["ski"], cover=True)
 
 # Chapter 1
@@ -30,13 +30,13 @@ slot("C02s", "2", "Summer", "Wildflower meadow in summer in the Dolomites",
      ["Seiser Alm wildflowers summer", "Alpe di Siusi flowers", "Dolomites alpine meadow flowers", "Wiese Blumen Dolomiten Sommer"],
      ["flower", "blume", "fiori", "meadow", "wiese", "blüh"], ["winter", "ski", "snow"])
 slot("C02a", "2", "Autumn", "Golden larch trees in autumn in the Dolomites",
-     ["larch autumn Dolomites", "Lärchen Herbst Dolomiten", "Cortina d'Ampezzo autumn larches", "Dolomites autumn colours"],
+     ["larch autumn", "Lärchen Herbst", "Dolomites autumn", "larici autunno"],
      ["larch", "lärche", "larici", "autumn", "herbst", "autunno"], ["winter"])
 slot("C02w", "2", "Winter", "Snow-covered Dolomites peaks in winter",
      ["Dolomites winter snow", "Seiser Alm winter", "Dolomiti inverno neve", "Cortina d'Ampezzo winter"],
      ["winter", "snow", "schnee", "neve", "inverno"], [])
 slot("C02p", "2", "Spring", "Apple blossom in South Tyrol valley in spring",
-     ["Apfelblüte Südtirol", "apple blossom South Tyrol", "Etschtal Apfelblüte", "Apple blossom Bolzano"],
+     ["Apfelblüte Südtirol", "apple blossom Tyrol", "Apfelblüte Bozen", "apple blossom Dolomites"],
      ["blossom", "blüte", "fioritura", "apfel", "apple"], [])
 slot("C02m", "2", "Summer (wildlife)", "Alpine marmot in the Dolomites",
      ["marmot Dolomites", "Marmota marmota Dolomiti", "Murmeltier Südtirol", "marmot Alpe di Siusi"],
@@ -58,18 +58,18 @@ slot("C04a", "4", "By train", "A regional train in the Pustertal or South Tyrol"
      ["Pustertalbahn Toblach train", "Toblach railway station train", "Südtirol Zug Pustertal", "Dobbiaco stazione treno"],
      ["pustertal", "toblach", "dobbiaco", "innichen", "san candido", "brunico", "bruneck", "bolzano", "bozen", "südtirol"], [])
 slot("C04b", "4", "Mountain pass driving", "Hairpin bends on a Dolomites pass road",
-     ["Passo Pordoi hairpin", "Passo Giau road tornanti", "Passo Gardena road", "Sellajoch Kehren"],
+     ["Passo Pordoi road", "Passo Giau road", "Grödner Joch Straße", "Sellajoch Straße"],
      ["pordoi", "giau", "gardena", "sella", "falzarego", "campolongo", "hairpin", "tornant", "kehre"], ["winter", "ski"])
 slot("C04c", "4", "Public transport", "A SAD or local bus in the mountains",
      ["SAD bus South Tyrol", "Linienbus Südtirol Grödnerjoch", "bus Val Gardena", "Dolomiti Bus Cortina"],
      ["bus"], [])
 slot("C04d", "4", "Lift passes", "A modern gondola cable car in the Dolomites",
-     ["gondola Dolomites cable car", "Kabinenbahn Dolomiten", "Dolomites cable car summer"],
+     ["Seilbahn Dolomiten", "Kabinenbahn Südtirol", "cabinovia Dolomiti", "gondola Kronplatz"],
      ["gondola", "kabinenbahn", "cable car", "seilbahn", "funivia", "cabinovia"], ["winter", "ski"])
 
 # Chapter 5, 6
 slot("C05a", "5", "Food costs", "A mountain hut terrace in the Dolomites",
-     ["rifugio terrace Dolomites", "Berghütte Südtirol Terrasse", "Rifugio Dolomites hikers lunch"], ["rifugio", "hütte", "alm", "hut"], ["winter"])
+     ["rifugio Dolomiti", "Berghütte Südtirol", "Schutzhütte Dolomiten", "Rifugio Lagazuoi"], ["rifugio", "hütte", "alm", "hut"], ["winter"])
 slot("C06a", "6", "Ortisei and Val Gardena", "Ortisei village in Val Gardena",
      ["Ortisei St. Ulrich Gröden", "Ortisei panorama", "Urtijëi Ortisei village"], ["ortisei", "st. ulrich", "urtijëi", "urtijei"], ["winter", "ski"])
 slot("C06b", "6", "Farm stays", "A traditional South Tyrol farmhouse",

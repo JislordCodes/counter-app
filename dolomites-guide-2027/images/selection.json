@@ -1,6 +1,207 @@
 {
- "C03a": {"idx": 0, "aspect": 1.5, "ax": 0.5, "ay": 0.5, "caption": "The Seceda cable car climbing above a sea of cloud."},
- "C03c": {"idx": 0, "aspect": 1.5, "ax": 0.5, "ay": 0.4, "caption": "Rifugio Auronzo, at the end of the Tre Cime toll road, with the Tre Cime behind it."},
- "C04a": {"idx": 1, "aspect": 1.5, "ax": 0.5, "ay": 0.5, "caption": "Dobbiaco station, the main rail stop for the northern Dolomites."},
- "C02s": {"idx": 0, "aspect": 1.2, "ax": 0.5, "ay": 0.5, "caption": "A summer meadow of buttercups on the Alpe di Siusi, with the Sciliar rocks behind."}
+ "C03a": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Seceda cable car climbing above a sea of cloud."
+ },
+ "C03c": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.4,
+  "caption": "Rifugio Auronzo, at the end of the Tre Cime toll road, with the Tre Cime behind it."
+ },
+ "C04a": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Dobbiaco station, the main rail stop for the northern Dolomites."
+ },
+ "C02s": {
+  "idx": 0,
+  "aspect": 1.2,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "A summer meadow of buttercups on the Alpe di Siusi, with the Sciliar rocks behind."
+ },
+ "C06b": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "A traditional Ladin farmhouse near Ortisei, with its timber barn wall facing the sun."
+ },
+ "C04b": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Passo Pordoi in early summer, with old snow still lying beside the road."
+ },
+ "C04c": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "A local bus in a South Tyrol mountain village. Buses link nearly every valley and pass."
+ },
+ "C07b": {
+  "idx": 2,
+  "aspect": 1.8,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Alpe di Siusi in summer, with the Sassolungo and Sassopiatto rising behind the meadows."
+ },
+ "C07c": {
+  "idx": 3,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.4,
+  "caption": "The Sassolungo group seen from Passo Sella, here under winter snow."
+ },
+ "C07d": {
+  "idx": 2,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The church of Santa Maddalena in Val di Funes, with the Odle peaks behind."
+ },
+ "C07e": {
+  "idx": 2,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Sciliar (Schlern) massif, with its two rock pinnacles at the right-hand end."
+ },
+ "C01a": {
+  "idx": 0,
+  "aspect": 1.8,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Sella group above the Passo Gardena road."
+ },
+ "C01b": {
+  "idx": 7,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Passo Gardena sign gives the pass name in Ladin, German and Italian."
+ },
+ "C02w": {
+  "idx": 6,
+  "aspect": 1.6,
+  "ax": 0.5,
+  "ay": 0.6,
+  "caption": "Winter on the Alpe di Siusi, with the Sassolungo group in the distance."
+ },
+ "C02p": {
+  "idx": 2,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Apple trees in blossom in an orchard near Merano, South Tyrol."
+ },
+ "C02m": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "An alpine marmot on a Dolomites meadow."
+ },
+ "C03b": {
+  "idx": 6,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The boathouse and rowing boats at Lago di Braies."
+ },
+ "C03d": {
+  "idx": 5,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Siusi cable car climbing above the village, with snow still on the hills."
+ },
+ "C06c": {
+  "idx": 1,
+  "aspect": 1.6,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The mountains above Colfosco and Corvara in Alta Badia, seen in winter."
+ },
+ "C07a": {
+  "idx": 1,
+  "aspect": 1.35,
+  "ax": 0.5,
+  "ay": 0.3,
+  "caption": "The Odle peaks seen from the Seceda ridge, with cloud filling the valley."
+ },
+ "C08f": {
+  "idx": 1,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Heiligkreuzkofel (Sasso della Croce), above the meadows near Santa Croce."
+ },
+ "C09g": {
+  "idx": 3,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Rifugio Averau below Monte Averau, one of the huts near Nuvolau and the Cinque Torri."
+ },
+ "C09d": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Monte Averau above the meadows of the Passo Giau, in autumn colour.",
+  "src": "C09g"
+ },
+ "C10a": {
+  "idx": 0,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Tre Cime di Lavaredo at sunrise, with low cloud around the base."
+ },
+ "C10b": {
+  "idx": 6,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Rifugio Locatelli, with the Tre Cime rising behind it.",
+  "src": "C10a"
+ },
+ "C10d": {
+  "idx": 0,
+  "aspect": 1.7,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Lago di Misurina, with the rock walls of the Sorapiss group rising behind the village."
+ },
+ "C11a": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The Vajolet Towers seen from the Re Alberto hut in the Catinaccio group."
+ },
+ "C08a": {
+  "idx": 3,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The road up to the Passo Gardena, with Dolomite rock walls on either side."
+ },
+ "C08b": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The rock face of Sass Pordoi above the Passo Pordoi."
+ }
 }
