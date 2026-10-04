@@ -495,5 +495,13 @@
   "ay": 0.5,
   "src": "C09c",
   "caption": "Dusk light on the Lagazuoi summit ridge, with small figures standing at the top. Early and late light gives the best colour."
+ },
+ "C19b": {
+  "idx": 2,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "src": "C09c",
+  "caption": "Dark storm clouds over a Dolomites ridge. Afternoon thunderstorms are common in July and August, so start early."
  }
 }
