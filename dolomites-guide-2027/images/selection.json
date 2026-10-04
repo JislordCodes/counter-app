@@ -365,5 +365,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Rooftops in Bolzano, with the Dolomites on the horizon."
+ },
+ "C12c": {
+  "idx": 0,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "The cloister of Neustift Abbey (Novacella) near Brixen, with its painted ribbed vaults."
  }
 }

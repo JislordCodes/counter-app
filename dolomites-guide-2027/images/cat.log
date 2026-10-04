@@ -56,3 +56,5 @@ C12a categories: ['Category:Bolzano', 'Category:Bolzano Airport', 'Category:HC B
 C12a   8 candidates {'PD': 0, 'BY': 2, 'BY-SA': 6}
 C12b categories: ['Category:Cathedral (Brixen)', 'Category:Canons of Salzburg Cathedral', 'Category:Canons of Zeitz Cathedral', 'Category:Canons of Utrecht Cathedral', 'Category:Bressanone']
 C12b   3 candidates {'PD': 2, 'BY': 0, 'BY-SA': 1}
+C12c categories: ['Category:Neustift - Cloister', 'Category:Kloster Neustift (Freising)', 'Category:Kloster Neustift (Vahrn)', 'Category:Neustift - Library', 'Category:Novacella']
+C12c   8 candidates {'PD': 0, 'BY': 0, 'BY-SA': 8}
