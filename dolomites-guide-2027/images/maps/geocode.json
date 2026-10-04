@@ -1,0 +1,1964 @@
+{
+ "Bolzano": [
+  {
+   "lon": 11.2301833,
+   "lat": 46.6559296,
+   "name": "Bolzano - Bozen, Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.3547399,
+   "lat": 46.4984781,
+   "name": "Bolzano - Bozen, Trentino-Alto Adige/Südtirol, 39100, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Bressanone": [
+  {
+   "lon": 11.657792,
+   "lat": 46.716413,
+   "name": "Brixen - Bressanone, Eisacktal - Valle Isarco, Bolzano - Bozen, Trentino-Alto Adige/Südtir",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Brunico": [
+  {
+   "lon": 11.9355121,
+   "lat": 46.7963194,
+   "name": "Bruneck - Brunico, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtirol",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Dobbiaco": [
+  {
+   "lon": 12.2267814,
+   "lat": 46.6933579,
+   "name": "Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtiro",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "San Candido": [
+  {
+   "lon": 12.2847097,
+   "lat": 46.7097542,
+   "name": "Innichen - San Candido, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Süd",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.2820039,
+   "lat": 46.7327834,
+   "name": "Innichen - San Candido, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Süd",
+   "cls": "place",
+   "typ": "town"
+  }
+ ],
+ "Sesto": [
+  {
+   "lon": 12.3870513,
+   "lat": 46.6719672,
+   "name": "Sexten - Sesto, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtirol, I",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.3503959,
+   "lat": 46.7019004,
+   "name": "Sexten - Sesto, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtirol, 3",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Cortina": [
+  {
+   "lon": 12.1323186,
+   "lat": 46.5685125,
+   "name": "Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Corvara": [
+  {
+   "lon": 11.8740339,
+   "lat": 46.5495743,
+   "name": "Corvara in Badia - Corvara, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Ortisei": [
+  {
+   "lon": 11.6721382,
+   "lat": 46.5752077,
+   "name": "Urtijëi - St. Ulrich in Gröden - Ortisei, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen,",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Selva": [
+  {
+   "lon": 11.7600992,
+   "lat": 46.5551877,
+   "name": "Sëlva - Wolkenstein - Selva di Val Gardena, Salten-Schlern - Salto-Sciliar, Bolzano - Boze",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Santa Cristina": [
+  {
+   "lon": 11.7154906,
+   "lat": 46.5590697,
+   "name": "Santa Cristina Gherdëina - St. Christina in Gröden - Santa Cristina Valgardena, Salten-Sch",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Canazei": [
+  {
+   "lon": 11.7710748,
+   "lat": 46.4768809,
+   "name": "Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, Itali",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.0089063,
+   "lat": 46.4503316,
+   "name": "Canazei, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  }
+ ],
+ "Moena": [
+  {
+   "lon": 11.6893656,
+   "lat": 46.3573442,
+   "name": "Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.6592663,
+   "lat": 46.3769434,
+   "name": "Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38036, ",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Campitello": [
+  {
+   "lon": 11.6981304,
+   "lat": 46.4878005,
+   "name": "Campitello di Fassa, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Süd",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Vigo di Fassa": [
+  {
+   "lon": 11.6726135,
+   "lat": 46.4204045,
+   "name": "Vigo di Fassa - Vich, San Giovanni di Fassa - Sèn Jan, Comun General de Fascia, Provincia ",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Pera di Fassa": [
+  {
+   "lon": 11.6929143,
+   "lat": 46.4408515,
+   "name": "Pera, San Giovanni di Fassa - Sèn Jan, Comun General de Fascia, Provincia di Trento, Trent",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Siusi": [
+  {
+   "lon": 11.5630324,
+   "lat": 46.5437283,
+   "name": "Seis am Schlern - Siusi allo Sciliar, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sci",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Castelrotto": [
+  {
+   "lon": 11.6084644,
+   "lat": 46.5475389,
+   "name": "Kastelruth - Castelrotto, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen, Trentino-Alto A",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.5596852,
+   "lat": 46.5678425,
+   "name": "Kastelruth - Ciastel - Castelrotto, Kastelruth - Castelrotto, Salten-Schlern - Salto-Scili",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Compatsch": [
+  {
+   "lon": 11.6200731,
+   "lat": 46.540286,
+   "name": "Freiwillige Feuerwehr Seiseralm - Vigili del fuoco volontari Alpe di Siusi, 47/1, Compatsc",
+   "cls": "amenity",
+   "typ": "fire_station"
+  },
+  {
+   "lon": 11.6170037,
+   "lat": 46.5423625,
+   "name": "Seiser Alm - Alpe di Siusi, Compatsch, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sc",
+   "cls": "aerialway",
+   "typ": "station"
+  }
+ ],
+ "Colfosco": [
+  {
+   "lon": 11.8548454,
+   "lat": 46.5543844,
+   "name": "Calfosch - Kolfuschg - Colfosco, Corvara in Badia - Corvara, Pustertal - Val Pusteria, Bol",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "La Villa": [
+  {
+   "lon": 11.8888596,
+   "lat": 46.5904024,
+   "name": "Badia Downhillstrecke, Sotsas, La Ila - Stern - La Villa, Badia - Abtei, Pustertal - Val P",
+   "cls": "highway",
+   "typ": "track"
+  },
+  {
+   "lon": 11.8970259,
+   "lat": 46.5817533,
+   "name": "La Ila - Stern - La Villa, Badia - Abtei, Pustertal - Val Pusteria, Bolzano - Bozen, Trent",
+   "cls": "place",
+   "typ": "village"
+  },
+  {
+   "lon": 11.9034247,
+   "lat": 46.5837277,
+   "name": "Alta Badia Shop & Rental, 60, Strada Colz, Villa Nöia, La Ila - Stern - La Villa, Badia - ",
+   "cls": "amenity",
+   "typ": "ski_rental"
+  }
+ ],
+ "San Cassiano": [
+  {
+   "lon": 11.9320941,
+   "lat": 46.5711429,
+   "name": "San Ćiascian - St. Kassian - San Cassiano, Badia - Abtei, Pustertal - Val Pusteria, Bolzan",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "San Martino in Badia": [
+  {
+   "lon": 11.8416768,
+   "lat": 46.6509279,
+   "name": "San Martin de Tor - San Martino in Badia - St. Martin in Thurn, Pustertal - Val Pusteria, ",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.8983466,
+   "lat": 46.6819858,
+   "name": "San Martin de Tor - St. Martin in Thurn - San Martino in Badia, San Martin de Tor - San Ma",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Misurina": [
+  {
+   "lon": 12.252033,
+   "lat": 46.5785263,
+   "name": "Misurina, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 12.2716543,
+   "lat": 46.5843501,
+   "name": "Misurina, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "landuse",
+   "typ": "winter_sports"
+  },
+  {
+   "lon": 12.2537577,
+   "lat": 46.5821978,
+   "name": "Lago di Misurina, Misurina, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Auronzo": [
+  {
+   "lon": 12.4430387,
+   "lat": 46.5511562,
+   "name": "Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Arabba": [
+  {
+   "lon": 11.8740902,
+   "lat": 46.4971763,
+   "name": "Arabba, Livinallongo del Col di Lana, Belluno, Veneto, 32022, Italia",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Malga Ciapela": [
+  {
+   "lon": 11.9117939,
+   "lat": 46.4276747,
+   "name": "Malga Ciapela, Rocca Pietore, Belluno, Veneto, 32023, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 11.9044059,
+   "lat": 46.4326598,
+   "name": "Malga Ciapela, Rocca Pietore, Belluno, Veneto, 32023, Italia",
+   "cls": "natural",
+   "typ": "cliff"
+  },
+  {
+   "lon": 11.9083013,
+   "lat": 46.4252811,
+   "name": "Malga Ciapela, Via Malga Ciapela, Malga Ciapela, Rocca Pietore, Belluno, Veneto, 32023, It",
+   "cls": "information",
+   "typ": "guidepost"
+  }
+ ],
+ "Villabassa": [
+  {
+   "lon": 12.172315,
+   "lat": 46.7287488,
+   "name": "Niederdorf - Villabassa, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Sü",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.169185,
+   "lat": 46.7379014,
+   "name": "Niederdorf - Villabassa, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Sü",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Funes": [
+  {
+   "lon": 11.6829356,
+   "lat": 46.6400219,
+   "name": "Villnößtal - Val di Funes, Villnöß - Funes, Eisacktal - Valle Isarco, Bolzano - Bozen, Tre",
+   "cls": "natural",
+   "typ": "valley"
+  }
+ ],
+ "Chiusa": [
+  {
+   "lon": 11.5659529,
+   "lat": 46.6364852,
+   "name": "Klausen - Chiusa, Grödner Straße - Streda de Gherdëina - Via Val Gardena, Stark, Verdings ",
+   "cls": "highway",
+   "typ": "traffic_sign"
+  },
+  {
+   "lon": 11.5884392,
+   "lat": 46.6518518,
+   "name": "Klausen - Chiusa, Brennerstraße - Via Brennero, Untrum, Feldthurns - Velturno, Klausen - C",
+   "cls": "highway",
+   "typ": "traffic_sign"
+  },
+  {
+   "lon": 11.5726895,
+   "lat": 46.6425488,
+   "name": "Klausen - Chiusa, Bahnhofstraße - Via Stazione, Leitach - Coste, Verdings - Verdignes, Kla",
+   "cls": "railway",
+   "typ": "stop"
+  }
+ ],
+ "Fortezza": [
+  {
+   "lon": 11.6101475,
+   "lat": 46.7888038,
+   "name": "Fortezza - Franzensfeste, Bahnhofplatz - Piazza Stazione, Oberau - Pra di Sopra, Franzensf",
+   "cls": "railway",
+   "typ": "stop"
+  },
+  {
+   "lon": 11.5557984,
+   "lat": 46.7972588,
+   "name": "Franzensfeste - Fortezza, Wipptal - Alta Vall'Isarco, Bolzano - Bozen, Trentino-Alto Adige",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Calalzo": [
+  {
+   "lon": 12.3529648,
+   "lat": 46.4701433,
+   "name": "Calalzo di Cadore, Belluno, Veneto, 32042, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.3803853,
+   "lat": 46.4467154,
+   "name": "Calalzo di Cadore, Belluno, Veneto, 32042, Italia",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Nova Levante": [
+  {
+   "lon": 11.5711767,
+   "lat": 46.4219834,
+   "name": "Welschnofen - Nova Levante, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen, Trentino-Alto",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.5389153,
+   "lat": 46.4302623,
+   "name": "Welschnofen - Nova Levante, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen, Trentino-Alto",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Soprabolzano": [
+  {
+   "lon": 11.4063468,
+   "lat": 46.5295495,
+   "name": "Oberbozen - Soprabolzano, Ritten - Renon, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen,",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Belluno": [
+  {
+   "lon": 12.0789137,
+   "lat": 46.2805407,
+   "name": "Belluno, Veneto, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 12.2181711,
+   "lat": 46.1375185,
+   "name": "Belluno, Veneto, 32100, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Ora": [
+  {
+   "lon": 11.2971462,
+   "lat": 46.360956,
+   "name": "Auer - Ora, LS/SP62, Piglon - Piccolongo, Auer - Ora, Überetsch-Unterland - Oltradige-Bass",
+   "cls": "railway",
+   "typ": "station"
+  },
+  {
+   "lon": 11.2986335,
+   "lat": 46.3465946,
+   "name": "Auer - Ora, Überetsch-Unterland - Oltradige-Bassa Atesina, Bolzano - Bozen, Trentino-Alto ",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Merano": [
+  {
+   "lon": 11.1646348,
+   "lat": 46.6713536,
+   "name": "Meran - Merano, Burggrafenamt - Burgraviato, Bolzano - Bozen, Trentino-Alto Adige/Südtirol",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Vipiteno": [
+  {
+   "lon": 11.4319398,
+   "lat": 46.8963235,
+   "name": "Sterzing - Vipiteno, Wipptal - Alta Vall'Isarco, Bolzano - Bozen, Trentino-Alto Adige/Südt",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Pocol": [
+  {
+   "lon": 12.1146088,
+   "lat": 46.5246327,
+   "name": "Pocol, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  }
+ ],
+ "Falzes": [
+  {
+   "lon": 11.8766844,
+   "lat": 46.8318806,
+   "name": "Pfalzen - Falzes, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtirol,",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.8840064,
+   "lat": 46.8119803,
+   "name": "Pfalzen - Falzes, Pustertal - Val Pusteria, Bolzano - Bozen, Trentino-Alto Adige/Südtirol,",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Marebbe": [
+  {
+   "lon": 11.9312299,
+   "lat": 46.6979997,
+   "name": "Al Plan de Mareo - St. Vigil in Enneberg - San Vigilio di Marebbe, Marèo - Enneberg - Mare",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Passo Pordoi": [
+  {
+   "lon": 11.8121935,
+   "lat": 46.4875517,
+   "name": "Jouf de Pordoi - Passo Pordoi - Pordoijoch, Canazei, Comun General de Fascia, Provincia di",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Sella": [
+  {
+   "lon": 11.7673265,
+   "lat": 46.5080689,
+   "name": "Jouf de Sela - Passo Sella - Sellajoch, Canazei, Comun General de Fascia, Provincia di Tre",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Gardena": [
+  {
+   "lon": 11.8083893,
+   "lat": 46.549819,
+   "name": "Ju de Frara - Grödner Joch - Passo Gardena, Corvara in Badia - Corvara, Pustertal - Val Pu",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Campolongo": [
+  {
+   "lon": 11.8723674,
+   "lat": 46.5138595,
+   "name": "Passo Campolongo, Arabba, Livinallongo del Col di Lana, Belluno, Veneto, 32022, Italia",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Falzarego": [
+  {
+   "lon": 12.0084323,
+   "lat": 46.5187504,
+   "name": "Passo Falzarego, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  },
+  {
+   "lon": 12.0087004,
+   "lat": 46.5185185,
+   "name": "Passo Falzarego, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  }
+ ],
+ "Passo Valparola": [
+  {
+   "lon": 11.9973847,
+   "lat": 46.5251106,
+   "name": "Passo Valparola, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Giau": [
+  {
+   "lon": 12.053492,
+   "lat": 46.4828178,
+   "name": "Passo Giau, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 12.053592,
+   "lat": 46.4825596,
+   "name": "Passo Giau, SP638, Passo Giau, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",
+   "cls": "highway",
+   "typ": "bus_stop"
+  },
+  {
+   "lon": 12.0532055,
+   "lat": 46.4828423,
+   "name": "Passo Giau, SP638, Passo Giau, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",
+   "cls": "tourism",
+   "typ": "viewpoint"
+  }
+ ],
+ "Passo Fedaia": [
+  {
+   "lon": 11.8625899,
+   "lat": 46.4640236,
+   "name": "Passo Fedaia, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/S",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Tre Croci": [
+  {
+   "lon": 12.2018532,
+   "lat": 46.5570248,
+   "name": "Passo Tre Croci - Son Zuógo, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Passo Costalunga": [
+  {
+   "lon": 11.6086583,
+   "lat": 46.4044715,
+   "name": "Passo Costalunga - Karerpass, Via Carezza, Jouf de Ciareja, Karerpass - Jouf de Ciareja - ",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Marmolada": [
+  {
+   "lon": 11.8467159,
+   "lat": 46.4243638,
+   "name": "Marmolada, Belluno, Veneto, Italia",
+   "cls": "place",
+   "typ": "region"
+  },
+  {
+   "lon": 11.8513481,
+   "lat": 46.4345463,
+   "name": "Punta Penia, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Sü",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Tre Cime": [
+  {
+   "lon": 12.2953929,
+   "lat": 46.6177504,
+   "name": "Tre Cime di Lavaredo - Drei Zinnen, Auronzo di Cadore, Pustertal - Val Pusteria, Belluno, ",
+   "cls": "natural",
+   "typ": "bare_rock"
+  }
+ ],
+ "Sassolungo": [
+  {
+   "lon": 11.7353107,
+   "lat": 46.5249417,
+   "name": "Saslonch - Langkofel - Sassolungo, Sëlva - Wolkenstein - Selva di Val Gardena, Salten-Schl",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Piz Boè": [
+  {
+   "lon": 11.828299,
+   "lat": 46.5089192,
+   "name": "Piz Boè, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtir",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Catinaccio": [
+  {
+   "lon": 11.6601737,
+   "lat": 46.4323435,
+   "name": "Vigo di Fassa - Ciampedie, Vigo di Fassa - Vich, San Giovanni di Fassa - Sèn Jan, Comun Ge",
+   "cls": "landuse",
+   "typ": "winter_sports"
+  },
+  {
+   "lon": 11.6627036,
+   "lat": 46.3773821,
+   "name": "Catinaccio, Strada de Cernadoi, Someda, Moena, Comun General de Fascia, Provincia di Trent",
+   "cls": "tourism",
+   "typ": "hotel"
+  },
+  {
+   "lon": 11.2071045,
+   "lat": 46.4167146,
+   "name": "Catinaccio, 49, Mendola - Campi di Golf, Ruffré-Mendola, Comunità della Val di Non, Provin",
+   "cls": "amenity",
+   "typ": "cafe"
+  }
+ ],
+ "Sciliar": [
+  {
+   "lon": 11.5748922,
+   "lat": 46.5118256,
+   "name": "Petz - Monte Pez, Touristensteig - Sentiero dei turisti, Völs am Schlern - Fiè allo Scilia",
+   "cls": "tourism",
+   "typ": "viewpoint"
+  }
+ ],
+ "Sass Rigais": [
+  {
+   "lon": 11.7668196,
+   "lat": 46.6092876,
+   "name": "Sas Rigais, Villnöß - Funes, Eisacktal - Valle Isarco, Bolzano - Bozen, Trentino-Alto Adig",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Seceda": [
+  {
+   "lon": 11.7257836,
+   "lat": 46.6005922,
+   "name": "Secëda - Monte Seceda, Santa Cristina Gherdëina - St. Christina in Gröden - Santa Cristina",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 11.7277587,
+   "lat": 46.596998,
+   "name": "Secëda, Santa Cristina Gherdëina - St. Christina in Gröden - Santa Cristina Valgardena, Sa",
+   "cls": "place",
+   "typ": "locality"
+  }
+ ],
+ "Kronplatz": [
+  {
+   "lon": 11.958311,
+   "lat": 46.7387791,
+   "name": "Kronplatz - Plan de Corones, Marèo - Enneberg - Marebbe, Pustertal - Val Pusteria, Bolzano",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Tofana di Mezzo": [
+  {
+   "lon": 12.0654921,
+   "lat": 46.5509896,
+   "name": "Tofana di Mezzo, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Lagazuoi": [
+  {
+   "lon": 12.0033383,
+   "lat": 46.5295958,
+   "name": "Lagazuòi Piccolo, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Cristallo": [
+  {
+   "lon": 12.2005443,
+   "lat": 46.5754463,
+   "name": "Monte Cristallo, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 10.4604352,
+   "lat": 46.495856,
+   "name": "Monte Cristallo, Valfurva, Comunità montana Alta Valtellina, Sondrio, Lombardia, 23030, It",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Cinque Torri": [
+  {
+   "lon": 12.0517929,
+   "lat": 46.5092242,
+   "name": "Cinque Torri, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 12.0388899,
+   "lat": 46.5203912,
+   "name": "Cinque Torri, SR48, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "highway",
+   "typ": "bus_stop"
+  },
+  {
+   "lon": 12.0465199,
+   "lat": 46.5082428,
+   "name": "Cinque Torri, Giro delle 5 Torri, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "aerialway",
+   "typ": "station"
+  }
+ ],
+ "Nuvolau": [
+  {
+   "lon": 12.0455719,
+   "lat": 46.4952758,
+   "name": "Nuvolau, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 12.0053787,
+   "lat": 46.4787287,
+   "name": "Gruppo del Nuvolau, Pieve, Livinallongo del Col di Lana, Belluno, Veneto, 32022, Italia",
+   "cls": "place",
+   "typ": "region"
+  }
+ ],
+ "Latemar": [
+  {
+   "lon": 11.5805109,
+   "lat": 46.3741228,
+   "name": "Latemar, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "yes"
+  }
+ ],
+ "Lago di Braies": [
+  {
+   "lon": 12.0858434,
+   "lat": 46.6947208,
+   "name": "Pragser Wildsee - Lago di Braies, Prags - Braies, Pustertal - Val Pusteria, Bolzano - Boze",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Lago di Misurina": [
+  {
+   "lon": 12.2537577,
+   "lat": 46.5821978,
+   "name": "Lago di Misurina, Misurina, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Lago di Carezza": [
+  {
+   "lon": 11.5758682,
+   "lat": 46.4093109,
+   "name": "Karer See - Lago di Carezza, Karersee - Carezza, Welschnofen - Nova Levante, Salten-Schler",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Lago di Dobbiaco": [
+  {
+   "lon": 12.2190064,
+   "lat": 46.7037072,
+   "name": "Toblacher See - Lago di Dobbiaco, Säge, Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolz",
+   "cls": "water",
+   "typ": "lake"
+  },
+  {
+   "lon": 12.2197543,
+   "lat": 46.7060628,
+   "name": "Toblacher See - Lago di Dobbiaco, Säge, Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolz",
+   "cls": "highway",
+   "typ": "unclassified"
+  },
+  {
+   "lon": 12.2200956,
+   "lat": 46.70528,
+   "name": "Toblacher See - Lago di Dobbiaco, Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolzano - ",
+   "cls": "highway",
+   "typ": "unclassified"
+  }
+ ],
+ "Lago di Fedaia": [
+  {
+   "lon": 11.869805,
+   "lat": 46.4590133,
+   "name": "Lago di Fedaia - Lech de Fedaa, Canazei, Comun General de Fascia, Provincia di Trento, Tre",
+   "cls": "water",
+   "typ": "reservoir"
+  }
+ ],
+ "Lago di Sorapis": [
+  {
+   "lon": 12.2235009,
+   "lat": 46.5205615,
+   "name": "Lago del Sorapíss, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Lago Pisciadu": [],
+ "Cadini di Misurina": [
+  {
+   "lon": 12.2954732,
+   "lat": 46.6009257,
+   "name": "Cadini di Misurina Punto Panoramico, Sentiero Bonacossa, Auronzo di Cadore, Belluno, Venet",
+   "cls": "tourism",
+   "typ": "viewpoint"
+  }
+ ],
+ "Croda da Lago": [
+  {
+   "lon": 12.1057935,
+   "lat": 46.486288,
+   "name": "Croda da Lago, Gores de Federa, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "information",
+   "typ": "guidepost"
+  }
+ ],
+ "Lago Federa": [
+  {
+   "lon": 12.1045158,
+   "lat": 46.4881828,
+   "name": "Lago Fedèra, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Piz Boè Sass Pordoi": [
+  {
+   "lon": 11.8091694,
+   "lat": 46.4945078,
+   "name": "Sass Pordoi, Dolomiten-Hoehenweg 2, Canazei, Comun General de Fascia, Provincia di Trento,",
+   "cls": "aerialway",
+   "typ": "cable_car"
+  },
+  {
+   "lon": 11.8105866,
+   "lat": 46.4887325,
+   "name": "Sass Pordoi, Strada del Pordoi - Strada Statale 48 delle Dolomiti, Canazei, Comun General ",
+   "cls": "aerialway",
+   "typ": "station"
+  },
+  {
+   "lon": 11.8077521,
+   "lat": 46.5002831,
+   "name": "Sass Pordoi, Dolomiten-Hoehenweg 2, Canazei, Comun General de Fascia, Provincia di Trento,",
+   "cls": "aerialway",
+   "typ": "station"
+  }
+ ],
+ "Antelao": [
+  {
+   "lon": 12.3056634,
+   "lat": 46.4394243,
+   "name": "Antelao, Belluno, Veneto, Italia",
+   "cls": "natural",
+   "typ": "mountain_range"
+  },
+  {
+   "lon": 12.2618005,
+   "lat": 46.4518868,
+   "name": "Antelao, Calalzo di Cadore, Belluno, Veneto, 32042, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Civetta": [
+  {
+   "lon": 12.0533469,
+   "lat": 46.3801303,
+   "name": "Monte Civetta, Alleghe, Belluno, Veneto, 32022, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 12.0574815,
+   "lat": 46.358041,
+   "name": "Civetta, Belluno, Veneto, Italia",
+   "cls": "place",
+   "typ": "region"
+  }
+ ],
+ "Rifugio Auronzo": [
+  {
+   "lon": 12.2960957,
+   "lat": 46.6122031,
+   "name": "Rifugio Auronzo, Forcella Longeres, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  },
+  {
+   "lon": 12.2938814,
+   "lat": 46.6122655,
+   "name": "Rifugio Auronzo, Strada per il Rifugio Auronzo, Auronzo di Cadore, Belluno, Veneto, 32041,",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Rifugio Locatelli": [],
+ "Rifugio Lavaredo": [
+  {
+   "lon": 12.3120936,
+   "lat": 46.6183265,
+   "name": "Rifugio Lavaredo, Passportensteig - Ferrata Passaporto, Auronzo di Cadore, Pustertal - Val",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Rifugio Cavazza": [
+  {
+   "lon": 11.8218046,
+   "lat": 46.5364216,
+   "name": "Utia Pisciadù - Pisciadù Hütte - Rifugio Franco Cavazza al Pisciadù, Frara, Corvara in Bad",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Forcella Pordoi": [
+  {
+   "lon": 11.8123954,
+   "lat": 46.5018993,
+   "name": "Rifugio Forcella Pordoi, Dolomiten-Hoehenweg 2, Canazei, Comun General de Fascia, Provinci",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Vicenza": [],
+ "Rifugio Nuvolau": [
+  {
+   "lon": 12.045729,
+   "lat": 46.4952506,
+   "name": "Rifugio Nuvolau, SP638, Passo Giau, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Scoiattoli": [
+  {
+   "lon": 12.0467715,
+   "lat": 46.5080887,
+   "name": "Rifugio Scoiattoli, Giro delle 5 Torri, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Vandelli": [],
+ "Rifugio Re Alberto": [
+  {
+   "lon": 11.6229441,
+   "lat": 46.4592815,
+   "name": "Rifugio Re Alberto Primo - Gartlhütte, Gartl, Tiers - Tires, Salten-Schlern - Salto-Scilia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Vajolet": [
+  {
+   "lon": 11.6327551,
+   "lat": 46.4586001,
+   "name": "Rifugio Vajolet, Strada de Gardecia, San Giovanni di Fassa - Sèn Jan, Comun General de Fas",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Bolzano": [
+  {
+   "lon": 11.574562,
+   "lat": 46.5073229,
+   "name": "Schlernhaus - Rifugio Bolzano, Touristensteig - Sentiero dei turisti, Völs am Schlern - Fi",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Fondovalle": [
+  {
+   "lon": 12.353873,
+   "lat": 46.6513765,
+   "name": "Talschlusshütte Fischleintal - Rifugio Fondovalle Val Fiscalina, Via Waldheim, Sexten - Se",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Rifugio Piano Fiscalina": [
+  {
+   "lon": 12.3536702,
+   "lat": 46.6665314,
+   "name": "Fischleinbodenhütte - Rifugio Piano Fiscalino, 36a, Fischleintalstraße - Via Val Fiscalina",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Rifugio Firenze": [],
+ "Rifugio Pieralongia": [],
+ "Rifugio Genova": [
+  {
+   "lon": 11.8046266,
+   "lat": 46.635329,
+   "name": "Schlüterhütte - Rifugio Genova, 4, 35, San Martin de Tor - San Martino in Badia - St. Mart",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Biella": [
+  {
+   "lon": 12.0845833,
+   "lat": 46.6656312,
+   "name": "Rifugio Biella - Seekofelhütte, Attention: dismissed path, Cortina d'Ampezzo, Belluno, Ven",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Fanes": [
+  {
+   "lon": 12.0141579,
+   "lat": 46.6121944,
+   "name": "Rifugio Fanes, 3, 7-13, Marèo - Enneberg - Marebbe, Pustertal - Val Pusteria, Bolzano - Bo",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Lagazuoi": [
+  {
+   "lon": 12.008133,
+   "lat": 46.527754,
+   "name": "Rifugio Lagazuoi, Sentiero del Fronte, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Citta di Fiume": [
+  {
+   "lon": 12.122577,
+   "lat": 46.4369012,
+   "name": "Rifugio Città di Fiume, Salita al Col de la Puina, Borca di Cadore, Belluno, Veneto, 32040",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Palafavera": [
+  {
+   "lon": 12.1005554,
+   "lat": 46.4026052,
+   "name": "Rifugio Palafavera, SP251, Palafavera, Pecol, Val di Zoldo, Belluno, Veneto, 32012, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Vazzoler": [
+  {
+   "lon": 12.0310336,
+   "lat": 46.3541271,
+   "name": "Rifugio Mario Vazzoler, Trói Còsta del Bàga, Taibon Agordino, Belluno, Veneto, 32027, Ital",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Carestiato": [
+  {
+   "lon": 12.0704816,
+   "lat": 46.3214218,
+   "name": "Rifugio Bruto Carestiato, Ferrata Gianni Costantini, Agordo, Val di Zoldo, Belluno, Veneto",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Pramperet": [
+  {
+   "lon": 12.1636973,
+   "lat": 46.2889795,
+   "name": "Rifugio Sommariva al Pramperet, Traccia Sud per la Forcella del Palon, Longarone, Val di Z",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  },
+  {
+   "lon": 12.1503798,
+   "lat": 46.2983064,
+   "name": "Teleferica Rifugio Sommariva al Pramperet, Sentiero EE F.Piazadel-Forte Moschesin, La Vall",
+   "cls": "aerialway",
+   "typ": "goods"
+  }
+ ],
+ "Rifugio Pian de Fontana": [
+  {
+   "lon": 12.1759163,
+   "lat": 46.2619448,
+   "name": "Rifugio Pian de Fontana, Sentiero della Casera della Cengia, Longarone, Belluno, Veneto, 3",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "La Pissa": [
+  {
+   "lon": 12.5667614,
+   "lat": 46.4882848,
+   "name": "La Pissa, Vigo di Cadore, Belluno, Veneto, 32040, Italia",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 11.9811272,
+   "lat": 46.3299652,
+   "name": "La Pissa, Cencenighe Agordino, Belluno, Veneto, 32020, Italia",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 12.1141628,
+   "lat": 46.2297879,
+   "name": "La Pissa, Via La Stanga, Sedico, Belluno, Veneto, 32036, Italia",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Rifugio Zallinger": [
+  {
+   "lon": 11.6878283,
+   "lat": 46.5111455,
+   "name": "Berggasthaus Zallinger - Rifugio Zallinger, 74, 7;9, Kastelruth - Castelrotto, Salten-Schl",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Sanon": [],
+ "Williamshutte": [
+  {
+   "lon": 11.6848846,
+   "lat": 46.5152537,
+   "name": "Williams Hütte, 75, 7;9, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sciliar, Bolzano",
+   "cls": "building",
+   "typ": "yes"
+  }
+ ],
+ "Saltria": [
+  {
+   "lon": 11.6693537,
+   "lat": 46.5320452,
+   "name": "Saltria, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen, Trenti",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 11.6312742,
+   "lat": 46.5451423,
+   "name": "Saltria, Compatsch, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sciliar, Bolzano - Bo",
+   "cls": "highway",
+   "typ": "track"
+  },
+  {
+   "lon": 11.6759049,
+   "lat": 46.5315807,
+   "name": "Saltria, Kastelruth - Castelrotto, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen, Trenti",
+   "cls": "highway",
+   "typ": "track"
+  }
+ ],
+ "Gardeccia": [
+  {
+   "lon": 11.6400883,
+   "lat": 46.4471961,
+   "name": "Rifugio Gardeccia, Strada de Gardecia, San Giovanni di Fassa - Sèn Jan, Comun General de F",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  },
+  {
+   "lon": 11.6461112,
+   "lat": 46.4500471,
+   "name": "Campanile Gardeccia, San Giovanni di Fassa - Sèn Jan, Comun General de Fascia, Provincia d",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Rifugio Averau": [
+  {
+   "lon": 12.0405956,
+   "lat": 46.4995674,
+   "name": "Rifugio Averau, Sentiero Delle Trincee, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Bai de Dones": [],
+ "Col Raiser": [
+  {
+   "lon": 11.7456745,
+   "lat": 46.5848629,
+   "name": "Col Raiser, Santa Cristina Gherdëina - St. Christina in Gröden - Santa Cristina Valgardena",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 11.741008,
+   "lat": 46.5749266,
+   "name": "Col Raiser, Streda Ciaulonch, Plan da Tieja, Santa Cristina Gherdëina - St. Christina in G",
+   "cls": "aerialway",
+   "typ": "gondola"
+  },
+  {
+   "lon": 11.7364525,
+   "lat": 46.5648399,
+   "name": "Col Raiser, Streda Raiser, Plan da Tieja, Sëlva - Wolkenstein - Selva di Val Gardena, Salt",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Furnes": [
+  {
+   "lon": 11.7001184,
+   "lat": 46.5897981,
+   "name": "Furnes, Urtijëi - St. Ulrich in Gröden - Ortisei, Salten-Schlern - Salto-Sciliar, Bolzano ",
+   "cls": "place",
+   "typ": "isolated_dwelling"
+  },
+  {
+   "lon": 11.7023249,
+   "lat": 46.589805,
+   "name": "Furnes, Troi Paian, Urtijëi - St. Ulrich in Gröden - Ortisei, Salten-Schlern - Salto-Scili",
+   "cls": "aerialway",
+   "typ": "station"
+  }
+ ],
+ "Punta Rocca": [],
+ "Santa Maddalena": [
+  {
+   "lon": 11.7193173,
+   "lat": 46.6447156,
+   "name": "Hl. Magdalena - Santa Maddalena, Magdalenaweg, St. Magdalena - Santa Maddalena, Villnöß - ",
+   "cls": "amenity",
+   "typ": "place_of_worship"
+  },
+  {
+   "lon": 11.7153339,
+   "lat": 46.6414556,
+   "name": "St. Magdalena - Santa Maddalena, Villnöß - Funes, Eisacktal - Valle Isarco, Bolzano - Boze",
+   "cls": "place",
+   "typ": "village"
+  },
+  {
+   "lon": 11.7476345,
+   "lat": 46.6366859,
+   "name": "Villnößer Bach - Rio di Funes, St. Magdalena - Santa Maddalena, Villnöß - Funes, Eisacktal",
+   "cls": "waterway",
+   "typ": "stream"
+  }
+ ],
+ "Geisler Alm": [],
+ "Santa Croce": [
+  {
+   "lon": 11.9382428,
+   "lat": 46.6142913,
+   "name": "Dlijia da la Crusc, 7, La Crusc, Badia - Abtei, Pustertal - Val Pusteria, Bolzano - Bozen,",
+   "cls": "amenity",
+   "typ": "place_of_worship"
+  },
+  {
+   "lon": 11.9533717,
+   "lat": 46.6007777,
+   "name": "Ju dla Crusc - Kreuzkofeljoch - Passo di Santa Croce, Badia - Abtei, Pustertal - Val Puste",
+   "cls": "natural",
+   "typ": "saddle"
+  },
+  {
+   "lon": 11.9384619,
+   "lat": 46.6144981,
+   "name": "Heiligkreuz-Hospitz, 7, La Crusc, Badia - Abtei, Pustertal - Val Pusteria, Bolzano - Bozen",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Ciampedie": [
+  {
+   "lon": 11.6641571,
+   "lat": 46.4341579,
+   "name": "Ciampedie, Vial de la Feide - Sentiero delle Pecore, Vigo di Fassa - Vich, San Giovanni di",
+   "cls": "aerialway",
+   "typ": "station"
+  },
+  {
+   "lon": 11.6642725,
+   "lat": 46.4338656,
+   "name": "Rifugio Ciampedie, Vial de la Feide - Sentiero delle Pecore, Vigo di Fassa - Vich, San Gio",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  },
+  {
+   "lon": 11.6601737,
+   "lat": 46.4323435,
+   "name": "Vigo di Fassa - Ciampedie, Vigo di Fassa - Vich, San Giovanni di Fassa - Sèn Jan, Comun Ge",
+   "cls": "landuse",
+   "typ": "winter_sports"
+  }
+ ],
+ "Col Rodella": [
+  {
+   "lon": 11.7486236,
+   "lat": 46.4953446,
+   "name": "Col Rodela, Campitello di Fassa, Comun General de Fascia, Provincia di Trento, Trentino-Al",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Auronzo hut": [
+  {
+   "lon": 12.2697925,
+   "lat": 46.5995214,
+   "name": "Misurina casello Tre Cime, Strada per il Rifugio Auronzo, Auronzo di Cadore, Belluno, Vene",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Plan de Gralba": [
+  {
+   "lon": 11.772196,
+   "lat": 46.5330523,
+   "name": "Plan de Gralba, Sëlva - Wolkenstein - Selva di Val Gardena, Salten-Schlern - Salto-Sciliar",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 11.770046,
+   "lat": 46.5345898,
+   "name": "Plan de Gralba, Streda Plan de Gralba, Plan de Gralba, Sëlva - Wolkenstein - Selva di Val ",
+   "cls": "amenity",
+   "typ": "parking"
+  },
+  {
+   "lon": 11.7723353,
+   "lat": 46.5343507,
+   "name": "Plan de Gralba, 3, Streda Plan de Gralba, Plan de Gralba, Sëlva - Wolkenstein - Selva di V",
+   "cls": "tourism",
+   "typ": "hotel"
+  }
+ ],
+ "Forcella Sassolungo": [
+  {
+   "lon": 12.2752581,
+   "lat": 46.3553425,
+   "name": "Forcella Bella, Via Normale salita al Sassolungo di Cibiana, Cibiana di Cadore, Belluno, V",
+   "cls": "information",
+   "typ": "guidepost"
+  }
+ ],
+ "Rifugio Pian di Cengia": [
+  {
+   "lon": 12.3413252,
+   "lat": 46.6316057,
+   "name": "Büllelejochhütte - Rifugio Pian di Cengia, Sentiero Kriegssteig, Auronzo di Cadore, Bellun",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Malga Rin Bianco": [
+  {
+   "lon": 12.273265,
+   "lat": 46.6051354,
+   "name": "Malga Rin Bianco, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 12.2731611,
+   "lat": 46.6050355,
+   "name": "Malga Rin Bianco, Strada per il Rifugio Auronzo, Auronzo di Cadore, Belluno, Veneto, 32041",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Lago Antorno": [
+  {
+   "lon": 12.2651707,
+   "lat": 46.5949864,
+   "name": "Lago d'Antorno, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "water",
+   "typ": "lake"
+  },
+  {
+   "lon": 12.263879,
+   "lat": 46.5943791,
+   "name": "Lago d'Antorno, Via Monte Piana, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Monte Piana": [
+  {
+   "lon": 12.2426651,
+   "lat": 46.6158611,
+   "name": "Monte Piana, Guardia Napoleone, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "tourism",
+   "typ": "viewpoint"
+  }
+ ],
+ "VCE": [],
+ "TSF": [],
+ "VRN": [],
+ "INN": [
+  {
+   "lon": 11.3418706,
+   "lat": 47.2597258,
+   "name": "Flughafen Innsbruck, Technikerstraße, Lohbachsiedlung, Hötting West, Hötting, Innsbruck, T",
+   "cls": "aeroway",
+   "typ": "aerodrome"
+  }
+ ],
+ "BZO": [
+  {
+   "lon": 11.3301372,
+   "lat": 46.4628433,
+   "name": "Aeroporto - Flughafen, Via Aeroporto Francesco Baracca - Flughafen-Francesco-Baracca-Straß",
+   "cls": "highway",
+   "typ": "bus_stop"
+  },
+  {
+   "lon": 11.3260866,
+   "lat": 46.4584495,
+   "name": "Aeroporto di Bolzano-Dolomiti - Flughafen Bozen-Dolomiten, Via Agruzzo - Grutzenweg, Zona ",
+   "cls": "aeroway",
+   "typ": "aerodrome"
+  },
+  {
+   "lon": 12.2304199,
+   "lat": 46.7278507,
+   "name": "Flugplatz Toblach - Aeroporto di Dobbiaco, Pustertaler Straße - Via Pusteria, Innichen - S",
+   "cls": "aeroway",
+   "typ": "aerodrome"
+  }
+ ],
+ "Verona": [
+  {
+   "lon": 12.2753778,
+   "lat": 46.6836844,
+   "name": "Sechste Kohlalpenspitze - Sesta Cima Pra Brusa, Innichen - San Candido, Pustertal - Val Pu",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 11.130001,
+   "lat": 46.0468383,
+   "name": "Centro Artigianale Viale Verona, 190, San Bartolomeo, Oltrefersina, Villazzano, Trento, Te",
+   "cls": "landuse",
+   "typ": "commercial"
+  },
+  {
+   "lon": 11.1316061,
+   "lat": 46.0483253,
+   "name": "Viale Verona, Man Malpensada, San Bartolomeo, Oltrefersina, Villazzano, Trento, Territorio",
+   "cls": "highway",
+   "typ": "residential"
+  }
+ ],
+ "Innsbruck": [
+  {
+   "lon": 11.3927685,
+   "lat": 47.2654296,
+   "name": "Innsbruck, Tirol, Österreich",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Trento": [
+  {
+   "lon": 11.1297425,
+   "lat": 46.1029536,
+   "name": "Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.1257601,
+   "lat": 46.0664228,
+   "name": "Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.282121,
+   "lat": 46.441472,
+   "name": "Trentino-Alto Adige/Südtirol, Italia",
+   "cls": "boundary",
+   "typ": "administrative"
+  }
+ ],
+ "Venezia Mestre": [],
+ "Brennero": [
+  {
+   "lon": 11.3218296,
+   "lat": 46.9659522,
+   "name": "Brenner - Brennero, Wipptal - Alta Vall'Isarco, Bolzano - Bozen, Trentino-Alto Adige/Südti",
+   "cls": "boundary",
+   "typ": "administrative"
+  },
+  {
+   "lon": 11.5066996,
+   "lat": 47.0073993,
+   "name": "Brennerpass - Passo del Brennero, Gries am Brenner, Bezirk Innsbruck-Land, Tirol, 6156, Ös",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  },
+  {
+   "lon": 11.5047991,
+   "lat": 47.0037399,
+   "name": "Brenner - Brennero, Wipptal - Alta Vall'Isarco, Bolzano - Bozen, Trentino-Alto Adige/Südti",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Dobbiaco station": [],
+ "Rifugio Locatelli2": [
+  {
+   "lon": 12.3104862,
+   "lat": 46.6369235,
+   "name": "Dreizinnenhütte - Rifugio Antonio Locatelli/Sepp Innerkofler, Patern Gallerie und Kriegsst",
+   "cls": "amenity",
+   "typ": "restaurant"
+  },
+  {
+   "lon": 12.3113041,
+   "lat": 46.6367684,
+   "name": "Rifugio Locatelli - Bivouac, Patern Gallerie und Kriegssteige, Sexten - Sesto, Pustertal -",
+   "cls": "tourism",
+   "typ": "wilderness_hut"
+  }
+ ],
+ "Forcella Col di Mezzo": [
+  {
+   "lon": 12.284247,
+   "lat": 46.6175203,
+   "name": "Forcella Col di Mezzo - Forcella del Col de Mèdo - Mitterscharte, Toblach - Dobbiaco, Pust",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  }
+ ],
+ "Forcella Lavaredo": [
+  {
+   "lon": 12.311453,
+   "lat": 46.622499,
+   "name": "Forcella Lavaredo - Paternsattel, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  },
+  {
+   "lon": 12.3113428,
+   "lat": 46.6223599,
+   "name": "Forcella Lavaredo, Passportensteig - Ferrata Passaporto, Auronzo di Cadore, Pustertal - Va",
+   "cls": "information",
+   "typ": "guidepost"
+  }
+ ],
+ "Malga Langalm": [],
+ "Rifugio Lavaredo2": [],
+ "Schlernhaus": [
+  {
+   "lon": 11.574562,
+   "lat": 46.5073229,
+   "name": "Schlernhaus - Rifugio Bolzano, Touristensteig - Sentiero dei turisti, Völs am Schlern - Fi",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Baita Sofie": [
+  {
+   "lon": 11.7271373,
+   "lat": 46.5976998,
+   "name": "Sofie-Hütte - Baita Sofie, Adolf-Munkel-Weg, Villnöß - Funes, Eisacktal - Valle Isarco, Bo",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Seceda top": [],
+ "Furnes station": [],
+ "Rifugio Fanes2": [
+  {
+   "lon": 12.0141579,
+   "lat": 46.6121944,
+   "name": "Rifugio Fanes, 3, 7-13, Marèo - Enneberg - Marebbe, Pustertal - Val Pusteria, Bolzano - Bo",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Lago d Antorno": [],
+ "Rifugio Fonda Savio": [
+  {
+   "lon": 12.2874027,
+   "lat": 46.585277,
+   "name": "Rifugio Fonda Savio, Cresta Alessandro, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "amenity",
+   "typ": "restaurant"
+  }
+ ],
+ "Plose": [
+  {
+   "lon": 11.6993681,
+   "lat": 46.6881618,
+   "name": "Brixen Plose - Plose di Bressanone, Kreuztal - Val Croce, Brixen - Bressanone, Eisacktal -",
+   "cls": "landuse",
+   "typ": "winter_sports"
+  },
+  {
+   "lon": 11.7343929,
+   "lat": 46.7189499,
+   "name": "Plosebühel - Col della Plose, Brixen - Bressanone, Eisacktal - Valle Isarco, Bolzano - Boz",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Neustift": [
+  {
+   "lon": 11.6483816,
+   "lat": 46.7437023,
+   "name": "Augustiner Chorherrenstift Neustift - Abbazia di Novacella, Eisackweg - Vicolo Isarco, Neu",
+   "cls": "amenity",
+   "typ": "monastery"
+  },
+  {
+   "lon": 11.6476978,
+   "lat": 46.7420098,
+   "name": "Kloster Neustift, Eisackweg - Vicolo Isarco, Neustift - Novacella, Vahrn - Varna, Eisackta",
+   "cls": "information",
+   "typ": "map"
+  }
+ ],
+ "Erdpyramiden": [
+  {
+   "lon": 11.4070606,
+   "lat": 46.5215465,
+   "name": "Erdpyramiden - Piramidi di Terra, Oberbozen - Soprabolzano, Ritten - Renon, Salten-Schlern",
+   "cls": "natural",
+   "typ": "earth_bank"
+  },
+  {
+   "lon": 11.4011368,
+   "lat": 46.518776,
+   "name": "Erdpyramiden - Piramidi di Terra, Himmelfahrt - L'Assunta, Oberbozen - Soprabolzano, Ritte",
+   "cls": "natural",
+   "typ": "earth_bank"
+  },
+  {
+   "lon": 11.4716356,
+   "lat": 46.5537035,
+   "name": "Erdpyramiden - Piramidi di Terra, Mittelberg - Monte di Mezzo, Klobenstein - Collalbo, Rit",
+   "cls": "natural",
+   "typ": "earth_bank"
+  }
+ ],
+ "Oberbozen": [
+  {
+   "lon": 11.4063468,
+   "lat": 46.5295495,
+   "name": "Oberbozen - Soprabolzano, Ritten - Renon, Salten-Schlern - Salto-Sciliar, Bolzano - Bozen,",
+   "cls": "place",
+   "typ": "village"
+  }
+ ],
+ "Rifugio Lagazuoi hut": [
+  {
+   "lon": 12.008133,
+   "lat": 46.527754,
+   "name": "Rifugio Lagazuoi, Sentiero del Fronte, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Capanna Alpina": [],
+ "Armentarola": [
+  {
+   "lon": 11.9541253,
+   "lat": 46.5611909,
+   "name": "Armentarola, San Ćiascian - St. Kassian - San Cassiano, Badia - Abtei, Pustertal - Val Pus",
+   "cls": "place",
+   "typ": "hamlet"
+  },
+  {
+   "lon": 11.9496225,
+   "lat": 46.5579182,
+   "name": "Armentarola, LS/SP37, Armentarola, San Ćiascian - St. Kassian - San Cassiano, Badia - Abte",
+   "cls": "aerialway",
+   "typ": "platter"
+  },
+  {
+   "lon": 11.9542665,
+   "lat": 46.5610202,
+   "name": "Armentarola, LS/SP37, Armentarola, San Ćiascian - St. Kassian - San Cassiano, Badia - Abte",
+   "cls": "amenity",
+   "typ": "taxi"
+  }
+ ],
+ "Tofana lift": [
+  {
+   "lon": 12.0710295,
+   "lat": 46.5432921,
+   "name": "3° Torrione di Pomedes, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 12.0767266,
+   "lat": 46.5431666,
+   "name": "1° Torrione di Pomedes, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  },
+  {
+   "lon": 12.0748665,
+   "lat": 46.5428381,
+   "name": "2° Torrione di Pomedes, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Faloria": [
+  {
+   "lon": 12.1726708,
+   "lat": 46.532618,
+   "name": "Faloria, Faloriai Normale, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "aerialway",
+   "typ": "station"
+  },
+  {
+   "lon": 12.1727174,
+   "lat": 46.5324213,
+   "name": "Faloria, Faloriai Normale, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "amenity",
+   "typ": "restaurant"
+  },
+  {
+   "lon": 12.1837323,
+   "lat": 46.52734,
+   "name": "Monte Faloria, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Rifugio Pomedes": [
+  {
+   "lon": 12.0777474,
+   "lat": 46.536366,
+   "name": "Rifugio Pomedes, Sentiero attrezzato G. Olivieri, Cortina d'Ampezzo, Belluno, Veneto, 3204",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Col Gallina": [
+  {
+   "lon": 12.0192377,
+   "lat": 46.519935,
+   "name": "Col Gallina, SR48, Passo Falzarego, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "highway",
+   "typ": "bus_stop"
+  },
+  {
+   "lon": 12.0152721,
+   "lat": 46.5107416,
+   "name": "Col Gallina, SR48, Passo Falzarego, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia",
+   "cls": "aerialway",
+   "typ": "platter"
+  },
+  {
+   "lon": 12.015881,
+   "lat": 46.5079737,
+   "name": "Col Gallina, Sentiero alle Pareti, Livinallongo del Col di Lana, Belluno, Veneto, 32022, I",
+   "cls": "aerialway",
+   "typ": "station"
+  }
+ ],
+ "Misurina Genzianella": [
+  {
+   "lon": 12.2572927,
+   "lat": 46.5884537,
+   "name": "Misurina - Genzianella, Via Monte Piana, Misurina, Auronzo di Cadore, Belluno, Veneto, 320",
+   "cls": "highway",
+   "typ": "bus_stop"
+  }
+ ],
+ "Dürrensee": [
+  {
+   "lon": 12.231017,
+   "lat": 46.6301977,
+   "name": "Dürrensee - Lago di Landro, Schluderbach - Carbonin, Toblach - Dobbiaco, Pustertal - Val P",
+   "cls": "water",
+   "typ": "lake"
+  }
+ ],
+ "Landro": [
+  {
+   "lon": 12.2326059,
+   "lat": 46.6412641,
+   "name": "Höhlenstein - Landro, Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolzano - Bozen, Trent",
+   "cls": "place",
+   "typ": "isolated_dwelling"
+  },
+  {
+   "lon": 12.223408,
+   "lat": 46.6929753,
+   "name": "Höhlenstein - Landro, Toblach - Dobbiaco, Pustertal - Val Pusteria, Bolzano - Bozen, Trent",
+   "cls": "highway",
+   "typ": "primary"
+  }
+ ],
+ "Cima Grande": [
+  {
+   "lon": 12.3025404,
+   "lat": 46.6194379,
+   "name": "Cima Grande - Große Zinne, Auronzo di Cadore, Belluno, Veneto, 32041, Italia",
+   "cls": "natural",
+   "typ": "peak"
+  }
+ ],
+ "Rifugio Pian di Cengia2": [
+  {
+   "lon": 12.4057558,
+   "lat": 46.5076173,
+   "name": "Cosa potete fare a Pian dei Buoi, Cengia dei Camosci, Lozzo di Cadore, Belluno, Veneto, 32",
+   "cls": "information",
+   "typ": "board"
+  },
+  {
+   "lon": 12.4058142,
+   "lat": 46.5075915,
+   "name": "Parco della Memoria di Pian dei Buoi - Pannello Soracrepa, Cengia dei Camosci, Lozzo di Ca",
+   "cls": "information",
+   "typ": "board"
+  },
+  {
+   "lon": 12.1759163,
+   "lat": 46.2619448,
+   "name": "Rifugio Pian de Fontana, Sentiero della Casera della Cengia, Longarone, Belluno, Veneto, 3",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Rifugio Citta di Carpi": [
+  {
+   "lon": 12.290813,
+   "lat": 46.5623477,
+   "name": "Rifugio Città di Carpi, Normale Punta Col de Varda, Auronzo di Cadore, Belluno, Veneto, 32",
+   "cls": "tourism",
+   "typ": "alpine_hut"
+  }
+ ],
+ "Passo Rolle": [
+  {
+   "lon": 11.7850596,
+   "lat": 46.2964034,
+   "name": "Passo Rolle, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Prim",
+   "cls": "place",
+   "typ": "locality"
+  },
+  {
+   "lon": 11.786321,
+   "lat": 46.2963002,
+   "name": "Passo Rolle, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento,",
+   "cls": "mountain_pass",
+   "typ": "yes"
+  },
+  {
+   "lon": 11.7833337,
+   "lat": 46.2950906,
+   "name": "Passo Rolle, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento,",
+   "cls": "landuse",
+   "typ": "winter_sports"
+  }
+ ]
+}
