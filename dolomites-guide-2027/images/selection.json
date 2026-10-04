@@ -345,5 +345,12 @@
   "ay": 0.5,
   "src": "C11c",
   "caption": "Snow and ice on the Marmolada glacier."
+ },
+ "C11d": {
+  "idx": 4,
+  "aspect": 1.5,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Lago di Carezza (Karersee), with the Latemar behind the trees and the green water reflecting the sky."
  }
 }
