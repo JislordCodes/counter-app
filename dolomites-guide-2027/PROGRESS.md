@@ -25,10 +25,11 @@ Master rules: see `MASTER-PROMPT.txt`. Facts and sources: see `research/verified
 | Ch 15 Winter in the Dolomites | Drafted and proofread (2026/27 prices are aggregator-sourced; verify) |
 | Ch 16 Food and Drink | Drafted and proofread |
 | Ch 17 Culture, History, Etiquette, Photography | Drafted and proofread (sunrise/sunset times computed, not sourced) |
-| Ch 18 Itineraries | Not started |
-| Ch 19 Safety and practical | Not started |
-| Appendices | Not started |
-| Maps and images | Phase 2 (after text is final) |
+| Ch 18 Ready-to-Follow Itineraries | Drafted and proofread (drive times are estimates) |
+| Ch 19 Safety, Health, Connectivity, Packing | Drafted and proofread |
+| Appendices A–F, author note, review request | Drafted. Author bio and update-page address are placeholders for the author |
+| Full-book consistency pass | Done 4 Oct 2026 (chapter references, placeholders, figure markers) |
+| Maps and images | Phase 2 (next) |
 | DOCX / PDF builds | Phase 3 |
 
 ## Proofreading checklist (every chapter)
