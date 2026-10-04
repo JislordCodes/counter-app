@@ -316,5 +316,12 @@
   "ax": 0.5,
   "ay": 0.5,
   "caption": "Lago di Dobbiaco (Toblacher See) in summer."
+ },
+ "C10h": {
+  "idx": 2,
+  "aspect": 1.6,
+  "ax": 0.5,
+  "ay": 0.5,
+  "caption": "Lago di Braies, with the mountain walls reflected in the water."
  }
 }
