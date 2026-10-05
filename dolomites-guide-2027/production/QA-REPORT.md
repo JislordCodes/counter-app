@@ -1,12 +1,12 @@
 # Production QA report
 
-Generated 2026-10-04 by `tools/bookbuild/make_all.py`.
+Generated 2026-10-05 by `tools/bookbuild/make_all.py`.
 
 ## Files
 
 | File | Size | Notes |
 |---|---|---|
-| Paperback/Dolomites-Travel-Guide-2027_Paperback-Interior_6x9.pdf | 59.5 MB | Paperback interior PDF: 216 pages, 6 x 9 in |
+| Paperback/Dolomites-Travel-Guide-2027_Paperback-Interior_6x9.pdf | 25.4 MB | Paperback interior PDF: 216 pages, 6 x 9 in |
 | Paperback/Dolomites-Travel-Guide-2027_Paperback-Cover-Wrap.pdf | 5.1 MB | Paperback cover wrap PDF: 12.7364 x 9.25 in, spine 0.4864 in |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook-Cover_1600x2560.jpg | 0.9 MB | Ebook cover JPG: 1600 x 2560 px |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook.pdf | 21.9 MB | Ebook PDF: 191 pages |
@@ -22,7 +22,7 @@ Generated 2026-10-04 by `tools/bookbuild/make_all.py`.
 - Layout problems found by the checker: 0
 - Orphaned headings: 0
 - Fonts (all embedded): EBGaramond-Italic, EBGaramond-Regular, EBGaramond-SemiBold, PlayfairDisplay-Black, PlayfairDisplay-Bold, PlayfairDisplay-BoldItalic, PlayfairDisplay-Italic, PlayfairDisplay-Regular, SourceSans3-Bold, SourceSans3-Italic, SourceSans3-Regular, SourceSans3-SemiBold
-- Images placed: 95 (greyscale; the upload copy has photos at about 255 dpi and maps at about 290 dpi at printed size; `..._FullRes.pdf` is the same book at about 365 dpi, 59.5 MB)
+- Images placed: 95 (greyscale; photos about 255 dpi and maps about 290 dpi at printed size in the upload copy; `_FullRes.pdf` is about 365 dpi)
 
 ## Paperback cover
 

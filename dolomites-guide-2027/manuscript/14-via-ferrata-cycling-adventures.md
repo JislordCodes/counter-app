@@ -79,7 +79,7 @@ Guides carry the right equipment, choose the safest route on the day, and teach 
 - **Check the route description,** the grade and the descent. Many routes need a long walk back.
 - **Do not go alone** if you are new to it.
 
-### Common mistakes
+### Mistakes to avoid
 
 - Using the wrong gear (a rope sling or a lanyard without an energy absorber).
 - Choosing a route by its photo, not its grade.
@@ -143,7 +143,7 @@ In 2026 in Ortisei, a hardtail e-bike cost about â‚¬54 for a half or full day (â
 - Finish before dusk.
 - Wear a helmet.
 
-### Common mistakes
+### Mistakes to avoid
 
 - Starting a pass climb in the midday heat.
 - Not carrying rain gear and a warm layer.

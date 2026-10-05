@@ -161,7 +161,7 @@ Lift costs are a big part of a Dolomites budget. Pick a card based on where you 
 4. Book the cheapest airport that fits your base, then count transfer costs.
 5. Avoid driving up to famous places in peak hours when buses are available. You may save parking fees and stress.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Renting a car and then paying for parking you do not use.
 - Choosing a base without checking bus links.

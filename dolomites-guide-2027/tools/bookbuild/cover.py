@@ -26,7 +26,7 @@ BACK_HEAD = "Plan the Dolomites once,#linebreak()and get it right."
 BACK_P1 = ("The Dolomites are as famous for reservations as for views. In 2026, the Seceda lifts, Lago di Braies by car, "
            "the Tre Cime toll road and the Alpe di Siusi road all had booking or timed-access rules in summer.")
 BACK_P2 = ("This guide shows what to book, when to book it and what it costs. It then takes you through six regions "
-           "with At-a-Glance boxes, honest drawbacks and plans for good and bad weather.")
+           "with At-a-Glance boxes, honest downsides and plans for good and bad weather.")
 BACK_LIST = [
     "What to reserve first, and when booking opens",
     "Real daily budgets, lift passes and hidden costs",

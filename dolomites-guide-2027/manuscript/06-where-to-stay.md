@@ -12,7 +12,7 @@ This chapter explains how to choose, compares the main bases, and tells you what
 
 ## Bases compared
 
-| Base | Best for | Car needed? | Price level | Main drawback |
+| Base | Best for | Car needed? | Price level | Main downside |
 |---|---|---|---|---|
 | **Ortisei** (Val Gardena) | Seceda, first-timers, couples, families | No | Mid to high | Busy in peak weeks; parking is tight |
 | **Santa Cristina** | Quieter than Ortisei or Selva; Col Raiser lift | No | Mid | Fewer restaurants than Ortisei |
@@ -40,14 +40,14 @@ This chapter explains how to choose, compares the main bases, and tells you what
 - **Why choose it.** This is the easiest base for first-time visitors. Lifts, restaurants and buses are all within walking distance. Seceda starts in Ortisei. The Alpe di Siusi is within reach by lift or bus (check current links). Selva is close to Sassolungo and the Sella passes.
 - **Who it suits.** First-timers, couples, families, skiers and car-free visitors.
 - **Parking.** Many hotels include a space. Public parking in Ortisei is limited and fills early in peak weeks.
-- **Drawbacks.** Busy in July, August and winter holidays. Prices are above average.
+- **Downsides.** Busy in July, August and winter holidays. Prices are above average.
 
 ### Alpe di Siusi (Compatsch, Siusi, Castelrotto)
 
 - **Why choose it.** Sleeping on or near the meadows gives you quiet mornings and evenings, before day visitors arrive and after they leave.
 - **Who it suits.** Families, gentle walkers, photographers and couples.
 - **Access.** Hotel guests on the meadows get road permits from their host. If you stay in Siusi or Castelrotto, you can use the cable car or bus.
-- **Drawbacks.** Fewer evening options. Fewer bus links to other valleys. Rules on cars (Chapter 3).
+- **Downsides.** Fewer evening options. Fewer bus links to other valleys. Rules on cars (Chapter 3).
 
 ### Alta Badia: Corvara, Colfosco, La Villa, San Cassiano
 
@@ -60,7 +60,7 @@ This chapter explains how to choose, compares the main bases, and tells you what
 - **Why choose it.** It sits at the crossroads of the Sella Ronda, the Gardena, Campolongo and Falzarego roads. It is also known for fine dining.
 - **Who it suits.** Cyclists, drivers, food lovers, and skiers.
 - **Car need.** Helpful, but buses and lifts work well in season.
-- **Drawbacks.** Fewer budget options. Many places close between seasons.
+- **Downsides.** Fewer budget options. Many places close between seasons.
 
 ### Cortina d'Ampezzo
 
@@ -68,27 +68,27 @@ This chapter explains how to choose, compares the main bases, and tells you what
 - **Who it suits.** Drivers, history and Great War fans, and people who like a proper town.
 - **Car need.** Helpful. There is no railway.
 - **Parking.** Limited and often paid. Check whether your hotel includes it.
-- **Drawbacks.** Prices rise in August. The area is far from Val Gardena (allow about two hours or more by road).
+- **Downsides.** Prices rise in August. The area is far from Val Gardena (allow about two hours or more by road).
 
 ### Sesto, Dobbiaco and San Candido (Val Pusteria / Alta Pusteria)
 
 - **Why choose it.** Best for the Tre Cime, Val Fiscalina and Lago di Braies. It has a valley railway and is cheaper than the big resorts.
 - **Who it suits.** Walkers, rail travellers, budget-minded visitors.
 - **Car need.** Not essential.
-- **Drawbacks.** Further from the Sella passes.
+- **Downsides.** Further from the Sella passes.
 
 ### Val di Fassa: Canazei, Campitello, Moena, Vigo di Fassa
 
 - **Why choose it.** Good value and access to the Catinaccio/Rosengarten, Marmolada and the Pordoi and Sella passes.
 - **Who it suits.** Families, hikers on a budget, and visitors who want a more local feel.
 - **Car need.** Helpful.
-- **Drawbacks.** Fewer high-end hotels.
+- **Downsides.** Fewer high-end hotels.
 
 ### Bolzano and Brixen (cities)
 
 - **Why choose it.** Trains, buses, museums and wine. Good if your trip includes rainy days or low season. Bolzano is home to the museum of the Iceman, Ötzi.
 - **Who it suits.** Car-free visitors, culture lovers, and early- or late-season travellers.
-- **Drawbacks.** Bolzano is hot in summer and you must travel 45 minutes or more to reach high mountain scenery.
+- **Downsides.** Bolzano is hot in summer and you must travel 45 minutes or more to reach high mountain scenery.
 
 ### Brunico and Plan de Corones
 
@@ -143,7 +143,7 @@ Two bases of three or four nights each often give a better trip than one base fo
 
 > **Wish I'd Known:** The drive between two bases often takes one and a half to two hours or more on mountain roads, and it can feel longer on a hot weekend. Treat the move as a half-day, with no big walk planned around it.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Choosing the cheapest room in a village with no bus links.
 - Staying far from lifts in peak season and relying on parking.

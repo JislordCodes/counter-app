@@ -104,7 +104,7 @@ If you have visited the Swiss or Austrian Alps, expect these differences:
 
 > **Wish I'd Known:** Moving base every night wastes time. A drive between regions can take one to two hours or more, and the last hour of any trip is often the slowest. Two or three nights per base is a good minimum.
 
-## Honest drawbacks
+## The downsides
 
 A guide should tell you the downsides, too:
 
@@ -115,7 +115,7 @@ A guide should tell you the downsides, too:
 
 None of these should put you off. They are the reasons to plan well.
 
-## Common mistakes in this chapter's topic
+## Planning mistakes to avoid
 
 - Choosing a base because of one famous photo, then finding it is two hours from the rest of your list.
 - Treating the Dolomites as one place with one pass.

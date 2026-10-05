@@ -10,7 +10,7 @@ These plans are built from the facts in the earlier chapters: lift hours, bookin
 - **Drive times are estimates.** They depend on traffic, weather and the day of the week. Check your map app and add a buffer in July and August.
 - **Every plan has a weather swap.** Mountain weather changes fast. Keep a flexible day if you can.
 - **Costs are 2026 prices** for lifts and entry, per person, excluding hotels, meals, parking and transport to the region.
-- **Each plan lists:** the base, a day-by-day schedule, a budget version, a family version, an optional upgrade and the most common mistake.
+- **Each plan lists:** the base, a day-by-day schedule, a budget version, a family version, an optional upgrade and one mistake to avoid.
 
 ---
 
@@ -31,7 +31,7 @@ These plans are built from the facts in the earlier chapters: lift hours, bookin
 | 14:00–18:00 | Rest, or visit the Museum Gherdëina (Monday to Friday 14:00 to 18:00; €8). |
 
 - **Weather swap:** If it is cloudy at 08:00, stay in the valley. Museum, Mar Dolomit pool or a low walk. Try Seceda on the first clear day.
-- **Common mistake:** Arriving at 11:30 in August with no booking.
+- **Avoid:** Arriving at 11:30 in August with no booking.
 
 ### Day 2: Alpe di Siusi
 
@@ -45,7 +45,7 @@ These plans are built from the facts in the earlier chapters: lift hours, bookin
 | 15:00–17:00 | Easy walk near Compatsch, or the Florian chairlift (€20 return). Take the cable car down before it closes. |
 
 - **Weather swap:** Low cloud on the meadows is common. Visit the Museum Gherdëina and Mar Dolomit pool, or choose a shorter walk below the cloud.
-- **Common mistake:** Driving up at 11:00 and getting fined, or leaving the last cable car too late.
+- **Avoid:** Driving up at 11:00 and getting fined, or leaving the last cable car too late.
 
 ### Day 3: Sassolungo and Passo Sella (clear day only)
 
@@ -57,7 +57,7 @@ These plans are built from the facts in the earlier chapters: lift hours, bookin
 | 17:00 | Bus back to Selva or Ortisei. Check the last bus before you set out. |
 
 - **Weather swap:** If clouds hang on the rocks, spend the day at the Mar Dolomit pool (7 pools, 11 saunas), a climbing hall or the ice rink in Selva.
-- **Common mistake:** Starting the full circuit after 10:00.
+- **Avoid:** Starting the full circuit after 10:00.
 
 ### Options for the three days
 
@@ -93,7 +93,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 | 18:00 | Arrive in Cortina. Check the parking and the ZTL with your hotel before you drive into town. |
 
 - **Weather swap:** If the weather is poor, skip the meadows and drive via Alta Badia, stopping at the Ladin museum in San Martino (Tuesday to Sunday 10:00 to 18:00).
-- **Common mistake:** Booking a hotel in the ZTL without checking how to reach it.
+- **Avoid:** Booking a hotel in the ZTL without checking how to reach it.
 
 ### Day 3: Cinque Torri and Lagazuoi
 
@@ -105,7 +105,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 | 14:30–17:30 | Passo Falzarego and the Lagazuoi cable car (€29.50). If you want the tunnels, you need a helmet and headtorch (rental about €5) and nearly 3 hours. Start earlier in that case. |
 
 - **Weather swap:** If the Lagazuoi tunnels are wet or cloud is low, skip them and take the Passo Giau drive instead (check parking signs).
-- **Common mistake:** Entering the tunnels in trainers or without a headtorch.
+- **Avoid:** Entering the tunnels in trainers or without a headtorch.
 
 ### Day 4: Tre Cime
 
@@ -116,7 +116,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 | 17:00 | Shuttle and bus back. Last shuttle from Misurina about 19:15 (2026). |
 
 - **Weather swap:** Check the forecast the night before. If the mountain is in cloud, visit Lago di Misurina and Monte Piana, or return to Cortina for shops and a long lunch.
-- **Common mistake:** Overstaying a toll road window, or starting after midday.
+- **Avoid:** Overstaying a toll road window, or starting after midday.
 
 ### Day 5: Lago di Braies and departure
 
@@ -127,7 +127,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 | 11:00 | Drive to Dobbiaco (about 20 minutes). Train from Dobbiaco toward Brunico, Bressanone and Bolzano. |
 
 - **Weather swap:** If it rains, spend the morning in Dobbiaco and take the train early.
-- **Common mistake:** Arriving at 10:00 without a reservation.
+- **Avoid:** Arriving at 10:00 without a reservation.
 
 ### Options for the five days
 
@@ -164,7 +164,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 - **Budget:** Skip Forcella Sassolungo and the Lagazuoi cable car. Base in Fassa instead of Cortina for lower prices.
 - **Family:** Replace Day 5 with a Cinque Torri morning and a pool or museum afternoon.
 - **Upgrade:** Add the Val Fiscalina walk to Rifugio Locatelli (about 5 hours, hard) instead of the Tre Cime loop.
-- **Common mistake:** Moving bases on a day you also plan a big walk.
+- **Avoid:** Moving bases on a day you also plan a big walk.
 
 ---
 
@@ -194,7 +194,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 - **Budget:** Use guest passes (Val Gardena and Val di Fassa) for buses. Prefer Fassa and Sesto bases.
 - **Family:** Replace Sorapis with Cinque Torri and the Stadl Alm walk from Lago di Carezza.
 - **Upgrade:** Add a guided half-day via ferrata at Passo Gardena (about €150 per person for a group).
-- **Common mistake:** Trying to see every region without two buffer days for weather.
+- **Avoid:** Trying to see every region without two buffer days for weather.
 
 ---
 
@@ -212,7 +212,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 | **6** | Bus 442 to Lago di Braies (reservation needed 1 July to 15 September in 2026). Be at the lake early |
 | **7** | Dobbiaco to Cortina cycle path (about 33 km, easy, rent an e-bike) or a rest day in San Candido |
 
-**Common mistake:** Not reserving the shuttle and bus seats.
+**Avoid:** Not reserving the shuttle and bus seats.
 
 ### Budget version (seven days)
 
@@ -220,7 +220,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 - Make lunch your main meal and buy picnic items in valley supermarkets.
 - Choose free or low-cost activities: Alpe di Siusi meadows (cable car about €30), Lago di Braies (arrive before 09:00), Cinque Torri open-air museum (free; chairlift about €15), the Dobbiaco to Cortina cycle path.
 - Skip: Seceda, Forcella Sassolungo, Lagazuoi cable car.
-- **Common mistake:** Booking half board and then eating out.
+- **Avoid:** Booking half board and then eating out.
 
 ### Photographer's version (five days)
 
@@ -265,7 +265,7 @@ Follow Day 1 of the three-day plan. Rest in the afternoon.
 
 ---
 
-## Common mistakes across all itineraries
+## Mistakes to avoid on any itinerary
 
 - Starting after 10:00 in July or August.
 - Planning too many sights per day.

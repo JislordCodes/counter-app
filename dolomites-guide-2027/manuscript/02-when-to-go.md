@@ -30,7 +30,7 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 |---|---|
 | **Weather** | Warm valleys, cool mountains. Expect daytime highs of about 20–28 °C in the valleys, and it gets about 6 °C cooler for every 1,000 metres you climb. Afternoon thunderstorms are common in July and August. |
 | **Advantages** | Everything is open. Long days. The widest choice of hikes, huts, lifts, bike routes and via ferrate. |
-| **Drawbacks** | Crowds, parking pressure and the booking rules in Chapter 3. Highest prices of the year. |
+| **Downsides** | Crowds, parking pressure and the booking rules in Chapter 3. Highest prices of the year. |
 | **Crowds** | High from July to August. The week of 15 August (Ferragosto, an Italian public holiday) is among the busiest. |
 | **Prices** | Highest from mid-July through August. Better in late June and in September. |
 | **Roads and passes** | Mountain passes are open. Cyclists and motorbikes are common, so allow extra time. |
@@ -65,7 +65,7 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 |---|---|
 | **Weather** | Often clear and crisp, but colder and less predictable. Early snow can fall at altitude from October. |
 | **Advantages** | Gold larches, low prices, quiet trails and the red deer rut (the "roaring" season). |
-| **Drawbacks** | Many lifts and high huts close from late September or early October. Some valleys effectively close for a few weeks before winter. Days are short. |
+| **Downsides** | Many lifts and high huts close from late September or early October. Some valleys effectively close for a few weeks before winter. Days are short. |
 | **Crowds** | Low. |
 | **Prices** | Low, with some hotels closed. |
 | **Roads and passes** | Open, but early snow can close high roads for a short time. Check before you drive. |
@@ -88,7 +88,7 @@ Summer is the main walking season. Lifts run, huts are open and high trails are 
 |---|---|
 | **Weather** | Cold, with reliable snow from January. Valleys can be sunny and dry while the mountains are snow-covered. |
 | **Advantages** | World-class skiing across the linked Dolomiti Superski area. Christmas markets. Spas. |
-| **Drawbacks** | High prices at peak times. Short days. Winter driving rules. Many summer walks and passes are unavailable. |
+| **Downsides** | High prices at peak times. Short days. Winter driving rules. Many summer walks and passes are unavailable. |
 | **Crowds** | High at Christmas and New Year, February school holidays and Easter. |
 | **Prices** | In 2026/27 the pricing calendar for Dolomiti Superski listed a low season from opening to 19 December, and a high season from 20 December to 14 March (reported; check the official site). |
 | **Roads and passes** | Main roads are kept open. Winter tyres or chains are usually required (see Chapter 4). |
@@ -111,7 +111,7 @@ Chapter 15 covers winter in detail. Christmas markets in Bolzano, Brixen and oth
 |---|---|
 | **Weather** | Changeable. Snow lies at altitude into June. Valleys warm up quickly. |
 | **Advantages** | The lowest prices, the fewest people, blossom in the valleys, and good conditions for towns and museums. |
-| **Drawbacks** | Many lifts, huts and hotels are closed between the winter and summer seasons. High trails are snowy or muddy. |
+| **Downsides** | Many lifts, huts and hotels are closed between the winter and summer seasons. High trails are snowy or muddy. |
 | **Crowds** | Very low. |
 | **Prices** | Low. |
 | **Roads and passes** | Main passes are usually open. Some secondary roads open only after snow is cleared. Check live road information. |

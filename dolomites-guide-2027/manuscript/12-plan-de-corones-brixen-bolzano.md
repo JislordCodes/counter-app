@@ -46,8 +46,8 @@ These places also work as bases. They are well served by trains and buses, and t
 | **Best time** | Any time. Quieter in spring and autumn. |
 | **Crowd reality** | Busy in school holidays and in December. |
 | **Practical tips** | Buy tickets online for peak weeks. Hot in July and August, so plan indoor visits for the middle of the day. |
-| **Common mistakes** | Arriving on a Monday outside the summer and December exceptions. |
-| **Drawbacks** | Far from high mountain scenery; summer heat. |
+| **Avoid** | Arriving on a Monday outside the summer and December exceptions. |
+| **Downsides** | Far from high mountain scenery; summer heat. |
 
 **More in Bolzano.** Walk the old town and the fruit market, ride the Renon cableway to Soprabolzano, and see the Earth Pyramids. The December Christmas market runs from late November to early January.
 
@@ -86,8 +86,8 @@ These places also work as bases. They are well served by trains and buses, and t
 | **Visit time** | A half day for the town, another half day for the abbey. |
 | **Best time** | Spring and autumn. Christmas market in December. |
 | **Practical tips** | Combine the town and the abbey in one day by bus or bike. |
-| **Common mistakes** | Planning too little time. |
-| **Drawbacks** | Not a mountain base. |
+| **Avoid** | Planning too little time. |
+| **Downsides** | Not a mountain base. |
 
 ## 4. Plan de Corones (Kronplatz) and the Messner Mountain Museum
 
@@ -109,8 +109,8 @@ These places also work as bases. They are well served by trains and buses, and t
 | **Crowd reality** | Busy at midday in July and August. |
 | **Difficulty** | Easy. |
 | **Practical tips** | Check lift hours before you go. Layers: the summit is windy. |
-| **Common mistakes** | Going up in thick cloud. |
-| **Drawbacks** | The lift is pricey, and the summit is a managed area, not a wilderness. |
+| **Avoid** | Going up in thick cloud. |
+| **Downsides** | The lift is pricey, and the summit is a managed area, not a wilderness. |
 
 ## 5. Wine villages and valley walks
 
@@ -140,7 +140,7 @@ South Tyrolean cuisine is a mix of Austrian and Italian. Look for dumplings, sou
 - The view from Plan de Corones in clear morning light.
 - Neustift Abbey from the vineyard trail.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Treating the cities as a day trip only and missing the evening atmosphere.
 - Planning an Ötzi visit on a Monday outside July, August and December.

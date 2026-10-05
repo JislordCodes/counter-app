@@ -54,8 +54,8 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Cost** | Higher than most Dolomites bases in July and August. Some July doubles were around €110 to €130 in 2026, while the area average was closer to €200. |
 | **Best time** | Late June, September and winter. |
 | **Crowd reality** | Busy in August. |
-| **Common mistakes** | Driving into the ZTL. Not asking about parking before booking. |
-| **Drawbacks** | Parking, traffic and high peak prices. |
+| **Avoid** | Driving into the ZTL. Not asking about parking before booking. |
+| **Downsides** | Parking, traffic and high peak prices. |
 
 ## 2. Cinque Torri
 
@@ -82,9 +82,9 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Crowd reality** | Busy at midday. Avoid mid-August (Ferragosto). |
 | **Difficulty** | Easy around the towers. Steeper to Rifugio Nuvolau. |
 | **Practical tips** | Take layers. The upper station has Rifugio Scoiattoli, with a terrace and a children's playground. |
-| **Common mistakes** | Arriving late. Not carrying cash for parking. |
+| **Avoid** | Arriving late. Not carrying cash for parking. |
 | **Nearby** | Passo Falzarego, Lagazuoi, Passo Giau. |
-| **Drawbacks** | Popular. The walk to Nuvolau is short but steep. |
+| **Downsides** | Popular. The walk to Nuvolau is short but steep. |
 
 ## 3. Lagazuoi and the Great War tunnels
 
@@ -111,9 +111,9 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Crowd reality** | Busy at midday. |
 | **Difficulty** | For fit adults. The tunnels are dark, wet and slippery, with iron and stone steps. Not suitable for children under 8 or for dogs. |
 | **Practical tips** | Bring warm layers: the tunnels are cold and damp even in summer. Use a headtorch with spare batteries. |
-| **Common mistakes** | Wearing trainers. Starting late. Skipping the helmet. |
+| **Avoid** | Wearing trainers. Starting late. Skipping the helmet. |
 | **Nearby** | Cinque Torri, Passo Valparola, Alta Badia by bus. |
-| **Drawbacks** | Not for everyone: dark, steep and wet. |
+| **Downsides** | Not for everyone: dark, steep and wet. |
 
 ## 4. Passo Giau
 
@@ -131,8 +131,8 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Parking** | Reports differ. One source describes free parking at the top and in a few wide spaces. Another says roadside parking at Col Gallina and the pass is prohibited, with towing and fines. Check the signs on arrival. |
 | **Best time** | Early morning or late afternoon. |
 | **Crowd reality** | Busy with cars, motorbikes and cyclists on summer weekends. |
-| **Common mistakes** | Parking on the verge. Stopping on blind bends. |
-| **Drawbacks** | Narrow road. Limited space. |
+| **Avoid** | Parking on the verge. Stopping on blind bends. |
+| **Downsides** | Narrow road. Limited space. |
 
 ## 5. Lago di Sorapis
 
@@ -152,8 +152,8 @@ After the Winter Olympics in February 2026, Cortina had a valley full of new or 
 | **Support** | Rifugio Vandelli and Ristorante Son Zuogo. |
 | **Best time** | Summer and early September, in dry weather. |
 | **Crowd reality** | Very popular. Start early. |
-| **Common mistakes** | Treating it as an easy walk. Wearing slippery shoes. Going in wet weather. |
-| **Drawbacks** | Exposed sections; narrow ledges can cause queues. |
+| **Avoid** | Treating it as an easy walk. Wearing slippery shoes. Going in wet weather. |
+| **Downsides** | Exposed sections; narrow ledges can cause queues. |
 
 ## 6. Faloria, Tofane and Cristallo lifts
 
@@ -196,7 +196,7 @@ Cortina has a wide range of restaurants and cafés. Mountain huts, such as Scoia
 
 Browse Cortina's shops and cafés, visit museums and galleries, and plan a spa session. If the cloud lifts, the Cinque Torri open-air museum is a gentle option.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Driving into the ZTL.
 - Parking on Passo Giau verges.

@@ -54,9 +54,9 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 | **Difficulty** | Moderate. The track from Gardeccia up trail 546 is steep and rocky. |
 | **Photography** | The towers catch late light. Walk beyond Gardeccia for quieter views. |
 | **Practical tips** | Sturdy boots, layers, and cash for the huts. Check the opening dates of the huts you plan to use. |
-| **Common mistakes** | Starting after 10:00. Wearing trainers on the rocky track. Not checking the last lift down. |
+| **Avoid** | Starting after 10:00. Wearing trainers on the rocky track. Not checking the last lift down. |
 | **Nearby** | Lago di Carezza, Santner pass (a more demanding route), Rifugio Re Alberto. |
-| **Drawbacks** | A long, steep day for beginners. |
+| **Downsides** | A long, steep day for beginners. |
 
 > **Wish I'd Known:** The route over the Santner pass includes a via ferrata. It needs equipment and experience, so it is not a simple walk. If you are not sure, stay on the main track to the huts.
 
@@ -86,9 +86,9 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 | **Crowd reality** | Queues form in July and August. |
 | **Difficulty** | Easy at the top station. The glacier and summit are not for independent visitors. |
 | **Safety** | After the 2022 glacier collapse, summit access is only possible with a certified mountain guide in good conditions. |
-| **Common mistakes** | Going up in poor weather. Wearing summer clothes. At 3,000 m, it can be cold even in July. |
+| **Avoid** | Going up in poor weather. Wearing summer clothes. At 3,000 m, it can be cold even in July. |
 | **Nearby** | Passo Fedaia and its lake, Passo Pordoi, Arabba. |
-| **Drawbacks** | Weather dependent. Expensive for a short ride. |
+| **Downsides** | Weather dependent. Expensive for a short ride. |
 
 ## 3. Lago di Carezza (Karersee)
 
@@ -105,8 +105,8 @@ The valley is a good choice for walkers who want big scenery and lower prices, a
 | **Cost (2026)** | No entry fee. Parking prices are reported differently: about €3 an hour, up to €30 a day, with no reservation (one source), and €5 to €7 for the first two hours with online reservation (another). Check the current rules. |
 | **Visit time** | 30 to 60 minutes. A path goes around the lake, with a bar, restrooms and a shop. |
 | **Best time** | Early morning, when the water is calm and the light is soft. |
-| **Common mistakes** | Arriving at midday in August. Expecting a quiet spot. |
-| **Drawbacks** | Short visit and busy car park. |
+| **Avoid** | Arriving at midday in August. Expecting a quiet spot. |
+| **Downsides** | Short visit and busy car park. |
 
 ## 4. Col Rodella and the Sella side
 
@@ -155,7 +155,7 @@ Huts near the Vajolet and Pordoi serve traditional meals. In the valley, Ladin a
 
 Museums and spas in the valley villages, and a drive over the passes if the cloud lifts. The Great War museum at Serauta, on the Marmolada cable car, can be a useful stop on a cloudy day if the cable car is running.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Skipping the free guest card.
 - Starting the Vajolet walk late.

@@ -181,7 +181,7 @@ Each hut sets its own dates, so confirm for 2027.
 
 A good compromise is to walk independently on easy and moderate routes and hire a guide for the harder or more exposed days.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Starting after 10:00 in July or August.
 - Choosing a hike by the photo, not by the grade.

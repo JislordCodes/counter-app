@@ -8,7 +8,7 @@ import datetime, os, shutil, sys, zipfile
 
 import pymupdf
 
-from . import build, cover, docx_out, epub, qa
+from . import build, cover, docx_out, epub, qa, shrink
 from .core import ROOT, load_book
 
 NAME = "Dolomites-Travel-Guide-2027"
@@ -25,8 +25,17 @@ def main():
 
     # 1. paperback interior (PDF)
     print_pdf = os.path.join(PB, f"{NAME}_Paperback-Interior_6x9.pdf")
+    full_pdf = os.path.join(PB, f"{NAME}_Paperback-Interior_6x9_FullRes.pdf")
+    build.main("print", os.path.relpath(full_pdf, os.path.join(ROOT, "dist")))
+    # upload copy: same layout, resampled images, about 24 MB instead of about 59 MB
+    shrink.prepare()
+    shrink.use_small_images()
     build.main("print", os.path.relpath(print_pdf, os.path.join(ROOT, "dist")))
+    shrink.use_full_images()
     pages = len(pymupdf.open(print_pdf))
+    same = pages == len(pymupdf.open(full_pdf))
+    print("small and full-resolution copies have the same page count:", same)
+    assert same, "page count differs between the small and full-resolution builds; the spine would be wrong"
     report.append(("Paperback interior PDF", print_pdf, f"{pages} pages, 6 x 9 in"))
 
     # 2. covers (need the page count)
@@ -98,7 +107,7 @@ def write_report(report, pages, dims):
             fonts.add((f[3].split('+')[-1], f[1] or 'n/a'))
     lines.append("- Fonts (all embedded): " + ", ".join(sorted(f"{n}" for n, e in fonts if e not in ("n/a", ""))))
     nimg = sum(len(p.get_images()) for p in doc)
-    lines.append(f"- Images placed: {nimg} (greyscale, about 365 dpi at printed size)")
+    lines.append(f"- Images placed: {nimg} (greyscale; photos about 255 dpi and maps about 290 dpi at printed size in the upload copy; `_FullRes.pdf` is about 365 dpi)")
     lines += ["", "## Paperback cover", ""]
     wp = [p for l, p, n in report if l == "Paperback cover wrap PDF"][0]
     cd = pymupdf.open(wp)

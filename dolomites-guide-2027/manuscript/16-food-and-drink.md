@@ -181,7 +181,7 @@ These restaurants held a Michelin star in the 2026 guide, according to South Tyr
 5. **Use bars for breakfast.** Standing at the counter is cheaper than a table.
 6. **Avoid tourist traps** at lift stations and the most famous viewpoints. Prices are higher there.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Arriving at a hut at 12:30 in August and finding no table.
 - Not carrying cash.

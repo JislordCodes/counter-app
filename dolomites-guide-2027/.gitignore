@@ -15,3 +15,4 @@ build/book-*.typ
 build/make_all.log
 images/print_small/
 dist/final-small.pdf
+production/Paperback/*_FullRes.pdf

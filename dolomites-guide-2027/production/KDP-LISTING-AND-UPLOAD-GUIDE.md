@@ -38,7 +38,7 @@ The other files are for you:
 <br><br>
 The Dolomites are as famous for reservations as for views. In 2026, the Seceda lifts, Lago di Braies by car, the Tre Cime toll road and the Alpe di Siusi road all had booking or timed-access rules in summer. Arrive without a plan and you can lose a day, or a viewpoint.
 <br><br>
-<b>Dolomites Travel Guide 2027</b> shows what to book, when to book it and what it costs. It then takes you through six regions with At-a-Glance boxes, honest drawbacks, and plans for good and bad weather.
+<b>Dolomites Travel Guide 2027</b> shows what to book, when to book it and what it costs. It then takes you through six regions with At-a-Glance boxes, honest downsides, and plans for good and bad weather.
 <br><br>
 <b>Inside you will find:</b>
 <ul>

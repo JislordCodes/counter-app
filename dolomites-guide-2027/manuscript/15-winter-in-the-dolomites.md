@@ -76,8 +76,8 @@ This chapter explains how the pass works, which resort suits which skier, how to
 | **Directions** | **Clockwise (orange signs):** Selva to Passo Gardena, Corvara, Campolongo, Arabba, Pordoi, Lupo Bianco, Sella. **Counter-clockwise (green signs):** the reverse. The green direction is slightly easier. |
 | **Timing** | Start before 10:00. Cross the last pass before about 15:30, so lifts do not close on you. |
 | **Practical tips** | Pick one direction and follow its signs. Check the weather and lift status in the morning. Start from Selva or Corvara. |
-| **Common mistakes** | Starting late. Skiing in poor visibility. Not leaving time for the last lifts. |
-| **Drawbacks** | A long day. Lifts close on a fixed schedule, and a late finish can mean a taxi or bus back. |
+| **Avoid** | Starting late. Skiing in poor visibility. Not leaving time for the last lifts. |
+| **Downsides** | A long day. Lifts close on a fixed schedule, and a late finish can mean a taxi or bus back. |
 
 ## Cortina after the Olympics
 
@@ -131,7 +131,7 @@ This chapter explains how the pass works, which resort suits which skier, how to
 | February | High, especially school holidays | High |
 | March | Medium to high. Easter Sunday 2027 is 28 March, so expect a busy week around it. | Medium; low season from 15 March (reported) |
 
-## Common mistakes
+## Mistakes to avoid
 
 - Booking in Christmas week without checking prices.
 - Buying a local pass and then wanting to ski the Sella Ronda.

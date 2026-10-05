@@ -60,9 +60,9 @@ It is also one of the busiest areas, and it has more access rules than any other
 | **Difficulty** | Easy. The ridge walk is 1.3 km, about 30 to 45 minutes, with about 110 m of climbing. Longer loops are moderate. |
 | **Photography** | Afternoon sun lights the peaks. Morning light can be backlit. |
 | **Practical tips** | Book lifts ahead (Chapter 3). Wear proper shoes: the paths are gravel and rock. Walk beyond the first viewpoint for space. |
-| **Common mistakes** | Arriving at midday in August. Planning a long hike late in the day. Going up in poor visibility. |
+| **Avoid** | Arriving at midday in August. Planning a long hike late in the day. Going up in poor visibility. |
 | **Nearby** | Baita Sofie hut and the restaurant at the upper station for food. Col Raiser. Val di Funes (below). |
-| **Drawbacks** | Expensive, crowded, and the most photographed spot has its own fee. |
+| **Downsides** | Expensive, crowded, and the most photographed spot has its own fee. |
 
 > **Wish I'd Known:** Private landowners in the Puez-Odle Nature Park installed a paid turnstile (reported at €5) on the path toward the famous postcard viewpoint. In 2026, a second collection point was reported. A bypass trail gives a nearly equal view a few metres further on. The Panascharte saddle itself is closed. Fees and rules can change, so check on the day.
 
@@ -98,9 +98,9 @@ It is also one of the busiest areas, and it has more access rules than any other
 | **Difficulty** | Easy to moderate. Rolling meadows, not steep. |
 | **Photography** | Afternoon and evening give the best light on the Sassolungo and Sciliar. |
 | **Practical tips** | Hire an e-bike if you want to cover distance on rolling terrain. Bus back from Saltria instead of hiking uphill. |
-| **Common mistakes** | Driving up at 11:00 and being fined. Leaving the return bus too late. Not checking the cable car's last descent. |
+| **Avoid** | Driving up at 11:00 and being fined. Leaving the return bus too late. Not checking the cable car's last descent. |
 | **Nearby** | Sciliar, Castelrotto, Val di Funes, Seceda. |
-| **Drawbacks** | Access rules are strict. Busy at midday. |
+| **Downsides** | Access rules are strict. Busy at midday. |
 
 **Walks on the meadows**
 
@@ -132,9 +132,9 @@ It is also one of the busiest areas, and it has more access rules than any other
 | **Difficulty** | Circuit: moderate to hard (17.6 km, about 1,000 m up and down). Cable car options are shorter but the descent can be steep and technical. |
 | **Photography** | Late afternoon on the walls. |
 | **Practical tips** | Use the bus on busy days. Take water and layers. The Rifugio Vicenza detour adds about 300 m of climbing. Skip it if tired. |
-| **Common mistakes** | Trying the whole circuit with a late start. Underestimating the descent from Forcella Sassolungo. |
+| **Avoid** | Trying the whole circuit with a late start. Underestimating the descent from Forcella Sassolungo. |
 | **Nearby** | Sella Ronda passes (Chapter 8), Selva, Passo Gardena. |
-| **Drawbacks** | Traffic, parking and a long day for the full circuit. |
+| **Downsides** | Traffic, parking and a long day for the full circuit. |
 
 > **Wish I'd Known:** The Forcella Sassolungo cable car has tiny two-person cabins that look like upright coffins. They are not for everyone. Capacity is small, so queues can be long.
 
@@ -155,8 +155,8 @@ It is also one of the busiest areas, and it has more access rules than any other
 | **Rules (2026)** | From mid-May to November, a barrier limits the village to residents and overnight guests. Day visitors park at designated areas and walk. Reports gave walks of about 15 minutes to 30 minutes or more. Coaches need online booking. |
 | **Crowd reality** | Up to about 600 people a day at peak times, in a village of about 2,500 residents. |
 | **Best time** | Early morning or late afternoon. |
-| **Common mistakes** | Driving up for a quick photo and being turned away. Walking onto private fields or farm land. |
-| **Drawbacks** | The access rules are new and may change. |
+| **Avoid** | Driving up for a quick photo and being turned away. Walking onto private fields or farm land. |
+| **Downsides** | The access rules are new and may change. |
 
 > **Wish I'd Known:** Reports differ on the exact walking time and parking price in Santa Maddalena, and the municipality had not decided on a shuttle bus. Check the Val di Funes tourist office before you go. Stay on the path and out of the meadows. Locals have complained of visitors walking onto private land.
 
@@ -208,7 +208,7 @@ See Chapter 6. For a first visit, **Ortisei** (lifts, restaurants, buses) or **S
 
 Museum Gherdëina, the Mar Dolomit pool, climbing halls, the ice rink and indoor shops in the pedestrian streets. If the clouds lift, a low walk on the meadows is still possible.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Driving to the Alpe di Siusi in the middle of the day.
 - Booking one day for Seceda, Alpe di Siusi and Sassolungo together.

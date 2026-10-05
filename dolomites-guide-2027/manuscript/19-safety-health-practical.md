@@ -196,7 +196,7 @@ Tap water in the valleys is safe to drink. In huts, ask whether water from taps 
 | Mountain huts | Book months ahead; no central system | 13 |
 | Entry to Italy | EES in use; ETIAS start date uncertain | 3 |
 
-## Common mistakes
+## Mistakes to avoid
 
 - Starting a walk in good weather and not checking the afternoon forecast.
 - Relying on a phone signal for navigation.

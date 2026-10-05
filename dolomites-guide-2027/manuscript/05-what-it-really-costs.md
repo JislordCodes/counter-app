@@ -139,7 +139,7 @@ These are the extras that catch visitors out.
 
 Winter prices differ, mainly because of the ski pass. The 2026/27 pricing calendar for Dolomiti Superski was reported to run a high season from 20 December to 14 March. Chapter 15 covers ski passes in detail, and you should check the official site for the 2026/27 prices.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Booking a half-board hotel and then eating out most nights.
 - Buying a card that does not include your key lift.

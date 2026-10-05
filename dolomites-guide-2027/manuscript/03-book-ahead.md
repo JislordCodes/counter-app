@@ -42,8 +42,8 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **How to book** | Buy online at seceda.it. In 2026 one source reported timed 30-minute slots and an early-booking discount. Confirm for 2027. |
 | **Crowd reality** | Busy from late morning to mid-afternoon in summer. The ridge thins out once you walk away from the lift. |
 | **Typical visit** | 2 to 4 hours, longer if you add a hut lunch. |
-| **Common mistake** | Turning up at midday in August and finding the next slots full or the queue long. |
-| **Potential drawback** | It is expensive for a short ride, and it is crowded. |
+| **Avoid** | Turning up at midday in August and finding the next slots full or the queue long. |
+| **Downsides** | It is expensive for a short ride, and it is crowded. |
 
 > **Wish I'd Known:** In 2026, the Dolomiti SuperSummer card did not cover the Seceda lifts. The Gardena Card did. If Seceda is on your list, compare the two before you buy.
 
@@ -65,7 +65,7 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **Boats (2026)** | €55 for 45 minutes (private, up to 5), or about €20 per person shared. Opening hours about 08:00–19:00. |
 | **Crowd reality** | Very busy from mid-morning. Arriving before 09:00 or after 16:00 is the best way to avoid the worst. |
 | **Drones** | Banned. The lake lies in the Fanes-Sennes-Braies Nature Park, where drone flights have been banned since 2023 (Chapter 17). |
-| **Common mistake** | Driving up at 10:00 without a reservation and being turned back. |
+| **Avoid** | Driving up at 10:00 without a reservation and being turned back. |
 
 **The options, ranked by effort:**
 
@@ -92,7 +92,7 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **Loop walk** | About 9.5–10 km, 3–4 hours, easy to moderate. |
 | **Alternatives** | Shuttle 444 from Dobbiaco station (2026: €22 round trip, reservation mandatory, last return about 18:08, guest passes not valid). Misurina shuttle (about €10 a day in 2026). Walk from Lake Antorno or Malga Rin Bianco (about 4 km, under 2 hours each way) or up Val Fiscalina from Sesto. See Chapter 10. |
 | **Overnight** | Vehicles can stay overnight with two consecutive slots; camping is not allowed. |
-| **Common mistake** | Arriving without a booking, or booking a slot and not leaving inside the window. |
+| **Avoid** | Arriving without a booking, or booking a slot and not leaving inside the window. |
 
 > **Wish I'd Known:** The booking window opens about a month before your date. For popular July and August days, set a reminder and book on day one.
 
@@ -112,7 +112,7 @@ Limited-capacity items include timed lift tickets, car access to a lake or a tol
 | **Cable car** | From Siusi (Seis), with free parking at the base. About €30 adult round trip in 2026 (secondary source). |
 | **Bus** | Line 14 from P1 to Compatsch, 25 July to 6 September, €4 (free with a lift ticket). |
 | **Winter and shoulder** | The road is open all day in mid-April to mid-May and early November to early December. |
-| **Common mistake** | Driving up at 11:00 without a permit and getting fined. |
+| **Avoid** | Driving up at 11:00 without a permit and getting fined. |
 
 ## Other places to check
 
@@ -165,7 +165,7 @@ Rules for entering Italy change often. Check these before you book flights.
 - **Driving licence.** Many non-EU drivers need an International Driving Permit as well as their licence. Check with your rental company.
 - **Insurance.** Make sure it covers mountain rescue. See Chapter 19.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Waiting until you arrive to ask about Seceda tickets.
 - Reading 2026 prices as final 2027 prices.

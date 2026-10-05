@@ -61,9 +61,9 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 | **Difficulty** | Easy driving but many hairpin bends. |
 | **Photography** | Pull over only in marked spaces. Early and late light work best. |
 | **Practical tips** | Fuel up in the valley. Check the weather. Have a car with good brakes and use a low gear on descents. |
-| **Common mistakes** | Starting at 11:00. Planning too many stops. Driving on Sellaronda Bike Day. |
+| **Avoid** | Starting at 11:00. Planning too many stops. Driving on Sellaronda Bike Day. |
 | **Nearby** | Sass Pordoi cable car, Lagazuoi, Passo Falzarego. |
-| **Drawbacks** | Traffic, noise and limited parking at popular spots. |
+| **Downsides** | Traffic, noise and limited parking at popular spots. |
 
 **Direction.** The loop can be driven either way. Use your map app to check traffic before you choose.
 
@@ -75,7 +75,7 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 - **Time:** 6 to 9 hours on a mountain bike or e-bike, including a lunch stop. Guided tours using lifts were about 6 to 7 hours.
 - **Who it suits:** fit cyclists, and e-bike riders of moderate fitness.
 - **Best day:** Sellaronda Bike Day (the roads are closed to motor traffic), or a weekday morning.
-- **Common mistakes:** Starting late, not packing rain gear, and underestimating the climbs.
+- **Avoid:** Starting late, not packing rain gear, and underestimating the climbs.
 
 ## 3. Piz Boè from Passo Pordoi
 
@@ -97,9 +97,9 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 | **Difficulty** | Moderate. About 430 m of climbing. Loose gravel and some rock scrambling with chains and iron rungs near the top. |
 | **Photography** | Wide views over the Dolomites on clear days. |
 | **Practical tips** | Good boots. Sun protection, because the trail is open and exposed. Rifugio Forcella Pordoi (about 20 June to 30 September) and the summit hut both serve food. |
-| **Common mistakes** | Wearing trainers on loose gravel. Forgetting the climb back to the cable car. Going up in cloud or with storms forecast. |
+| **Avoid** | Wearing trainers on loose gravel. Forgetting the climb back to the cable car. Going up in cloud or with storms forecast. |
 | **Nearby** | Passo Pordoi, Arabba, Val di Fassa. |
-| **Drawbacks** | High altitude. Weather can turn quickly. |
+| **Downsides** | High altitude. Weather can turn quickly. |
 
 ## 4. Lago Pisciadù and the Brigata Tridentina via ferrata
 
@@ -124,8 +124,8 @@ The Sella Ronda links four passes around the Sella massif. They are among the mo
 | **Hut season** | Rifugio Cavazza about 21 June to 20 September. |
 | **Difficulty** | Walking route: moderate. Via ferrata: requires equipment and experience. |
 | **Practical tips** | Hire a guide if you have not done a via ferrata before (Chapter 14). Carry helmet, harness and a lanyard with energy absorber. |
-| **Common mistakes** | Attempting the ferrata without equipment. Starting late. Ignoring afternoon storms. |
-| **Drawbacks** | Exposed, and can be busy in peak weeks. |
+| **Avoid** | Attempting the ferrata without equipment. Starting late. Ignoring afternoon storms. |
+| **Downsides** | Exposed, and can be busy in peak weeks. |
 
 ## 5. Alta Badia villages and Ladin culture
 
@@ -180,7 +180,7 @@ Choose **Corvara** or **La Villa** for lifts and passes, **Colfosco** for a quie
 
 The Ladin museums in San Martino and San Cassiano, spa hotels and cafés in the villages. If the cloud lifts, a low walk to Santa Croce.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Planning the Sella Ronda for Sellaronda Bike Day.
 - Starting a pass drive after 11:00 in summer.

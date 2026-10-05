@@ -182,7 +182,7 @@ Sunrise and sunset times in the Dolomites change a lot through the year. These t
 - Be considerate: do not block paths for a photo, and stay off private fields.
 - Ask before photographing people.
 
-## Common mistakes
+## Mistakes to avoid
 
 - Planning a sunrise shoot at a lift-served viewpoint.
 - Flying a drone in a protected area.

@@ -56,9 +56,9 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 | **Difficulty** | Easy to moderate. Mostly wide paths with some stony sections. |
 | **Photography** | Plan to be at viewpoints 20 to 30 minutes before sunset. Arrive early for fewer people. |
 | **Practical tips** | Carry layers and water. Huts on the loop: Auronzo (2,333 m), Lavaredo (2,344 m), Locatelli (2,405 m) and Pian di Cengia (2,528 m). |
-| **Common mistakes** | Arriving without a booking, or booking the wrong window. Starting at midday. Overstaying the toll road window. |
+| **Avoid** | Arriving without a booking, or booking the wrong window. Starting at midday. Overstaying the toll road window. |
 | **Nearby** | Cadini di Misurina, Lago di Misurina, Val Fiscalina. |
-| **Drawbacks** | Busy, expensive access, and weather that can turn quickly at 2,400 m. |
+| **Downsides** | Busy, expensive access, and weather that can turn quickly at 2,400 m. |
 
 > **Wish I'd Known:** A toll road booking is for a 12-hour window, one entry only. If you leave and try to return, you will have to pay again. Plan to stay inside your window.
 
@@ -99,7 +99,7 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 | **Why visit** | A different view from the classic loop, and often quieter. |
 | **Access** | From Rifugio Auronzo, about 45 minutes each way (about 1.5 hours round trip). |
 | **Difficulty** | Moderate, with some exposed sections. |
-| **Common mistakes** | Adding it to a late day. Wearing slippery shoes. |
+| **Avoid** | Adding it to a late day. Wearing slippery shoes. |
 
 ## 3. Val Fiscalina and Sesto
 
@@ -118,8 +118,8 @@ It is also where booking rules are strictest. Read Chapter 3 before you plan you
 | **Huts** | Fondovalle hut (1,548 m, May to October) and Rifugio Locatelli (2,405 m, June to September). |
 | **Longer option** | Val Fiscalina circuit about 17.8 km and 1,175 m of climbing, about 6.5 hours (8 with stops). |
 | **Practical tips** | Start early. Check the bus time for the return. |
-| **Common mistakes** | Underestimating the climb. Planning a driving arrival after 09:00. |
-| **Drawbacks** | A long day for beginners. |
+| **Avoid** | Underestimating the climb. Planning a driving arrival after 09:00. |
+| **Downsides** | A long day for beginners. |
 
 **The "sundial."** The peaks above Sesto form a natural sundial. Locals read the time from which peak the sun touches. It makes a good photo from the village in the evening.
 
@@ -143,8 +143,8 @@ Chapter 3 gives the access rules in detail. In short: in 2026, from 1 July to 15
 | **Crowd reality** | Very busy from mid-morning. |
 | **Difficulty** | Easy. |
 | **Photography** | Early morning light is calm. Do not fly a drone: the lake lies in the Fanes-Sennes-Braies Nature Park, where drones are banned. |
-| **Common mistakes** | Driving up at 10:00. Underestimating how crowded the lake path is at midday. |
-| **Drawbacks** | Crowds and fees. |
+| **Avoid** | Driving up at 10:00. Underestimating how crowded the lake path is at midday. |
+| **Downsides** | Crowds and fees. |
 
 ## 5. Alta Via 1 (the start)
 
@@ -202,7 +202,7 @@ Locatelli and the other Tre Cime huts serve lunch. In the valley towns, South Ty
 
 Museums in San Candido and Dobbiaco, a spa session, and a train ride to Brunico or Bressanone. If the cloud lifts, the Dobbiaco to Cortina cycle path is a good low-level option.
 
-## Common mistakes in this region
+## Mistakes to avoid
 
 - Driving to the Tre Cime without a booking.
 - Using a guest pass on the 444 shuttle.
