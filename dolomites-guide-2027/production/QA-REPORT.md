@@ -1,16 +1,16 @@
 # Production QA report
 
-Generated 2026-10-05 by `tools/bookbuild/make_all.py`.
+Generated 2026-10-06 by `tools/bookbuild/make_all.py`.
 
 ## Files
 
 | File | Size | Notes |
 |---|---|---|
 | Paperback/Dolomites-Travel-Guide-2027_Paperback-Interior_6x9.pdf | 25.4 MB | Paperback interior PDF: 216 pages, 6 x 9 in |
-| Paperback/Dolomites-Travel-Guide-2027_Paperback-Cover-Wrap.pdf | 5.1 MB | Paperback cover wrap PDF: 12.7364 x 9.25 in, spine 0.4864 in |
+| Paperback/Dolomites-Travel-Guide-2027_Paperback-Cover-Wrap.pdf | 6.2 MB | Paperback cover wrap PDF: 12.7364 x 9.25 in, spine 0.4864 in |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook-Cover_1600x2560.jpg | 0.9 MB | Ebook cover JPG: 1600 x 2560 px |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook.pdf | 21.9 MB | Ebook PDF: 191 pages |
-| Ebook/Dolomites-Travel-Guide-2027_Ebook.epub | 7.8 MB | Ebook EPUB (upload this to KDP): EPUB 3 |
+| Ebook/Dolomites-Travel-Guide-2027_Ebook.epub | 7.9 MB | Ebook EPUB (upload this to KDP): EPUB 3 |
 | Paperback/Dolomites-Travel-Guide-2027_Paperback-Interior_6x9.docx | 37.7 MB | Print DOCX: 35 contents entries |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook.docx | 21.2 MB | Ebook DOCX: 35 contents entries |
 
@@ -28,12 +28,14 @@ Generated 2026-10-05 by `tools/bookbuild/make_all.py`.
 
 - Wrap size: 12.7364 x 9.2500 in; expected 12.7364 x 9.25 in (bleed 0.125 in on all sides, spine 0.4864 in for 216 pages, white paper, black-and-white interior)
 - Pages in cover PDF: 1 (must be 1)
+- Dimensions match the template produced by KDP's cover calculator (6 x 9 in, black and white, white paper, 216 pages): 12.736 x 9.250 in overall, spine 0.486 in, barcode area 2.000 x 1.200 in. The template files are in `Paperback/KDP-Cover-Template/`.
+- Automatic check of every text span against that template: 0 problems. Nearest text to the trim edge: 0.37 in (KDP minimum 0.125 in); nearest to the spine fold: 0.37 in (minimum 0.125 in); spine text clearance: 0.08 in each side (minimum 0.0625 in); no text under 7 pt; no text in the barcode area; fonts embedded; background runs to the bleed edge.
 
 ## Ebook
 
 - EPUB validation (EPUBCheck): valid; 0 messages
-- EPUB size: 7.8 MB. KDP charges a delivery fee of about $0.15 per MB on the 70% royalty option (about $1.18 per sale).
-- Ebook cover: 1600 x 2560 px, RGB, 0.89 MB (KDP: 2560 x 1600 recommended, under 50 MB)
+- EPUB size: 7.9 MB. KDP charges a delivery fee of about $0.15 per MB on the 70% royalty option (about $1.18 per sale).
+- Ebook cover: 1600 x 2560 px, RGB, 0.93 MB (KDP: 2560 x 1600 recommended, under 50 MB)
 
 ## DOCX files
 

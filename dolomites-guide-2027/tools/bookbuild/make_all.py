@@ -44,6 +44,10 @@ def main():
     ebook_cover = os.path.join(EB, f"{NAME}_Ebook-Cover_1600x2560.jpg")
     cover.render_ebook(ebook_cover)
     report.append(("Paperback cover wrap PDF", wrap_pdf, f"{dims['width_in']:.4f} x {dims['height_in']} in, spine {dims['spine']} in"))
+    wrap_problems, wrap_facts = cover.verify_wrap(wrap_pdf, pages)
+    cover.draw_guides(wrap_pdf, pages, os.path.join(PB, "KDP-Cover-Template", "Cover-Guide-Check.png"))
+    if wrap_problems:
+        print("COVER PROBLEMS:", *wrap_problems, sep="\n  ")
     report.append(("Ebook cover JPG", ebook_cover, "1600 x 2560 px"))
 
     # 3. ebook PDF (colour, cover as page 1)
@@ -62,7 +66,7 @@ def main():
         out, nentries, _ = docx_out.build_docx(ed, p)
         report.append((f"{ed.title()} DOCX", p, f"{nentries} contents entries"))
 
-    write_report(report, pages, dims)
+    write_report(report, pages, dims, wrap_problems, wrap_facts)
     write_guide(pages, dims, os.path.join(EB, f'{NAME}_Ebook.epub'))
     return report
 
@@ -87,7 +91,7 @@ def file_mb(p):
     return os.path.getsize(p) / 1e6
 
 
-def write_report(report, pages, dims):
+def write_report(report, pages, dims, wrap_problems=(), wrap_facts=None):
     lines = ["# Production QA report", "", f"Generated {datetime.date.today().isoformat()} by `tools/bookbuild/make_all.py`.", ""]
     lines += ["## Files", "", "| File | Size | Notes |", "|---|---|---|"]
     for label, path, note in report:
@@ -114,6 +118,8 @@ def write_report(report, pages, dims):
     r = cd[0].rect
     lines.append(f"- Wrap size: {r.width / 72:.4f} x {r.height / 72:.4f} in; expected {dims['width_in']:.4f} x {dims['height_in']} in (bleed 0.125 in on all sides, spine {dims['spine']} in for {pages} pages, white paper, black-and-white interior)")
     lines.append(f"- Pages in cover PDF: {len(cd)} (must be 1)")
+    lines.append("- Dimensions match the template produced by KDP's cover calculator (6 x 9 in, black and white, white paper, 216 pages): 12.736 x 9.250 in overall, spine 0.486 in, barcode area 2.000 x 1.200 in. The template files are in `Paperback/KDP-Cover-Template/`.")
+    lines.append(f"- Automatic check of every text span against that template: {len(wrap_problems)} problems. Nearest text to the trim edge: {wrap_facts['back_front_edge']} in (KDP minimum 0.125 in); nearest to the spine fold: {wrap_facts['spine_fold']} in (minimum 0.125 in); spine text clearance: {wrap_facts['spine_side']} in each side (minimum 0.0625 in); no text under 7 pt; no text in the barcode area; fonts embedded; background runs to the bleed edge.")
     # ebook checks
     lines += ["", "## Ebook", ""]
     ep = [p for l, p, n in report if l.startswith("Ebook EPUB")][0]

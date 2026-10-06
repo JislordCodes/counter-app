@@ -99,13 +99,13 @@ If you ever change the text and the page count changes, rebuild with `python3 -m
 | $14.99 | about $5.40 |
 | $16.99 | about $6.60 |
 
-**Ebook.** The 70% royalty applies to list prices from $2.99 to $9.99. KDP charges a delivery fee of about $0.15 per MB on that option. The EPUB is 7.8 MB, so about $1.18 per sale.
+**Ebook.** The 70% royalty applies to list prices from $2.99 to $9.99. KDP charges a delivery fee of about $0.15 per MB on that option. The EPUB is 7.9 MB, so about $1.18 per sale.
 
 | List price | Royalty per copy |
 |---|---|
-| $6.99 | about $3.72 |
-| $7.99 | about $4.42 |
-| $8.99 | about $5.12 |
+| $6.99 | about $3.71 |
+| $7.99 | about $4.41 |
+| $8.99 | about $5.11 |
 
 ## 5. Before you press Publish
 
