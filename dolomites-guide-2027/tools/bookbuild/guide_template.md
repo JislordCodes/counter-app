@@ -110,7 +110,7 @@ If you ever change the text and the page count changes, rebuild with `python3 -m
 ## 5. Before you press Publish
 
 1. **Read the interior PDF once, start to finish.** It is the file readers will hold.
-2. **AI disclosure.** KDP asks whether the book contains AI-generated content. The text of this book was drafted with AI from researched sources, so answer **Yes** for text and describe it honestly. The photographs are real photographs from Wikimedia Commons; the maps are drawn by software from OpenStreetMap data. You are responsible for the accuracy of what you publish.
+2. **AI disclosure.** KDP asks whether the book contains AI-generated content. The text of this book was drafted with AI from researched sources, so answer **Yes** for text and describe it honestly. The cover artwork you supplied looks AI-generated: if it was made with an AI image tool, answer **Yes** for images too and say it is the cover. The interior photographs are real photographs from Wikimedia Commons; the maps are drawn by software from OpenStreetMap data. You are responsible for the accuracy of what you publish.
 3. **Check the facts flagged in the research notes** (`research/verified-facts-2026.md`, items marked VERIFY): Seceda booking rules, Passo Giau and Lago di Carezza parking, Mobilcard prices, ETIAS start date, rental-car costs and a few lift prices. Rules for 2027 are normally published in spring 2027, so consider a corrected edition then.
 4. **Author note.** The book ends with a short author note that does not claim any trips or experience. Add true personal details if you want them, and delete anything that is not true.
 5. **Order a proof copy** from KDP before publishing. It is sold at printing cost and shows how the photographs print on a black-and-white press.
@@ -121,5 +121,6 @@ If you ever change the text and the page count changes, rebuild with `python3 -m
 
 - **Typesetting.** The PDFs are typeset with Typst. Fonts are EB Garamond (text), Playfair Display (headings) and Source Sans 3 (tables and labels). All three are open-licence fonts and are embedded in the PDFs.
 - **Interior layout.** 6 x 9 in, mirrored margins (inside 0.85 in, outside 0.62 in), justified and hyphenated text, running heads with the chapter title on right-hand pages and the book title on left-hand pages, page numbers on the outer edge, chapters and parts starting on right-hand pages, Roman numerals for the front matter and Arabic numerals from Chapter 1.
-- **Cover.** Live type over a sky gradient and a photograph of the Tre Cime by Pavel Spindler (CC BY 3.0, credited in Appendix F). The back cover leaves the barcode area clear.
+- **Paperback cover.** The wrap uses the front and back artwork supplied by the author, placed on the template geometry from KDP's cover calculator (6 x 9 in, black and white, white paper, {PAGES} pages). The spine lettering is live text. The barcode area is left clear. The template KDP produced is in `Paperback/KDP-Cover-Template/`.
+- **Ebook cover.** A separate design using a photograph of the Tre Cime by Pavel Spindler (CC BY 3.0, credited in Appendix F).
 - **Checks.** Page size, embedded fonts, margins against KDP's minimums, orphaned headings, nearly empty pages, EPUB validity and cover dimensions are in `QA-REPORT.md`.

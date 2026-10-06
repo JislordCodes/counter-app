@@ -7,7 +7,7 @@ Generated 2026-10-06 by `tools/bookbuild/make_all.py`.
 | File | Size | Notes |
 |---|---|---|
 | Paperback/Dolomites-Travel-Guide-2027_Paperback-Interior_6x9.pdf | 25.4 MB | Paperback interior PDF: 216 pages, 6 x 9 in |
-| Paperback/Dolomites-Travel-Guide-2027_Paperback-Cover-Wrap.pdf | 6.2 MB | Paperback cover wrap PDF: 12.7364 x 9.25 in, spine 0.4864 in |
+| Paperback/Dolomites-Travel-Guide-2027_Paperback-Cover-Wrap.pdf | 18.1 MB | Paperback cover wrap PDF: 12.7364 x 9.25 in, spine 0.4864 in |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook-Cover_1600x2560.jpg | 0.9 MB | Ebook cover JPG: 1600 x 2560 px |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook.pdf | 21.9 MB | Ebook PDF: 191 pages |
 | Ebook/Dolomites-Travel-Guide-2027_Ebook.epub | 7.9 MB | Ebook EPUB (upload this to KDP): EPUB 3 |
@@ -29,7 +29,10 @@ Generated 2026-10-06 by `tools/bookbuild/make_all.py`.
 - Wrap size: 12.7364 x 9.2500 in; expected 12.7364 x 9.25 in (bleed 0.125 in on all sides, spine 0.4864 in for 216 pages, white paper, black-and-white interior)
 - Pages in cover PDF: 1 (must be 1)
 - Dimensions match the template produced by KDP's cover calculator (6 x 9 in, black and white, white paper, 216 pages): 12.736 x 9.250 in overall, spine 0.486 in, barcode area 2.000 x 1.200 in. The template files are in `Paperback/KDP-Cover-Template/`.
-- Automatic check of every text span against that template: 0 problems. Nearest text to the trim edge: 0.37 in (KDP minimum 0.125 in); nearest to the spine fold: 0.37 in (minimum 0.125 in); spine text clearance: 0.08 in each side (minimum 0.0625 in); no text under 7 pt; no text in the barcode area; fonts embedded; background runs to the bleed edge.
+- The front and back artwork are the author's supplied images, scaled uniformly (not cropped or stretched) to the 9 in trim height and centred on each 6 in trim box; the leftover margins are filled from the artwork's own edges. KDP's barcode area (x 3.875-5.875 in, y 7.675-8.875 in) holds no lettering; the white placeholder box drawn into the supplied back artwork was painted out so it cannot show beside KDP's own barcode box.
+- Lettering margins measured on the artwork (KDP live area: 0.125 in inside the trim, 0.125 in from the spine fold): back cover left 0.46 in, top 0.28 in, spine side 0.82 in; front cover right 0.19 in, top 0.38 in, bottom 0.45 in, spine side 0.19 in. These are conservative (the detector also catches sunset colours), so the real margins are at least this large.
+- Live spine text checked in the PDF: 0 problems; clearance 0.08 in each side of the lettering (minimum 0.0625 in); no text under 7 pt; fonts embedded; background runs to the bleed edge.
+- Effective resolution of the supplied artwork on the wrap: about 220 dpi (front 1250 x 2000 px and back 992 x 1585 px over 9 in). KDP asks for 300 dpi; the PDF is built at 300 dpi but the pictures are enlarged, so fine detail will print a little soft. A 2400 x 3840 px (or larger) version of each cover would fix that.
 
 ## Ebook
 

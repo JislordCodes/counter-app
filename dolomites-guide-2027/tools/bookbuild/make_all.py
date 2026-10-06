@@ -8,7 +8,7 @@ import datetime, os, shutil, sys, zipfile
 
 import pymupdf
 
-from . import build, cover, docx_out, epub, qa, shrink
+from . import build, cover, cover_art, docx_out, epub, qa, shrink
 from .core import ROOT, load_book
 
 NAME = "Dolomites-Travel-Guide-2027"
@@ -40,11 +40,12 @@ def main():
 
     # 2. covers (need the page count)
     wrap_pdf = os.path.join(PB, f"{NAME}_Paperback-Cover-Wrap.pdf")
-    dims = cover.render_print(pages, wrap_pdf, os.path.join(cover.IMG, "preview"))
+    dims = cover_art.render_print(pages, wrap_pdf, os.path.join(cover.IMG, "preview"))
     ebook_cover = os.path.join(EB, f"{NAME}_Ebook-Cover_1600x2560.jpg")
     cover.render_ebook(ebook_cover)
     report.append(("Paperback cover wrap PDF", wrap_pdf, f"{dims['width_in']:.4f} x {dims['height_in']} in, spine {dims['spine']} in"))
     wrap_problems, wrap_facts = cover.verify_wrap(wrap_pdf, pages)
+    wrap_facts["art"] = cover_art.art_margins(dims)
     cover.draw_guides(wrap_pdf, pages, os.path.join(PB, "KDP-Cover-Template", "Cover-Guide-Check.png"))
     if wrap_problems:
         print("COVER PROBLEMS:", *wrap_problems, sep="\n  ")
@@ -119,7 +120,11 @@ def write_report(report, pages, dims, wrap_problems=(), wrap_facts=None):
     lines.append(f"- Wrap size: {r.width / 72:.4f} x {r.height / 72:.4f} in; expected {dims['width_in']:.4f} x {dims['height_in']} in (bleed 0.125 in on all sides, spine {dims['spine']} in for {pages} pages, white paper, black-and-white interior)")
     lines.append(f"- Pages in cover PDF: {len(cd)} (must be 1)")
     lines.append("- Dimensions match the template produced by KDP's cover calculator (6 x 9 in, black and white, white paper, 216 pages): 12.736 x 9.250 in overall, spine 0.486 in, barcode area 2.000 x 1.200 in. The template files are in `Paperback/KDP-Cover-Template/`.")
-    lines.append(f"- Automatic check of every text span against that template: {len(wrap_problems)} problems. Nearest text to the trim edge: {wrap_facts['back_front_edge']} in (KDP minimum 0.125 in); nearest to the spine fold: {wrap_facts['spine_fold']} in (minimum 0.125 in); spine text clearance: {wrap_facts['spine_side']} in each side (minimum 0.0625 in); no text under 7 pt; no text in the barcode area; fonts embedded; background runs to the bleed edge.")
+    a = wrap_facts["art"]
+    lines.append(f"- The front and back artwork are the author's supplied images, scaled uniformly (not cropped or stretched) to the 9 in trim height and centred on each 6 in trim box; the leftover margins are filled from the artwork's own edges. KDP's barcode area (x 3.875-5.875 in, y 7.675-8.875 in) holds no lettering; the white placeholder box drawn into the supplied back artwork was painted out so it cannot show beside KDP's own barcode box.")
+    lines.append(f"- Lettering margins measured on the artwork (KDP live area: 0.125 in inside the trim, 0.125 in from the spine fold): back cover left {a['back_left']:.2f} in, top {a['back_top']:.2f} in, spine side {a['back_fold']:.2f} in; front cover right {a['front_right']:.2f} in, top {a['front_top']:.2f} in, bottom {a['front_bottom']:.2f} in, spine side {a['front_fold']:.2f} in. These are conservative (the detector also catches sunset colours), so the real margins are at least this large.")
+    lines.append(f"- Live spine text checked in the PDF: {len(wrap_problems)} problems; clearance {wrap_facts['spine_side']} in each side of the lettering (minimum 0.0625 in); no text under 7 pt; fonts embedded; background runs to the bleed edge.")
+    lines.append("- Effective resolution of the supplied artwork on the wrap: about 220 dpi (front 1250 x 2000 px and back 992 x 1585 px over 9 in). KDP asks for 300 dpi; the PDF is built at 300 dpi but the pictures are enlarged, so fine detail will print a little soft. A 2400 x 3840 px (or larger) version of each cover would fix that.")
     # ebook checks
     lines += ["", "## Ebook", ""]
     ep = [p for l, p, n in report if l.startswith("Ebook EPUB")][0]

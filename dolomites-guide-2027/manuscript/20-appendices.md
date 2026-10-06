@@ -330,7 +330,7 @@ Italy has no general freedom-of-panorama rule for modern buildings and artworks,
 
 **Figure 19.2.** "Aiut Alpin Dolomites.jpg", by Ladislav Luppa. Wikimedia Commons. CC BY-SA 3.0. Cropped and converted to greyscale for print; adaptation shared under the same licence.
 
-**Front cover.** "Tre Cime di Lavaredo - panoramio (2).jpg", by Pavel Špindler. Wikimedia Commons. CC BY 3.0 (creativecommons.org/licenses/by/3.0). Cropped, colour-adjusted and combined with a sky gradient and title text for the cover.
+**Ebook front cover.** "Tre Cime di Lavaredo - panoramio (2).jpg", by Pavel Špindler. Wikimedia Commons. CC BY 3.0 (creativecommons.org/licenses/by/3.0). Cropped, colour-adjusted and combined with a sky gradient and title text for the cover.
 
 ---
 
